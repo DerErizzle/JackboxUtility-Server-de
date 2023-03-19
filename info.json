@@ -1,7 +1,7 @@
 {
-    "id":"jackbox-fr",
-    "name":"Jackbox France",
-    "description":"Le serveur d'installation de patch pour la communauté française !",
+    "id":"jackbox-de",
+    "name":"Jackbox Deutsch",
+    "description":"Der Patch-Installationsserver für die deutsche Community!",
     "image":"https://games.jbfr.fr/assets/news_images/logo.png",
 
     "urls":[
