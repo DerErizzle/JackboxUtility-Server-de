@@ -7,8 +7,8 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://games.jbfr.fr/api/v2",
-            "assets":"https://games.jbfr.fr/assets"
+            "api":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets"
         }
     ]
 }
