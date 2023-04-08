@@ -41,6 +41,10 @@
                 "mac": "The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
                 "linux": "Launcher.sh"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
+            },
             "games": [
                 {
                     "id": "ydkj2015",
@@ -188,6 +192,10 @@
                 "windows": "The Jackbox Party Pack 2.exe",
                 "mac": "The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
                 "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -342,6 +350,10 @@
                 "windows": "The Jackbox Party Pack 3.exe",
                 "mac": "The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
                 "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -498,6 +510,10 @@
                 "windows": "The Jackbox Party Pack 4.exe",
                 "mac": "The Jackbox Party Pack 4.app/Contents/MacOS/The Jackbox Party Pack 4",
                 "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -657,6 +673,10 @@
             "loader": {
                 "path": "loaders/tjpp5/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -836,6 +856,10 @@
             "loader": {
                 "path": "loaders/tjpp6/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -1020,6 +1044,10 @@
                 "path": "loaders/tjpp7/default.zip",
                 "version": "1.0.0"
             },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
+            },
             "games": [
                 {
                     "id": "champdup",
@@ -1200,6 +1228,10 @@
             "loader": {
                 "path": "loaders/tjpp8/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
@@ -1382,6 +1414,97 @@
                 "path": "loaders/tjpp9/default.zip",
                 "version": "1.0.0"
             },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion"
+            },
+            "patchs": [
+                {
+                    "id": "jpp9_de",
+                    "name": "Jackbox Party Pack 9 DE",
+                    "small_description": "Lade dir die deutsche Übersetzung herunter!",
+                    "description": "Lade dir mit diesem Patch die deutsche Übersetzung herunter!",
+                    "version": "Build:  653.0-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip",
+                    "components": [
+                        {
+                            "id": "fibbage4_patch",
+                            "linked_game": "fibbage4",
+                            "name": "Fibbage4 DE",
+                            "description": "Fibbage4 auf DE",
+                            "authors": "Jackbox Games",
+                            "small_description": "Fibbage 4 auf Deutsch",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "roomerang_patch",
+                            "linked_game": "roomerang",
+                            "name": "Roomerang DE",
+                            "description": "Rommerang auf DE",
+                            "authors": "Jackbox Games",
+                            "small_description": "Roomerang auf Deutsch",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "junktopia_patch",
+                            "linked_game": "junktopia",
+                            "name": "Junktopia DE",
+                            "description": "Junktopia auf DE",
+                            "authors": "Jackbox Games",
+                            "small_description": "Junktopia auf Deutsch",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "nonsensory_patch",
+                            "linked_game": "nonsensory",
+                            "name": "Nonsensory DE",
+                            "description": "Nonsensory auf DE",
+                            "authors": "Jackbox Games",
+                            "small_description": "Nonsensory auf Deutsch",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "quixort_patch",
+                            "linked_game": "quixort",
+                            "name": "Quixort DE",
+                            "description": "Quixort auf DE",
+                            "authors": "Jackbox Games",
+                            "small_description": "Quixort auf Deutsch",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "fibbage4",
@@ -1395,7 +1518,7 @@
                         },
                         "length": "20 Minuten",
                         "type": "VERSUS",
-                        "translation": "GERMAN",
+                        "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Lüge deine Freunde an!",
                         "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
                         "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
@@ -1427,7 +1550,7 @@
                         },
                         "length": "25 - 35 Minuten",
                         "type": "VERSUS",
-                        "translation": "GERMAN",
+                        "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Möchtest du Freunde finden oder gewinnen?",
                         "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
                         "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
@@ -1459,7 +1582,7 @@
                         },
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
-                        "translation": "GERMAN",
+                        "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Verkaufe alte Gegenstände!",
                         "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
                         "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
@@ -1491,7 +1614,7 @@
                         },
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
-                        "translation": "GERMAN",
+                        "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Teste deine telepathischen Fähigkeiten!",
                         "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
                         "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
@@ -1524,7 +1647,7 @@
                         },
                         "length": "15 - 20 Minuten",
                         "type": "TEAM",
-                        "translation": "GERMAN",
+                        "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Sortiere alle Blöcke!",
                         "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
                         "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
@@ -1561,6 +1684,10 @@
             "loader": {
                 "path": "loaders/tjpstarter/default.zip",
                 "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "config.jet",
+                "version_property": "buildVersion"
             },
             "games": [
                 {
