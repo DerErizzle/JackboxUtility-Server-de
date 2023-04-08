@@ -1764,10 +1764,9 @@
                         "small_description": "Antworte auf die Prompts und bringe Deine Freunde zum Lachen ... hoffentlich.",
                         "description": "Die Spieler treten in einem Kopf-an-Kopf-Kampf an, indem sie auf eine witzige Frage antworten und die anderen Spieler (und das Publikum) entscheiden lassen, welche Antwort ihnen am besten gefiel!\n\nDas war alles? Ähm, nein.\n\nQuiplash 3 verfügt jetzt über eine Moderationsfunktion, mit der Antworten angezeigt werden können, bevor sie auf dem Bildschirm erscheinen. Darüber hinaus ermöglicht eine neue Filteroption, obszöne und Hass-Äußerungen zu blockieren, bevor sie die Moderation überhaupt erreichen.\n\nAber das war es, oder?\n\nDanke der Nachfrage, aber nein! Quiplash 3 hat eine neue Endrunde - Thriplash, in der die Spieler aufgefordert werden, drei Antworten einzugeben, und die dreifache Chance haben, witzig zu sein!\n\nUrsprünglich gehörte Quiplash 3 zu The Jackbox Party Pack 7 und wurde in The Party Starter vollständig mit neuen Funktionen und Übersetzungen in Französisch, Italienisch, Deutsch und Spanisch überarbeitet!",
                         "images": [
-                            "game_images/Quiplash3/quiplash3_1.webp",
-                            "game_images/Quiplash3/quiplash3_2.webp",
-                            "game_images/Quiplash3/quiplash3_3.webp",
-                            "game_images/Quiplash3/quiplash3_4.webp"
+                            "game_images/Quiplash3/quiplash3_1.jpg",
+                            "game_images/Quiplash3/quiplash3_2.jpg",
+                            "game_images/Quiplash3/quiplash3_3.jpg"
                         ],
                         "tags": [
                             "writing"
@@ -1796,10 +1795,10 @@
                         "small_description": "Zeichne, schreibe einen Slogan und erstelle dann Deinen eigenen T-Shirt-Krieger.",
                         "description": "In Tee K.O. spielt man gegen die Zeit, erstellt Zeichnungen und schreibt so viele Slogans wie möglich. Die Bilder und Slogans werden dann zufällig verteilt. Wer seine Zeichnungen und Slogans zum besten T-Shirt kombiniert, gewinnt, denn die Designs treten in Kopf-an-Kopf-Kämpfen gegeneinander an. Die T-Shirts mit den meisten Stimmen in jeder Runde müssen den finalen Spießrutenlauf überstehen, um die Besten zu werden. Tee … K.O. Kapiert?\n\nDer vielleicht beliebteste Teil von Tee K.O. ist, dass Du Deine albernen und großartigen Kreationen Wirklichkeit werden lassen und Versionen Deiner T-Shirts kaufen kannst. Klicke einfach am Ende des Spiels auf die Galerie-Schaltfläche oder sieh Dir vorherige Galerien auf Jackbox.tv an.\n\nUrsprünglich gehörte Tee K.O. zu The Jackbox Party Pack 3 und wurde vollständig mit neuen Funktionen und Übersetzungen in Französisch, Italienisch, Deutsch und Spanisch überarbeitet!\n\nWir haben das Teilen von T-Shirts auf Facebook und Twitter vereinfacht. Markiere unbedingt @jackboxgames, um uns Deine Kreationen zu zeigen! Aus irgendeinem Grund gibt es viele T-Shirts mit Hotdogs …",
                         "images": [
-                            "game_images/TeeKO/teeko_1.webp",
-                            "game_images/TeeKO/teeko_2.webp",
-                            "game_images/TeeKO/teeko_3.webp",
-                            "game_images/TeeKO/teeko_4.webp"
+                            "game_images/TeeKO/teeko_1.jpg",
+                            "game_images/TeeKO/teeko_2.jpg",
+                            "game_images/TeeKO/teeko_3.jpg",
+                            "game_images/TeeKO/teeko_4.jpg"
                         ],
                         "tags": [
                             "writing",
@@ -1829,10 +1828,10 @@
                         "small_description": "Ein absurdes Ratespiel aus dem familienbetriebenen Murder Hotel.",
                         "description": "Der Gastgeber des Serienmörders ist nach den Ereignissen der ersten Trivia Murder Party immer noch auf der Flucht vor der Polizei und lebt im Murder Hotel, in dem er aufgewachsen ist. Damals tötete seine Familie ahnungslose Gäste im Hotel, aber jetzt nutzt der Gastgeber das Hotel, um eine bizarre Spielshow zu veranstalten … bei der er ahnungslose Gäste tötet.\n\nWie bei der ersten Trivia Murder Party beantworten die Spieler Quizfragen - und wer eine falsche Antwort gibt, wird zum „Killing Floor“ geschickt, um Minispiele zu spielen, die tödlich sein können. Zu den neuen Minispielen gehören das Ausweichen von Schwertern, die in die Kiste eines Zauberers gestoßen werden, Tätowieren des Rückens des Mörders und das Schrecklichste von allem … die Verwendung eines Telefons mit Wählscheibe!\n\nTrivia Murder Party 2 steckt voller neuer Überraschungen. Kannst Du das Spiel mit einer um Deinen Körper geschnallten Bombe beenden? Was tust du, wenn du einen der anderen Spieler verfolgst? Wäre es seltsam, wenn der Mörder Dich für seine Mutter halten würde?\n\nUrsprünglich gehörte Trivia Murder Party 2 zu The Jackbox Party Pack 6 und wurde vollständig mit neuen Funktionen und Übersetzungen in Französisch, Italienisch, Deutsch und Spanisch überarbeitet!",
                         "images": [
-                            "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_3.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_4.webp"
+                            "game_images/TriviaMurderParty2/triviamurderparty2_1.jpg",
+                            "game_images/TriviaMurderParty2/triviamurderparty2_2.jpg",
+                            "game_images/TriviaMurderParty2/triviamurderparty2_3.jpg",
+                            "game_images/TriviaMurderParty2/triviamurderparty2_4.jpg"
                         ],
                         "tags": [
                             "knowledge",
