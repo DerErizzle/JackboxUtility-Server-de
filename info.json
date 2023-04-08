@@ -1,8 +1,8 @@
 {
     "id":"jackbox-de",
-    "name":"Jackbox Deutsch",
+    "name":"Jackbox auf Deutsch",
     "description":"Der Patch-Installationsserver für die deutsche Community!",
-    "image":"https://games.jbfr.fr/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets/news_images/logo-de.png",
 
     "urls":[
         {
