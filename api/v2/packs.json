@@ -219,7 +219,7 @@
                             "game_images/BombCorp/bombcorp_4.webp"
                         ],
                         "tags": [
-                            "talking"
+                            "deduction"
                         ]
                     },
                     "background": "game_backgrounds/BombCorp.webp",
@@ -332,8 +332,7 @@
                             "game_images/Bidiots/bidiots_4.webp"
                         ],
                         "tags": [
-                            "drawing",
-                            "deduction"
+                            "drawing"
                         ]
                     },
                     "patchs": []
@@ -379,8 +378,7 @@
                             "game_images/FakinIt/fakinit_4.webp"
                         ],
                         "tags": [
-                            "deduction",
-                            "talking"
+                            "deduction"
                         ]
                     },
                     "patchs": []
@@ -766,7 +764,7 @@
                             "game_images/ZeepleDome/zeepledome_4.webp"
                         ],
                         "tags": [
-                            "writing"
+                            "deduction"
                         ]
                     },
                     "loader": {
@@ -830,8 +828,8 @@
                             "game_images/PatentlyStupid/patentlystupid_4.webp"
                         ],
                         "tags": [
-                            "talking",
-                            "writing"
+                            "writing",
+                            "talking"
                         ]
                     },
                     "loader": {
@@ -885,9 +883,7 @@
                             "game_images/TriviaMurderParty2/triviamurderparty2_4.webp"
                         ],
                         "tags": [
-                            "knowledge",
-                            "writing",
-                            "drawing"
+                            "knowledge"
                         ]
                     },
                     "loader": {
@@ -1015,10 +1011,10 @@
                             "game_images/PushTheButton/pushthebutton_4.webp"
                         ],
                         "tags": [
+                            "deduction",
                             "talking",
                             "writing",
-                            "drawing",
-                            "deduction"
+                            "drawing"
                         ]
                     },
                     "loader": {
@@ -1105,8 +1101,7 @@
                             "game_images/TalkingPoints/talkingpoints_4.webp"
                         ],
                         "tags": [
-                            "talking",
-                            "writing"
+                            "talking"
                         ]
                     },
                     "loader": {
@@ -1138,8 +1133,7 @@
                             "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_4.webp"
                         ],
                         "tags": [
-                            "talking",
-                            "writing"
+                            "deduction"
                         ]
                     },
                     "loader": {
@@ -1376,7 +1370,7 @@
                             "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_4.webp"
                         ],
                         "tags": [
-                            "drawing"
+                            "knowledge"
                         ]
                     },
                     "loader": {
@@ -1440,8 +1434,7 @@
                             "game_images/PollMine/pollmine_4.webp"
                         ],
                         "tags": [
-                            "talking",
-                            "writing"
+                            "deduction"
                         ]
                     },
                     "loader": {
@@ -1473,9 +1466,8 @@
                             "game_images/WeaponsDrawn/weaponsdrawn_4.webp"
                         ],
                         "tags": [
-                            "talking",
-                            "drawing",
-                            "writing"
+                            "deduction",
+                            "drawing"
                         ]
                     },
                     "loader": {
@@ -1616,7 +1608,8 @@
                             "game_images/Fibbage4/fibbage4_4.jpg"
                         ],
                         "tags": [
-                            "writing"
+                            "writing",
+                            "knowledge"
                         ]
                     },
                     "loader": {
@@ -1680,7 +1673,8 @@
                             "game_images/Junktopia/junktopia_3.jpg"
                         ],
                         "tags": [
-                            "writing"
+                            "writing",
+                            "talking"
                         ]
                     },
                     "loader": {
@@ -1748,8 +1742,8 @@
                             "game_images/Quixort/quixort_6.jpg"
                         ],
                         "tags": [
-                            "talking",
-                            "knowledge"
+                            "knowledge",
+                            "deduction"
                         ]
                     },
                     "loader": {
@@ -1891,8 +1885,8 @@
                             "game_images/TeeKO/teeko_4.jpg"
                         ],
                         "tags": [
-                            "writing",
-                            "drawing"
+                            "drawing",
+                            "writing"
                         ]
                     },
                     "loader": {
@@ -1924,9 +1918,7 @@
                             "game_images/TriviaMurderParty2/triviamurderparty2_4.jpg"
                         ],
                         "tags": [
-                            "knowledge",
-                            "writing",
-                            "drawing"
+                            "knowledge"
                         ]
                     },
                     "loader": {

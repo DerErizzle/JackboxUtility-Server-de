@@ -1,14 +1,16 @@
 {
-    "id":"jackbox-de",
-    "name":"Jackbox auf Deutsch",
-    "description":"Der Patch-Installationsserver für die deutsche Community!",
-    "image":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets/news_images/logo-de.png",
-
-    "urls":[
+    "id": "jackbox-de",
+    "name": "Jackbox auf Deutsch",
+    "description": "Der Patch-Installationsserver für die deutsche Community!",
+    "image": "https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets/news_images/logo-de.png",
+    "urls": [
         {
-            "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets"
+            "versions": [
+                "1.0.0"
+            ],
+            "api": "https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/api/v2/",
+            "assets": "https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets"
         }
-    ]
+    ],
+    "controller": "jackbox.gg"
 }
