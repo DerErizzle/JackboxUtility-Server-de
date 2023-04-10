@@ -36,6 +36,10 @@
             "id": "jpp1",
             "name": "Jackbox Party Pack 1",
             "description": "Das erste Jackbox Party Pack",
+            "launchers_id":{
+                "steam":"331670",
+                "epic":"Feverfew"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 1.exe",
                 "mac": "The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
@@ -188,6 +192,10 @@
             "id": "jpp2",
             "name": "Jackbox Party Pack 2",
             "description": "Das zweite Jackbox Party Pack",
+            "launchers_id":{
+                "steam":"397460",
+                "epic":"Lilac"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 2.exe",
                 "mac": "The Jackbox Party Pack 2.app/Contents/MacOS/The Jackbox Party Pack 2",
@@ -345,6 +353,10 @@
             "id": "jpp3",
             "name": "Jackbox Party Pack 3",
             "description": "Das dritte Jackbox Party Pack",
+            "launchers_id":{
+                "steam":"434170",
+                "epic":"Orchid"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 3.exe",
                 "mac": "The Jackbox Party Pack 3.app/Contents/MacOS/The Jackbox Party Pack 3",
@@ -504,6 +516,10 @@
             "id": "jpp4",
             "name": "Jackbox Party Pack 4",
             "description": "Das vierte Jackbox Party Pack",
+            "launchers_id":{
+                "steam":"610180",
+                "epic":"Snowdrop"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 4.exe",
                 "mac": "The Jackbox Party Pack 4.app/Contents/MacOS/The Jackbox Party Pack 4",
@@ -662,7 +678,11 @@
         {
             "id": "jpp5",
             "name": "Jackbox Party Pack 5",
-            "description": "Das fünfte Jackbox Party Pack",
+            "description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
+            "launchers_id":{
+                "steam":"774461",
+                "epic":"Geranium"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 5.exe",
                 "mac": "The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
@@ -676,6 +696,93 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp5_de",
+                    "name": "Das Jackbox Party Pack 5",
+                    "small_description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
+                    "description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
+                    "version": "Build: 213.17-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
+                    "components": [
+                        {
+                            "id": "ydkj_fullstream_patch",
+                            "linked_game": "ydkj_fullstream",
+                            "name": "YDKJ: Full Stream",
+                            "description": "Noch keine Übersetzung.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Noch keine Übersetzung.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "mad_verse_city_patch",
+                            "linked_game": "mad_verse_city",
+                            "name": "Mad Verse City",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "zeeple_dome_patch",
+                            "linked_game": "zeeple_dome",
+                            "name": "Zeeple Dome",
+                            "description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "splittheroom_patch",
+                            "linked_game": "splittheroom",
+                            "name": "Split The Room",
+                            "description": "Prompts auf Deutsch. Sprachausgabe zum Teil auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe zum Teil auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "patentlystupid_patch",
+                            "linked_game": "patentlystupid",
+                            "name": "Patently Stupid",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "ydkj_fullstream",
@@ -690,9 +797,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Das Quiz kehrt erneut zurück!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
+                        "small_description": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
+                        "description": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
                         "images": [
                             "game_images/YDKJFullStream/ydkjfullstream_1.webp",
                             "game_images/YDKJFullStream/ydkjfullstream_2.webp",
@@ -722,9 +829,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Es ist Zeit zu reimen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das Roboter Rap-Battle beginnt! Feuer fette Rhymes und fette Beats gegen deine Freunde, um zu sehen, wer der heftigste MC in der Hood ist.",
+                        "small_description": "Das Roboter Rap-Battle beginnt! Feuer fette Rhymes und fette Beats gegen deine Freunde, um zu sehen, wer der heftigste MC in der Hood ist.",
+                        "description": "Das Roboter Rap-Battle beginnt! Feuer fette Rhymes und fette Beats gegen deine Freunde, um zu sehen, wer der heftigste MC in der Hood ist.",
                         "images": [
                             "game_images/MadVerseCity/madversecity_1.webp",
                             "game_images/MadVerseCity/madversecity_2.webp",
@@ -754,9 +861,9 @@
                         "length": "10 Minuten oder mehr",
                         "type": "COOP",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Katapultiere dich ins Spiel!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Die tödlichste Spielshow der Galaxie! Schleudert euch rein und gewinnt tolle Preise!",
+                        "small_description": "Die tödlichste Spielshow der Galaxie! Schleudert euch rein und gewinnt tolle Preise!",
+                        "description": "Die tödlichste Spielshow der Galaxie! Schleudert euch rein und gewinnt tolle Preise!",
                         "images": [
                             "game_images/ZeepleDome/zeepledome_1.webp",
                             "game_images/ZeepleDome/zeepledome_2.webp",
@@ -786,9 +893,9 @@
                         "length": "15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Spalte die Meinungen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das Was-wäre-wenn-Spiel, bei dem alles möglich ist! Erstelle kuriose, hypothetische Situationen und spalte die Meinungen im Raum.",
+                        "small_description": "Das Was-wäre-wenn-Spiel, bei dem alles möglich ist! Erstelle kuriose, hypothetische Situationen und spalte die Meinungen im Raum.",
+                        "description": "Das Was-wäre-wenn-Spiel, bei dem alles möglich ist! Erstelle kuriose, hypothetische Situationen und spalte die Meinungen im Raum.",
                         "images": [
                             "game_images/SplitTheRoom/splittheroom_1.webp",
                             "game_images/SplitTheRoom/splittheroom_2.webp",
@@ -818,9 +925,9 @@
                         "length": "20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Löse Probleme mithilfe deiner Erfindungen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Sei kreativ und denke dir Lösungen zu irren Problemen aus! Hype anschließend deine Erfindung in’s unermessliche!",
+                        "small_description": "Sei kreativ und denke dir Lösungen zu irren Problemen aus! Hype anschließend deine Erfindung in’s unermessliche!",
+                        "description": "Sei kreativ und denke dir Lösungen zu irren Problemen aus! Hype anschließend deine Erfindung in’s unermessliche!",
                         "images": [
                             "game_images/PatentlyStupid/patentlystupid_1.webp",
                             "game_images/PatentlyStupid/patentlystupid_2.webp",
@@ -845,7 +952,11 @@
         {
             "id": "jpp6",
             "name": "Jackbox Party Pack 6",
-            "description": "Das sechste Jackbox Party Pack",
+            "description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
+            "launchers_id":{
+                "steam":"1005300",
+                "epic":"Astrapia"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 6.exe",
                 "mac": "The Jackbox Party Pack 6.app/Contents/MacOS/The Jackbox Party Pack 6",
@@ -859,6 +970,93 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp6_de",
+                    "name": "Das Jackbox Party Pack 6",
+                    "small_description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
+                    "description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
+                    "version": "Build: 456.30-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
+                    "components": [
+                        {
+                            "id": "trivia_murder_party_2_patch",
+                            "linked_game": "trivia_murder_party_2",
+                            "name": "Trivia Murder Party 2",
+                            "description": "Englisch. Für die deutsche Version wird der Jackbox Party Starter (separat erhältlich) benötigt.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Englisch. Für die deutsche Version wird der Jackbox Party Starter (separat erhältlich) benötigt.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "role_models_patch",
+                            "linked_game": "role_models",
+                            "name": "Role Models",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "jokeboat_patch",
+                            "linked_game": "jokeboat",
+                            "name": "Joke Boat",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "dictionarium_patch",
+                            "linked_game": "dictionarium",
+                            "name": "Dictionarium",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "pushthebutton_patch",
+                            "linked_game": "pushthebutton",
+                            "name": "Drück den Knopf",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "trivia_murder_party_2",
@@ -873,9 +1071,9 @@
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Wirst du lebendig aus dem Quiz-Hotel entkommen?",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
+                        "small_description": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
+                        "description": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
                         "images": [
                             "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
                             "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
@@ -905,9 +1103,9 @@
                         "length": "15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Jeder ist jemand. Wer bist du?",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Jeder ist jemand, also wer bist du? Der Macher? Die Planerin? Der Schüchterne? Betretet das Labor und findet Antwort auf (fast) alle eurer Fragen!",
+                        "small_description": "Jeder ist jemand, also wer bist du? Der Macher? Die Planerin? Der Schüchterne? Betretet das Labor und findet Antwort auf (fast) alle eurer Fragen!",
+                        "description": "Jeder ist jemand, also wer bist du? Der Macher? Die Planerin? Der Schüchterne? Betretet das Labor und findet Antwort auf (fast) alle eurer Fragen!",
                         "images": [
                             "game_images/RoleModels/rolemodels_1.webp",
                             "game_images/RoleModels/rolemodels_2.webp",
@@ -937,9 +1135,9 @@
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Bring deine Freunde mit deinen Witzen zum Lachen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Ihr seid Amateur-Komiker auf einem viertklassigen Kreuzfahrtschiff und versucht eine Talentshow zu gewinnen. Aber bloß nicht seekrank werden!",
+                        "small_description": "Ihr seid Amateur-Komiker auf einem viertklassigen Kreuzfahrtschiff und versucht eine Talentshow zu gewinnen. Aber bloß nicht seekrank werden!",
+                        "description": "Ihr seid Amateur-Komiker auf einem viertklassigen Kreuzfahrtschiff und versucht eine Talentshow zu gewinnen. Aber bloß nicht seekrank werden!",
                         "images": [
                             "game_images/JokeBoat/jokeboat_1.webp",
                             "game_images/JokeBoat/jokeboat_2.webp",
@@ -969,9 +1167,9 @@
                         "length": "10 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Erfinde neue Wörter!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Seit Jahrhunderten erschaffen Menschen neue Wörter und Sätze. Jetzt dürft ihr euren Teil zum Wörterbuch beitragen!",
+                        "small_description": "Seit Jahrhunderten erschaffen Menschen neue Wörter und Sätze. Jetzt dürft ihr euren Teil zum Wörterbuch beitragen!",
+                        "description": "Seit Jahrhunderten erschaffen Menschen neue Wörter und Sätze. Jetzt dürft ihr euren Teil zum Wörterbuch beitragen!",
                         "images": [
                             "game_images/Dictionarium/dictionarium_1.webp",
                             "game_images/Dictionarium/dictionarium_2.webp",
@@ -1001,9 +1199,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "TEAM",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Entlarve die Aliens!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Als Menschen getarnte Außerirdische haben euer Raumschiff infiltriert. Findet ihr sie, bevor alles zu spät ist?",
+                        "small_description": "Als Menschen getarnte Außerirdische haben euer Raumschiff infiltriert. Findet ihr sie, bevor alles zu spät ist?",
+                        "description": "Als Menschen getarnte Außerirdische haben euer Raumschiff infiltriert. Findet ihr sie, bevor alles zu spät ist?",
                         "images": [
                             "game_images/PushTheButton/pushthebutton_1.webp",
                             "game_images/PushTheButton/pushthebutton_2.webp",
@@ -1030,7 +1228,11 @@
         {
             "id": "jpp7",
             "name": "Jackbox Party Pack 7",
-            "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round. Benutzt Handys oder Tablets als Controller. Spielt mit bis zu 8 Spielern und einem Publikum von bis zu 10.000!",
+            "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
+            "launchers_id":{
+                "steam":"1211630",
+                "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 7.exe",
                 "mac": "The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
@@ -1049,7 +1251,7 @@
                     "id": "jpp7_de",
                     "name": "Das Jackbox Party Pack 7",
                     "small_description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
-                    "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round. Benutzt Handys oder Tablets als Controller. Spielt mit bis zu 8 Spielern und einem Publikum von bis zu 10.000!",
+                    "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
                     "version": "Build: 561.15-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
                     "components": [
@@ -1301,6 +1503,10 @@
             "id": "jpp8",
             "name": "Jackbox Party Pack 8",
             "description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
+            "launchers_id":{
+                "steam":"1552350",
+                "epic":"67003fc4eaa444608acf083a08dc907e"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 8.exe",
                 "mac": "The Jackbox Party Pack 8.app/Contents/MacOS/The Jackbox Party Pack 8",
@@ -1388,7 +1594,7 @@
                             "linked_game": "weaponsdrawn",
                             "name": "Weapons Drawn",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1571,6 +1777,10 @@
             "id": "jpp9",
             "name": "Jackbox Party Pack 9",
             "description": "Rettet eure nächste Party! 5 neue Spiele - ein Party Pack: Trivia-Bluff-Off Fibbage 4, Team-Test Quixort, Scherz-Auktion Junktopia, das alberne Ratefest Nonsensory und Reality-TV-Spiel Roomerang.",
+            "launchers_id":{
+                "steam":"1850960",
+                "epic":"ec6f77d356b247dc8d210850de8a3e2f"
+            },
             "executables": {
                 "windows": "The Jackbox Party Pack 9.exe",
                 "mac": "The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
@@ -1847,6 +2057,9 @@
             "id": "jpstarter",
             "name": "Jackbox Party Starter",
             "description": "Dein nächster Spieleabend ist mit The Jackbox Party Starter geplant! Mit neuen Updates für Quiplash 3, Trivia Murder Party 2 und Tee K.O.! Wir sorgen bei Deiner nächsten Veranstaltung mit The Jackbox Party Starter für Partystimmung!",
+            "launchers_id":{
+                "steam":"1755580"
+            },
             "executables": {
                 "windows": "The Jackbox Party Starter.exe",
                 "mac": "The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
