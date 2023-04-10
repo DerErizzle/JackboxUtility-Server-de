@@ -702,7 +702,7 @@
                     "name": "Das Jackbox Party Pack 5",
                     "small_description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
                     "description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
-                    "version": "Build: 213.17-DE",
+                    "version": "Build:  213.17-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
                     "components": [
                         {
@@ -976,7 +976,7 @@
                     "name": "Das Jackbox Party Pack 6",
                     "small_description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
                     "description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
-                    "version": "Build: 456.30-DE",
+                    "version": "Build:  456.30-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
                     "components": [
                         {
@@ -1252,7 +1252,7 @@
                     "name": "Das Jackbox Party Pack 7",
                     "small_description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
                     "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
-                    "version": "Build: 561.15-DE",
+                    "version": "561.15-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
                     "components": [
                         {
@@ -1526,7 +1526,7 @@
                     "name": "Das Jackbox Party Pack 8",
                     "small_description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
                     "description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
-                    "version": "Build: 437.27-DE",
+                    "version": "437.27-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.zip",
                     "components": [
                         {
@@ -1800,7 +1800,7 @@
                     "name": "Das Jackbox Party Pack 9",
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "version": "Build: 653.0-DE",
+                    "version": "653.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip",
                     "components": [
                         {
@@ -2079,7 +2079,7 @@
                     "name": "Jackbox Party Starter",
                     "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "version": "Build: 216.0-DE",
+                    "version": "216.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.zip",
                     "components": [
                         {
