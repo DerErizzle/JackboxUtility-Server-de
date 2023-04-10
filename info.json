@@ -12,5 +12,6 @@
             "assets": "https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets"
         }
     ],
-    "controller": "jackbox.gg"
+    "controller": "jackbox.gg",
+    "languages":["de"]
 }
