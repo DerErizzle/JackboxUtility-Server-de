@@ -53,8 +53,8 @@
                 {
                     "id": "jpp1_de",
                     "name": "Das Jackbox Party Pack",
-                    "small_description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
-                    "description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
+                    "small_description": "",
+                    "description": "",
                     "version": "Build:  20.12-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
                     "components": [
@@ -296,8 +296,8 @@
                 {
                     "id": "jpp2_de",
                     "name": "Das Jackbox Party Pack 2",
-                    "small_description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
-                    "description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
+                    "small_description": "",
+                    "description": "",
                     "version": "74.2-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
                     "components": [
@@ -544,8 +544,8 @@
                 {
                     "id": "jpp3_de",
                     "name": "Das Jackbox Party Pack 3",
-                    "small_description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
-                    "description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
+                    "small_description": "",
+                    "description": "",
                     "version": "Build:  13.13-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.zip",
                     "components": [
@@ -794,8 +794,8 @@
                 {
                     "id": "jpp4_de",
                     "name": "Das Jackbox Party Pack 4",
-                    "small_description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
-                    "description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
+                    "small_description": "",
+                    "description": "",
                     "version": "Build:  134.14-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
                     "components": [
@@ -1048,8 +1048,8 @@
                 {
                     "id": "jpp5_de",
                     "name": "Das Jackbox Party Pack 5",
-                    "small_description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
-                    "description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
+                    "small_description": "",
+                    "description": "",
                     "version": "Build:  213.17-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
                     "components": [
@@ -1322,8 +1322,8 @@
                 {
                     "id": "jpp6_de",
                     "name": "Das Jackbox Party Pack 6",
-                    "small_description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
-                    "description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
+                    "small_description": "",
+                    "description": "",
                     "version": "Build:  456.30-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
                     "components": [
@@ -1598,8 +1598,8 @@
                 {
                     "id": "jpp7_de",
                     "name": "Das Jackbox Party Pack 7",
-                    "small_description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
-                    "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
+                    "small_description": "",
+                    "description": "",
                     "version": "561.15-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
                     "components": [
@@ -1872,8 +1872,8 @@
                 {
                     "id": "jpp8_de",
                     "name": "Das Jackbox Party Pack 8",
-                    "small_description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
-                    "description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
+                    "small_description": "",
+                    "description": "",
                     "version": "437.27-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.zip",
                     "components": [
