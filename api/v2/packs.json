@@ -50,7 +50,7 @@
                 "epic":"Feverfew"
             },
             "executables": {
-                "windows": "The Jackbox Party Pack 1.exe",
+                "windows": "The Jackbox Party Pack.exe",
                 "mac": "The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
                 "linux": "Launcher.sh"
             },
