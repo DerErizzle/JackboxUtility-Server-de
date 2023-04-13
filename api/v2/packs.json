@@ -65,7 +65,7 @@
                     "small_description": "Alle Spiele haben eine deutsche Text-Übersetzung.",
                     "description": "Alle Spiele haben eine deutsche Text-Übersetzung.",
                     "version": "Build:  20.12-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.tar",
                     "components": [
                         {
                             "id": "ydkj2015_patch",
@@ -308,7 +308,7 @@
                     "small_description": "Earwax, Bidiots und Quiplash XL sind vollständig auf Deutsch.",
                     "description": "Earwax, Bidiots und Quiplash XL sind vollständig auf Deutsch.",
                     "version": "74.2-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.tar",
                     "components": [
                         {
                             "id": "bombcorp_patch",
@@ -556,7 +556,7 @@
                     "small_description": "Trivia Murder Party, Guesspionage und Fakin' It sind vollständig auf Deutsch.",
                     "description": "Trivia Murder Party, Guesspionage und Fakin' It sind vollständig auf Deutsch.",
                     "version": "Build:  13.13-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.tar",
                     "components": [
                         {
                             "id": "fakinit_patch",
@@ -806,7 +806,7 @@
                     "small_description": "Fibbage Genug von Dir, Survive The Internet, Monster Seeking Monster und Kritzel Witzel sind vollständig auf Deutsch.",
                     "description": "Fibbage Genug von Dir, Survive The Internet, Monster Seeking Monster und Kritzel Witzel sind vollständig auf Deutsch.",
                     "version": "Build:  134.14-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.tar",
                     "components": [
                         {
                             "id": "survivetheinternet_patch",
@@ -1060,7 +1060,7 @@
                     "small_description": "Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
                     "description": "Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
                     "version": "Build:  213.17-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.tar",
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -1334,7 +1334,7 @@
                     "small_description": "Joke Boat und Drück den Knopf sind vollständig auf Deutsch.",
                     "description": "Joke Boat und Drück den Knopf sind vollständig auf Deutsch.",
                     "version": "Build:  456.30-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.tar",
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -1610,7 +1610,7 @@
                     "small_description": "Die Teufel im Detail, Champ'd Up und Talking Points sind vollständig auf Deutsch.",
                     "description": "Die Teufel im Detail, Champ'd Up und Talking Points sind vollständig auf Deutsch.",
                     "version": "561.15-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.tar",
                     "components": [
                         {
                             "id": "champdup_patch",
@@ -1884,7 +1884,7 @@
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
                     "version": "437.27-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.tar",
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -2158,7 +2158,7 @@
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "version": "653.0-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.tar",
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -2438,7 +2438,7 @@
                     "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "version": "216.0-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.tar",
                     "components": [
                         {
                             "id": "quiplash3_starter_patch",
