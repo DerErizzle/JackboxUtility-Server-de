@@ -1635,7 +1635,7 @@
                     "small_description": "Die Teufel im Detail, Champ'd Up und Talking Points sind vollständig auf Deutsch.",
                     "description": "Die Teufel im Detail, Champ'd Up und Talking Points sind vollständig auf Deutsch.",
                     "version": "561.15-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.tar",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
                     "components": [
                         {
                             "id": "champdup_patch",
@@ -1909,7 +1909,7 @@
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
                     "version": "437.27-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.tar",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.zip",
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -2183,7 +2183,7 @@
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "version": "653.0-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.tar",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip",
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -2463,7 +2463,7 @@
                     "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
                     "version": "216.0-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.tar",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.zip",
                     "components": [
                         {
                             "id": "quiplash3_starter_patch",
