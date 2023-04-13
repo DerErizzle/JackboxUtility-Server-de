@@ -35,7 +35,7 @@
         {
             "id": "jpp1",
             "name": "Jackbox Party Pack 1",
-            "description": "Das erste Jackbox Party Pack",
+            "description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
             "launchers_id":{
                 "steam":"331670",
                 "epic":"Feverfew"
@@ -49,10 +49,97 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp1_de",
+                    "name": "Das Jackbox Party Pack",
+                    "small_description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
+                    "description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
+                    "version": "Build:  20.12-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
+                    "components": [
+                        {
+                            "id": "ydkj2015_patch",
+                            "linked_game": "ydkj2015",
+                            "name": "You Don't Know Jack: 2015",
+                            "description": "Fragen auf Deutsch (1990er Import), Moderation auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Fragen auf Deutsch (1990er Import), Moderation auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "fibbagexl_patch",
+                            "linked_game": "fibbagexl",
+                            "name": "Fibbage XL",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "drawful_patch",
+                            "linked_game": "drawful",
+                            "name": "Drawful",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "wordspud_patch",
+                            "linked_game": "wordspud",
+                            "name": "Word Spud",
+                            "description": "Prompts auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "lieswatter_patch",
+                            "linked_game": "lieswatter",
+                            "name": "Lie Swatter",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "ydkj2015",
-                    "name": "You Don't Know Jack : 2015",
+                    "name": "You Don't Know Jack: 2015",
                     "background": "game_backgrounds/YDKJ2015.webp",
                     "path": "games/YDKJ2015",
                     "game_info": {
@@ -63,9 +150,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Das Quiz bei dem Hochkultur und Popkultur aufeinanderprallen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Die klugscheißerische Quizshow, mit der alles begann! Hunderte von völlig neuen, verdrehten Quizfragen mit eurem Lieblingsmoderator!",
+                        "small_description": "Die klugscheißerische Quizshow, mit der alles begann! Hunderte von völlig neuen, verdrehten Quizfragen mit eurem Lieblingsmoderator!",
+                        "description": "Die klugscheißerische Quizshow, mit der alles begann! Hunderte von völlig neuen, verdrehten Quizfragen mit eurem Lieblingsmoderator!",
                         "images": [
                             "game_images/YDKJ2015/ydkj2015_1.webp",
                             "game_images/YDKJ2015/ydkj2015_2.webp",
@@ -91,9 +178,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Möge der beste Lügner gewinnen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+                        "small_description": "Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+                        "description": "Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
                         "images": [
                             "game_images/FibbageXL/fibbagexl_1.webp",
                             "game_images/FibbageXL/fibbagexl_2.webp",
@@ -145,9 +232,9 @@
                         "length": "10 - 15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Gib die heiße Kartoffel weiter!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Lasst die Worte wie Wasser aus eurem Mund laufen! Vervollständigt einfach das Wort, das auf euch zukommt.",
+                        "small_description": "Lasst die Worte wie Wasser aus eurem Mund laufen! Vervollständigt einfach das Wort, das auf euch zukommt.",
+                        "description": "Lasst die Worte wie Wasser aus eurem Mund laufen! Vervollständigt einfach das Wort, das auf euch zukommt.",
                         "images": [
                             "game_images/WordSpud/wordspud_1.webp",
                             "game_images/WordSpud/wordspud_2.webp"
@@ -171,9 +258,9 @@
                         "length": "10 - 15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Kannst du die Wahrheit von der Lüge unterscheiden?",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Pinkeln Hummer aus dem Kopf? Hat Japan die Instantnudel zur Top-Erfindung des 20. Jahrhunderts gewählt? Ist die Banane krumm?",
+                        "small_description": "Pinkeln Hummer aus dem Kopf? Hat Japan die Instantnudel zur Top-Erfindung des 20. Jahrhunderts gewählt? Ist die Banane krumm?",
+                        "description": "Pinkeln Hummer aus dem Kopf? Hat Japan die Instantnudel zur Top-Erfindung des 20. Jahrhunderts gewählt? Ist die Banane krumm?",
                         "images": [
                             "game_images/LieSwatter/lieswatter_1.webp",
                             "game_images/LieSwatter/lieswatter_2.webp"
@@ -191,7 +278,7 @@
         {
             "id": "jpp2",
             "name": "Jackbox Party Pack 2",
-            "description": "Das zweite Jackbox Party Pack",
+            "description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
             "launchers_id":{
                 "steam":"397460",
                 "epic":"Lilac"
@@ -205,10 +292,97 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp2_de",
+                    "name": "Das Jackbox Party Pack 2",
+                    "small_description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
+                    "description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
+                    "version": "74.2-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
+                    "components": [
+                        {
+                            "id": "bombcorp_patch",
+                            "linked_game": "bombcorp",
+                            "name": "Bomb Corp.",
+                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "quiplashxl_patch",
+                            "linked_game": "quiplashxl",
+                            "name": "Quiplash XL",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "fibbage2_patch",
+                            "linked_game": "fibbage2",
+                            "name": "Fibbage 2",
+                            "description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "earwax_patch",
+                            "linked_game": "earwax",
+                            "name": "Earwax",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "bidiots_patch",
+                            "linked_game": "bidiots",
+                            "name": "Bidiots",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "bombcorp",
-                    "name": "Bomb Corp",
+                    "name": "Bomb Corp.",
                     "game_info": {
                         "players": {
                             "min": 1,
@@ -217,9 +391,9 @@
                         "length": "10 - 20 Minuten",
                         "type": "COOP",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Entschärfe die Bomben!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
+                        "small_description": "Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
+                        "description": "Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
                         "images": [
                             "game_images/BombCorp/bombcorp_1.webp",
                             "game_images/BombCorp/bombcorp_2.webp",
@@ -247,9 +421,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Sei der Lustigste!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+                        "small_description": "Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+                        "description": "Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
                         "images": [
                             "game_images/QuiplashXL/quiplashxl_1.webp",
                             "game_images/QuiplashXL/quiplashxl_2.webp",
@@ -275,9 +449,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Sei der beste Lügner!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
+                        "small_description": "Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
+                        "description": "Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
                         "images": [
                             "game_images/Fibbage2/fibbage2_1.webp",
                             "game_images/Fibbage2/fibbage2_2.webp",
@@ -304,9 +478,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Antworte mit den besten Geräuschen!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
+                        "small_description": "Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
+                        "description": "Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
                         "images": [
                             "game_images/Earwax/earwax_1.webp",
                             "game_images/Earwax/earwax_2.webp",
@@ -330,9 +504,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Nehme an der lustigsten Kunstauktion teil!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Überbiete deine Gegner bei irrwitzigen (von anderen Spielern gezeichneten) Kunstwerken und gewinne dieses seltsam umkämpfte Auktionsspiel.",
+                        "small_description": "Überbiete deine Gegner bei irrwitzigen (von anderen Spielern gezeichneten) Kunstwerken und gewinne dieses seltsam umkämpfte Auktionsspiel.",
+                        "description": "Überbiete deine Gegner bei irrwitzigen (von anderen Spielern gezeichneten) Kunstwerken und gewinne dieses seltsam umkämpfte Auktionsspiel.",
                         "images": [
                             "game_images/Bidiots/bidiots_1.webp",
                             "game_images/Bidiots/bidiots_2.webp",
@@ -352,7 +526,7 @@
         {
             "id": "jpp3",
             "name": "Jackbox Party Pack 3",
-            "description": "Das dritte Jackbox Party Pack",
+            "description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
             "launchers_id":{
                 "steam":"434170",
                 "epic":"Orchid"
@@ -366,6 +540,93 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp3_de",
+                    "name": "Das Jackbox Party Pack 3",
+                    "small_description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
+                    "description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
+                    "version": "Build:  13.13-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.zip",
+                    "components": [
+                        {
+                            "id": "fakinit_patch",
+                            "linked_game": "fakinit",
+                            "name": "Fakin' It",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "quiplash2_patch",
+                            "linked_game": "quiplash2",
+                            "name": "Quiplash 2",
+                            "description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "triviamurderparty_patch",
+                            "linked_game": "triviamurderparty",
+                            "name": "Trivia Murder Party",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "teeko_patch",
+                            "linked_game": "teeko",
+                            "name": "Tee K.O.",
+                            "description": "Englisch. Für die deutsche Version wird The Jackbox Party Starter (separat erhältlich) benötigt.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Englisch. Für die deutsche Version wird The Jackbox Party Starter (separat erhältlich) benötigt.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": false,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "guesspionage_patch",
+                            "linked_game": "guesspionage",
+                            "name": "Guesspionage",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "fakinit",
@@ -380,9 +641,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Finde den Schwindler!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Jeder gibt eine Antwort, aber nicht jeder kennt die Frage. Einer deiner Freunde hat etwas zu verbergen. Finde den Schwindler, bevor es zu spät ist!",
+                        "small_description": "Jeder gibt eine Antwort, aber nicht jeder kennt die Frage. Einer deiner Freunde hat etwas zu verbergen. Finde den Schwindler, bevor es zu spät ist!",
+                        "description": "Jeder gibt eine Antwort, aber nicht jeder kennt die Frage. Einer deiner Freunde hat etwas zu verbergen. Finde den Schwindler, bevor es zu spät ist!",
                         "images": [
                             "game_images/FakinIt/fakinit_1.webp",
                             "game_images/FakinIt/fakinit_2.webp",
@@ -407,10 +668,10 @@
                         },
                         "length": "15 Minuten",
                         "type": "VERSUS",
-                        "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Sei der Lustigste!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "translation": "ENGLISH",
+                        "tagline": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+                        "small_description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+                        "description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
                         "images": [
                             "game_images/Quiplash2/quiplash2_1.webp",
                             "game_images/Quiplash2/quiplash2_2.webp",
@@ -436,9 +697,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Kannst du das Quizspiel überleben?",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Sei der Letzte, der die absurde Trivia-Spielshow eines Serienmörders überlebt. Aber es macht Spaß!",
+                        "small_description": "Sei der Letzte, der die absurde Trivia-Spielshow eines Serienmörders überlebt. Aber es macht Spaß!",
+                        "description": "Sei der Letzte, der die absurde Trivia-Spielshow eines Serienmörders überlebt. Aber es macht Spaß!",
                         "images": [
                             "game_images/TriviaMurderParty/triviamurderparty_1.webp",
                             "game_images/TriviaMurderParty/triviamurderparty_2.webp",
@@ -453,7 +714,7 @@
                 },
                 {
                     "id": "teeko",
-                    "name": "TEE K.O.",
+                    "name": "Tee K.O.",
                     "background": "game_backgrounds/TeeKO.webp",
                     "path": "games/TeeKO",
                     "game_info": {
@@ -464,9 +725,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Gestalte dein bestes T-Shirt!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Zeichne Bilder und schreibe Slogans, um sie anschließend mit anderen Spielern auszutauschen und daraus deinen eigenen massgeschneiderten T-Shirt-Krieger zu schaffen. Nur das beste und einzigartigste T-Shirt wird das Turnier lebend verlassen.",
+                        "small_description": "Zeichne Bilder und schreibe Slogans, um sie anschließend mit anderen Spielern auszutauschen und daraus deinen eigenen massgeschneiderten T-Shirt-Krieger zu schaffen. Nur das beste und einzigartigste T-Shirt wird das Turnier lebend verlassen.",
+                        "description": "Zeichne Bilder und schreibe Slogans, um sie anschließend mit anderen Spielern auszutauschen und daraus deinen eigenen massgeschneiderten T-Shirt-Krieger zu schaffen. Nur das beste und einzigartigste T-Shirt wird das Turnier lebend verlassen.",
                         "images": [
                             "game_images/TeeKO/teeko_1.webp",
                             "game_images/TeeKO/teeko_2.webp",
@@ -493,9 +754,9 @@
                         "length": "10 - 15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Schätze andere Menschen ein!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Wie viel Prozent der Menschen haben etwas im Wald vergraben? Auf dem Rücksitz eines Polizeiautos mitgefahren? Sich in jemanden verknallt, mit dem sie arbeiten? Rate richtig und gewinn!",
+                        "small_description": "Wie viel Prozent der Menschen haben etwas im Wald vergraben? Auf dem Rücksitz eines Polizeiautos mitgefahren? Sich in jemanden verknallt, mit dem sie arbeiten? Rate richtig und gewinn!",
+                        "description": "Wie viel Prozent der Menschen haben etwas im Wald vergraben? Auf dem Rücksitz eines Polizeiautos mitgefahren? Sich in jemanden verknallt, mit dem sie arbeiten? Rate richtig und gewinn!",
                         "images": [
                             "game_images/Guesspionage/guesspionage_1.webp",
                             "game_images/Guesspionage/guesspionage_2.webp",
@@ -515,7 +776,7 @@
         {
             "id": "jpp4",
             "name": "Jackbox Party Pack 4",
-            "description": "Das vierte Jackbox Party Pack",
+            "description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
             "launchers_id":{
                 "steam":"610180",
                 "epic":"Snowdrop"
@@ -529,6 +790,93 @@
                 "file": "config.jet",
                 "version_property": "buildVersion"
             },
+            "patchs": [
+                {
+                    "id": "jpp4_de",
+                    "name": "Das Jackbox Party Pack 4",
+                    "small_description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
+                    "description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
+                    "version": "Build:  134.14-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
+                    "components": [
+                        {
+                            "id": "survivetheinternet_patch",
+                            "linked_game": "survivetheinternet",
+                            "name": "Survive The Internet",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "monsterseekingmonster_patch",
+                            "linked_game": "monsterseekingmonster",
+                            "name": "Monster Seeking Monster",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "bracketeering_patch",
+                            "linked_game": "bracketeering",
+                            "name": "Bracketeering",
+                            "description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "fibbage3_patch",
+                            "linked_game": "fibbage3",
+                            "name": "Fibbage 3",
+                            "description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Das klassische Fibbage 3 ist derzeit noch Englisch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Das klassische Fibbage 3 ist derzeit noch Englisch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "civicdoodle_patch",
+                            "linked_game": "civicdoodle",
+                            "name": "Kritzel Witzel",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "survivetheinternet",
@@ -543,9 +891,9 @@
                         "length": "Ungefähr 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Überlebe das Internet!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Eingeloggt und angeschnallt! Versuche, die Sprüche deiner Freunde aus dem Kontext zu reißen! Nur so überlebt man heutzutage im World Wide Web!",
+                        "small_description": "Eingeloggt und angeschnallt! Versuche, die Sprüche deiner Freunde aus dem Kontext zu reißen! Nur so überlebt man heutzutage im World Wide Web!",
+                        "description": "Eingeloggt und angeschnallt! Versuche, die Sprüche deiner Freunde aus dem Kontext zu reißen! Nur so überlebt man heutzutage im World Wide Web!",
                         "images": [
                             "game_images/SurviveTheInternet/survivetheinternet_1.webp",
                             "game_images/SurviveTheInternet/survivetheinternet_2.webp",
@@ -571,9 +919,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Auch Monster haben ein Recht auf Liebe",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Ein Dating-Spiel, in dem du lustige Nachrichten versendest und versuchst, deine geheimen Monsterkräfte zu verbergen. Genau wie echtes Dating!",
+                        "small_description": "Ein Dating-Spiel, in dem du lustige Nachrichten versendest und versuchst, deine geheimen Monsterkräfte zu verbergen. Genau wie echtes Dating!",
+                        "description": "Ein Dating-Spiel, in dem du lustige Nachrichten versendest und versuchst, deine geheimen Monsterkräfte zu verbergen. Genau wie echtes Dating!",
                         "images": [
                             "game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
                             "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
@@ -599,9 +947,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Nehme am intergalaktischen Turnier teil!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das geistesgestörte Debattenturnier! “Welches Gemüse kann Til Schweiger am besten in Filmen ersetzen?” Wettet mit Bedacht, welche Antworten gewinnen!",
+                        "small_description": "Das geistesgestörte Debattenturnier! “Welches Gemüse kann Til Schweiger am besten in Filmen ersetzen?” Wettet mit Bedacht, welche Antworten gewinnen!",
+                        "description": "Das geistesgestörte Debattenturnier! “Welches Gemüse kann Til Schweiger am besten in Filmen ersetzen?” Wettet mit Bedacht, welche Antworten gewinnen!",
                         "images": [
                             "game_images/Bracketeering/bracketeering_1.webp",
                             "game_images/Bracketeering/bracketeering_2.webp",
@@ -627,9 +975,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Sei der beste Lügner!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Fibbe dich durch ganz neue Fragetypen und dem brandneuen Spielmodus Fibbage: Genug von Dir. Errate komische Fakten über deine Mitspieler!",
+                        "small_description": "Fibbe dich durch ganz neue Fragetypen und dem brandneuen Spielmodus Fibbage: Genug von Dir. Errate komische Fakten über deine Mitspieler!",
+                        "description": "Fibbe dich durch ganz neue Fragetypen und dem brandneuen Spielmodus Fibbage: Genug von Dir. Errate komische Fakten über deine Mitspieler!",
                         "images": [
                             "game_images/Fibbage3/fibbage3_1.webp",
                             "game_images/Fibbage3/fibbage3_2.webp",
@@ -656,9 +1004,9 @@
                         "length": "Ungefähr 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Hilf mit, die Stadt zu verschönern!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Ihr wurdet beauftragt, die Wände im ganzen Dorf zu besprühen. Tretet gegeneinander an und ergänzt eure Kunstwerke, um sie immer wieder zu “verschönern”.",
+                        "small_description": "Ihr wurdet beauftragt, die Wände im ganzen Dorf zu besprühen. Tretet gegeneinander an und ergänzt eure Kunstwerke, um sie immer wieder zu “verschönern”.",
+                        "description": "Ihr wurdet beauftragt, die Wände im ganzen Dorf zu besprühen. Tretet gegeneinander an und ergänzt eure Kunstwerke, um sie immer wieder zu “verschönern”.",
                         "images": [
                             "game_images/CivicDoodle/civicdoodle_1.webp",
                             "game_images/CivicDoodle/civicdoodle_2.webp",
