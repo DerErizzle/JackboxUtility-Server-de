@@ -31,6 +31,15 @@
             "description": "Spieler müssen in diesen Spielen ihr Wissen auf die Probe stellen."
         }
     ],
+    "patchsCategories":
+    [
+    	{
+	    "id":"german_patchs",
+	    "name":"Deutsche Lokalisierung",
+	    "smallDescription":"Übersetze die Spiele ins Deutsche!",
+	    "patchs":["jpp1_de","jpp2_de","jpp3_de","jpp4_de","jpp5_de","jpp6_de","jpp7_de","jpp8_de","jpp9_de","jpstarter_de"]
+	}
+    ],
     "packs": [
         {
             "id": "jpp1",
