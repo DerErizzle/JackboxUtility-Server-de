@@ -44,7 +44,7 @@
         {
             "id": "jpp1",
             "name": "Jackbox Party Pack 1",
-            "description": "Vorbei sind die ruhigen Abende mit den immer gleichen Fernsehsendungen - das Jackbox Party Pack ist da! Erlebe fünf lustige Spiele in einem großartigen Paket - die perfekte Ausrede, um Freunde, Familie und andere Gamer für ein paar Stunden Spielspaß zu versammeln - egal an welchem Tag, egal zu welchem Anlass. Dafür brauchst du mehr als eine Party.",
+            "description": "Erscheinungsdatum: 2014",
             "launchers_id":{
                 "steam":"331670",
                 "epic":"Feverfew"
@@ -287,7 +287,7 @@
         {
             "id": "jpp2",
             "name": "Jackbox Party Pack 2",
-            "description": "Die Fortsetzung des Party-Spiels The Jackbox Party Pack, mit FÜNF neuen, kribbelnden Partyspielen!",
+            "description": "Erscheinungsdatum: 2015",
             "launchers_id":{
                 "steam":"397460",
                 "epic":"Lilac"
@@ -535,7 +535,7 @@
         {
             "id": "jpp3",
             "name": "Jackbox Party Pack 3",
-            "description": "Die dreiteilige Fortsetzung des Partyspiel-Phänomens enthält die tödliche Quizshow Trivia Murder Party, die Sag-alles-Fortsetzung Quiplash 2, das überraschende Umfragespiel Guesspionage, das T-Shirt-Schlachtfest Tee K.O. und das hinterhältige Gaunerspiel Fakin' It.",
+            "description": "Erscheinungsdatum: 2016",
             "launchers_id":{
                 "steam":"434170",
                 "epic":"Orchid"
@@ -785,7 +785,7 @@
         {
             "id": "jpp4",
             "name": "Jackbox Party Pack 4",
-            "description": "Die größte und vierte Neuauflage dieser traditionsreichen Partyspielserie enthält die witzige Fortsetzung Fibbage 3 und den neuen Spielmodus Fibbage: Enough About You; das webbasierte Rahmenspiel Survive the Internet; das gruselige Date-a-thon Monster Seeking Monster; das wahnwitzige Debattierspiel Bracketeering; und das einzigartige Kunstspiel Kritzel Witzel.",
+            "description": "Erscheinungsdatum: 2017",
             "launchers_id":{
                 "steam":"610180",
                 "epic":"Snowdrop"
@@ -1035,7 +1035,7 @@
         {
             "id": "jpp5",
             "name": "Jackbox Party Pack 5",
-            "description": "Es ist das bisher umfangreichste Party-Paket, das unter anderem die Rückkehr des Popkultur-Klassikers YOU DON'T KNOW JACK: Full Stream, das lustige Hypothesen-Spiel Split the Room, das Roboter-Rap-Battle Mad Verse City, das originelle Zeichenspiel Patently Stupid und das Weltraum-Abenteuer Zeeple Dome enthält.",
+            "description": "Erscheinungsdatum: 2018",
             "launchers_id":{
                 "steam":"774461",
                 "epic":"Geranium"
@@ -1309,7 +1309,7 @@
         {
             "id": "jpp6",
             "name": "Jackbox Party Pack 6",
-            "description": "Mit dem absurden Todesspiel Trivia Murder Party 2, dem verrückten Wortzirkus Dictionarium, dem versteckten Identitätsspiel Push The Button, dem Comedy-Wettbewerb Joke Boat und dem ausgefallenen Persönlichkeitstest Role Models ist dies das bisher wildeste Party Pack.",
+            "description": "Erscheinungsdatum: 2019",
             "launchers_id":{
                 "steam":"1005300",
                 "epic":"Astrapia"
@@ -1585,7 +1585,7 @@
         {
             "id": "jpp7",
             "name": "Jackbox Party Pack 7",
-            "description": "Fünf neue Spiele: der Erfolgshit Quiplash 3, das kooperative Chaos von Die Teufel im Detail, das knallharte Zeichenspiel Champ'd Up, das Sprachspiel Talking Points und das Ratespiel Blather Round.",
+            "description": "Erscheinungsdatum: 2020",
             "launchers_id":{
                 "steam":"1211630",
                 "epic":"7fb6ce95c6d04a44a55fef16ea0db4c9"
@@ -1859,7 +1859,7 @@
         {
             "id": "jpp8",
             "name": "Jackbox Party Pack 8",
-            "description": "Der achte Teil der beliebten Jackbox Party Pack-Reihe ist da! Fünf witzige neue Spiele bringen Schwung in den nächsten Spieleabend, die nächste Weihnachtsfeier, die nächste Happy Hour oder den nächsten Videochat.",
+            "description": "Erscheinungsdatum: 2021",
             "launchers_id":{
                 "steam":"1552350",
                 "epic":"67003fc4eaa444608acf083a08dc907e"
@@ -2133,7 +2133,7 @@
         {
             "id": "jpp9",
             "name": "Jackbox Party Pack 9",
-            "description": "Rettet eure nächste Party! 5 neue Spiele - ein Party Pack: Trivia-Bluff-Off Fibbage 4, Team-Test Quixort, Scherz-Auktion Junktopia, das alberne Ratefest Nonsensory und Reality-TV-Spiel Roomerang.",
+            "description": "Erscheinungsdatum: 2022",
             "launchers_id":{
                 "steam":"1850960",
                 "epic":"ec6f77d356b247dc8d210850de8a3e2f"
@@ -2413,7 +2413,7 @@
         {
             "id": "jpstarter",
             "name": "Jackbox Party Starter",
-            "description": "Dein nächster Spieleabend ist mit The Jackbox Party Starter geplant! Mit neuen Updates für Quiplash 3, Trivia Murder Party 2 und Tee K.O.! Wir sorgen bei Deiner nächsten Veranstaltung mit The Jackbox Party Starter für Partystimmung!",
+            "description": "Erscheinungsdatum: 2023",
             "launchers_id":{
                 "steam":"1755580",
                 "epic":"dc6b83bf4b94436db882f770ed8d5257"
