@@ -1,13 +1,6 @@
 {
     "news":[
         {
-            "id":"2023-04-15 21:16:00",
-            "title":"Test-Benachrichtigung",
-            "smallDescription":"Wenn du das liest, funktioniert alles!",
-            "content":"# TOLLES UPDATE, ODER?\n\nIch liebe diese Beschreibung, außerdem wird **Markdown** unterstützt!",
-            "image":"news_images/gene.jpg"
-        },
-        {
             "id":"2023-02-21 19:02:14",
             "title":"Jackbox Utility",
             "smallDescription":"Willkommen bei der neuen Version von Jackbox Utility!",
