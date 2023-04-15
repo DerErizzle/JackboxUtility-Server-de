@@ -1,11 +1,18 @@
 {
     "news":[
         {
+            "id":"2023-04-15 21:16:00",
+            "title":"Test-Benachrichtigung",
+            "smallDescription":"Wenn du das liest, funktioniert alles!",
+            "content":"# TOLLES UPDATE, ODER?\n\nIch liebe diese Beschreibung, außerdem wird **Markdown** unterstützt!",
+            "image":"news_images/gene.jpg"
+        },
+        {
             "id":"2023-02-21 19:02:14",
             "title":"Jackbox Utility",
             "smallDescription":"Willkommen bei der neuen Version von Jackbox Utility!",
             "content":"# Hier ist die neue Jackbox Utility\n\nIn dieser neuen Version wirst du alle deine Lieblingsspiele an einem Ort starten können!\n\nLust, noch schneller Spiele zu starten? Probiere den **Schnellstart-Modus** aus und starte Spiele direkt!",
-            "image":"news_images/logo.png"
+            "image":"news_images/logo-de.png"
         },
         {
             "id":"2023-02-18 14:29:14",
@@ -15,5 +22,4 @@
             "image":"news_images/discord.png"
         }
     ]
-
 }
