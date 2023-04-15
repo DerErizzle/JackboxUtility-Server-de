@@ -215,9 +215,9 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
-                        "tagline": "Was hast du da gezeichnet?",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
-                        "description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "tagline": "Das Zeichenspiel, das alle anderen Zeichnungen nimmt und darauf kleine Schnurrbärte zeichnet. Ihr könnt nicht zeichnen? Kein Problem!",
+                        "small_description": "Das Zeichenspiel, das alle anderen Zeichnungen nimmt und darauf kleine Schnurrbärte zeichnet. Ihr könnt nicht zeichnen? Kein Problem!",
+                        "description": "Das Zeichenspiel, das alle anderen Zeichnungen nimmt und darauf kleine Schnurrbärte zeichnet. Ihr könnt nicht zeichnen? Kein Problem!",
                         "images": [
                             "game_images/Drawful/drawful_1.webp",
                             "game_images/Drawful/drawful_2.webp"
@@ -2385,7 +2385,7 @@
                         "type": "TEAM",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Diese fallenden Ratespielblöcke sortieren sich nicht von allein!",
-                        "small_description": "Für dieses Spiel liegt noch keine Beschreibung vor.",
+                        "small_description": "Diese fallenden Ratespielblöcke sortieren sich nicht von allein!",
                         "description": " In dieser Trivia-Sortierfabrik müsst ihr mit eurem Team die herabfallenden Antworten in die richtige Reihenfolge bringen, bevor sie den Boden erreichen! Oder ihr wagt euch an den Einzelspielermodus und versucht, so viele Blöcke wie möglich zu sortieren. Das ist so einfach wie das ACB!",
                         "images": [
                             "game_images/Quixort/quixort_1.jpg",
