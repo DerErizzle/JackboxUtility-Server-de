@@ -3055,7 +3055,7 @@
                     "patchs":[]
                 }
             ],
-            "icon":"ydkj2.ico",
+            "icon":"ydkj2.png",
             "background":"backgrounds/ydkj.png"
         },
         {
@@ -3130,7 +3130,7 @@
                     "patchs":[]
                 }
             ],
-            "icon":"ydkj3.ico",
+            "icon":"ydkj3.png",
             "background":"backgrounds/ydkj.png"
         },
         {
@@ -3205,7 +3205,7 @@
                     "patchs":[]
                 }
             ],
-            "icon":"ydkj4.ico",
+            "icon":"ydkj4.png",
             "background":"backgrounds/ydkj.png"
         }
     ]
