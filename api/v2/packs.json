@@ -2588,6 +2588,400 @@
             ],
             "icon": "jpstarter.ico",
             "background": "backgrounds/jpstarter.jpg"
+        },
+        {
+            "id":"fbxl",
+            "name":"Fibbage XL",
+            "description":"Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+            "launchers_id":{
+                "steam":"448080"
+            },
+            "executables":{
+                "windows":"Fibbage XL.exe",
+                "mac":"Fibbage XL.app/Contents/MacOS/Fibbage XL",
+                "linux":"Launcher.sh"
+            },
+            "configuration":{
+                "file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+                "patchs":[
+                    {
+                        "id":"fbxl_de",
+                        "name":"Traducción al Español Latino",
+                        "small_description":"Mit deutscher Text-Übersetzung.",
+                        "description":"Mit deutscher Text-Übersetzung.",
+                        "version":"Build:  22.2-DE",
+                        "patch_path":"https://github.com/Team-Gamechanger/Fibbage-XL-German/releases/latest/download/Fibbage-XL-German.zip",
+                        "components":[
+                    {
+                                "id":"fibbagexl_standalone_patch",
+                                "linked_game":"fibbagexl_standalone",
+                                "name":"Fibbage XL",
+                                "description":"Mit deutscher Text-Übersetzung.",
+                                "authors":"Team Gamechanger",
+                                "small_description":"Mit deutscher Text-Übersetzung.",
+                                "patch_type":{
+                                    "game_text":true,
+                                    "game_assets":true,
+                                    "game_subtitles":false,
+                                    "website":true,
+                                    "audios":false
+                                }
+                            }
+                        ]
+                        
+                    }
+                ],
+            "games":[
+                {
+                    "id":"fibbagexl_standalone",
+                    "name":"Fibbage XL",
+                    "background":"game_backgrounds/FibbageXLStandalone.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":2,
+                            "max":8
+                        },
+                        "length":"15 - 20 Minuten",
+                        "type":"VERSUS",
+                        "translation":"COMMUNITY_TRANSLATED",
+                        "tagline":"Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+                        "small_description":"Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+                        "description":"Täuscht eure Freunde mit eurem Lügen, meidet ihre und findt die Wahrheit.",
+                        "images":[
+                            "game_images/FibbageXL/fibbagexl_1.webp",
+                            "game_images/FibbageXL/fibbagexl_2.webp",
+                            "game_images/FibbageXL/fibbagexl_3.webp"
+                        ],
+                        "tags":[
+                            "knowledge", "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"fbxl.ico",
+            "background":"backgrounds/fbxl.jpg"
+        },
+        {
+            "id":"quip",
+            "name":"Quiplash",
+            "description":"Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+            "launchers_id":{
+                "steam":"351510"
+            },
+            "executables":{
+                "windows":"Quiplash.exe",
+                "mac":"Quiplash.app/Contents/MacOS/Quiplash",
+                "linux":"Launcher.sh"
+            },
+            "configuration":{
+                "file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+                "patchs":[
+                    {
+                        "id":"quip_de",
+                        "name":"Prompts und Sprachausgabe auf Deutsch.",
+                        "small_description":"Prompts und Sprachausgabe auf Deutsch.",
+                        "description":"Prompts und Sprachausgabe auf Deutsch.",
+                        "version":"Build:  23.4-DE",
+                        "patch_path":"https://github.com/Team-Gamechanger/Quiplash-German/releases/latest/download/Quiplash-German.zip",
+                        "components":[
+                    {
+                                "id":"quiplash_patch",
+                                "linked_game":"quiplash",
+                                "name":"Quiplash",
+                                "description":"",
+                                "authors":"Team Gamechanger",
+                                "small_description":"Prompts und Sprachausgabe auf Deutsch.",
+                                "patch_type":{
+                                    "game_text":true,
+                                    "game_assets":true,
+                                    "game_subtitles":false,
+                                    "website":true,
+                                    "audios":true
+                                }
+                            }
+                        ]
+                    }
+                ],
+            "games":[
+                {
+                    "id":"quiplash",
+                    "name":"Quiplash",
+                    "background":"game_backgrounds/Quiplash.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 Minuten",
+                        "type":"VERSUS",
+                        "translation":"COMMUNITY_TRANSLATED",
+                        "tagline":"Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+                        "small_description":"Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+                        "description":"Das Duell des Witzes und der Witzigkeit in seiner GEWALTIGSTEN Form! Denke dir die lustigsten Antworten aus und gewinne das Spiel!",
+                        "images":[
+                            "game_images/QuiplashXL/quiplashxl_1.webp",
+                            "game_images/QuiplashXL/quiplashxl_2.webp",
+                            "game_images/QuiplashXL/quiplashxl_3.webp",
+                            "game_images/QuiplashXL/quiplashxl_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[]
+                }
+            ],
+            "icon":"quip.ico",
+            "background":"backgrounds/quip.jpg"
+        },
+        {
+            "id":"quip2int",
+            "name":"Quiplash 2 InterLASHional",
+            "description":"Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+            "launchers_id":{
+                "steam":"1111940"
+            },
+            "executables":{
+                "windows":"Quiplash 2 InterLASHional.exe",
+                "mac":"Quiplash 2 InterLASHional.app/Contents/MacOS/Quiplash 2 InterLASHional",
+                "linux":"Launcher.sh"
+            },
+            "configuration":{
+                "file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+                "patchs":[
+                    {
+                        "id":"quip2int_de",
+                        "name":"Quiplash 2 InterLASHional",
+                        "small_description":"Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                        "description":"Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                        "version":"Build:  141.0-DE",
+                        "patch_path":"https://github.com/DerErizzle/Quiplash-2-InterLASHional-German/releases/latest/download/Quiplash-2-InterLASHional-German.zip",
+                        "components":[
+                    {
+                                "id":"quiplash2interlashional_patch",
+                                "linked_game":"quiplash2interlashional",
+                                "name":"Quiplash 2 InterLASHional",
+                                "description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                                "authors":"Team Gamechanger",
+                                "small_description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                                "patch_type":{
+                                    "game_text":false,
+                                    "game_assets":true,
+                                    "game_subtitles":false,
+                                    "website":true,
+                                    "audios":false
+                                }
+                            }
+                        ]
+                    }
+                ],
+            "games":[
+                {
+                    "id":"quiplash2interlashional",
+                    "name":"Quiplash 2 InterLASHional",
+                    "background":"game_backgrounds/Quiplash2InterLASHional.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 Minuten",
+                        "type":"VERSUS",
+                        "translation":"NATIVELY_TRANSLATED",
+                        "tagline":"Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+                        "small_description":"Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+                        "description":"Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
+                        "images":[
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_1.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_2.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_3.webp",
+                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"quip2int.ico",
+            "background":"backgrounds/quip2int.jpg"
+        },
+        {
+            "id":"df2",
+            "name":"Drawful 2",
+            "description":"Was hast du da gezeichnet?",
+            "launchers_id":{
+                "steam":"442070"
+            },
+            "executables":{
+                "windows":"Drawful 2.exe",
+                "mac":"Drawful 2.app/Contents/MacOS/Drawful 2",
+                "linux":"Launcher.sh"
+            },
+            "configuration":{
+                "file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+                "patchs":[
+                    {
+                        "id":"df2_de",
+                        "name":"Drawful 2",
+                        "small_description":"Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                        "description":"Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                        "version":"150.0-DE",
+                        "patch_path":"https://github.com/DerErizzle/Drawful-2-German/releases/latest/download/Drawful-2-German.zip",
+                        "components":[
+                    {
+                                "id":"drawful_2_patch",
+                                "linked_game":"drawful_2",
+                                "name":"Drawful 2",
+                                "description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                                "authors":"Team Gamechanger",
+                                "small_description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                                "patch_type":{
+                                    "game_text":false,
+                                    "game_assets":true,
+                                    "game_subtitles":false,
+                                    "website":true,
+                                    "audios":false
+                                }
+                            }
+                        ]
+                    }
+                ],
+            "games":[
+                {
+                    "id":"drawful_2",
+                    "name":"Drawful 2",
+                    "background":"game_backgrounds/Drawful2.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 Minuten",
+                        "type":"VERSUS",
+                        "translation":"NATIVELY_TRANSLATED",
+                        "tagline":"Was hast du da gezeichnet?",
+                        "small_description":"Was hast du da gezeichnet?",
+                        "description":"Was hast du da gezeichnet?",
+                        "images":[
+                            "game_images/Drawful2/drawful2_1.webp",
+                            "game_images/Drawful2/drawful2_2.webp",
+                            "game_images/Drawful2/drawful2_3.webp",
+                            "game_images/Drawful2/drawful2_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"df2.ico",
+            "background":"backgrounds/df2.jpg"
+        },
+        {
+            "id":"df2_egs",
+            "name":"Drawful 2 [Epic Games]",
+            "description":"Was hast du da gezeichnet?",
+            "launchers_id":{
+                "epic":"Daisy"
+            },
+            "executables":{
+                "windows":"Drawful 2.exe",
+                "mac":"Drawful 2.app/Contents/MacOS/Drawful 2",
+                "linux":"Launcher.sh"
+            },
+            "configuration":{
+                "file":"jbg.config.jet",
+                "version_property":"buildVersion"
+            },
+                "patchs":[
+                    {
+                        "id":"df2_de_egs",
+                        "name":"Drawful 2",
+                        "small_description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                        "description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                        "version":"Build:  6.0-DE",
+                        "patch_path":"https://github.com/DerErizzle/Drawful-2-German-EG/releases/latest/download/Drawful-2-German-EG.zip",
+                        "components":[
+                    {
+                                "id":"drawful_2_egs_patch",
+                                "linked_game":"drawful_2_egs",
+                                "name":"Drawful 2",
+                                "description":"",
+                                "authors":"Team Gamechanger",
+                                "small_description":"Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                                "patch_type":{
+                                    "game_text":true,
+                                    "game_assets":true,
+                                    "game_subtitles":false,
+                                    "website":true,
+                                    "audios":false
+                                }
+                            }
+                        ]
+                        
+                    }
+                ],
+            "games":[
+                {
+                    "id":"drawful_2_egs",
+                    "name":"Drawful 2",
+                    "background":"game_backgrounds/Drawful2EGS.webp",
+                    "path":"",
+                    "game_info":{
+                        "players":{
+                            "min":3,
+                            "max":8
+                        },
+                        "length":"15 - 20 Minuten",
+                        "type":"VERSUS",
+                        "translation":"COMMUNITY_TRANSLATED",
+                        "tagline":"Was hast du da gezeichnet?",
+                        "small_description":"Was hast du da gezeichnet?",
+                        "description":"Was hast du da gezeichnet?",
+                        "images":[
+                            "game_images/Drawful2/drawful2_1.webp",
+                            "game_images/Drawful2/drawful2_2.webp",
+                            "game_images/Drawful2/drawful2_3.webp",
+                            "game_images/Drawful2/drawful2_4.webp"
+                        ],
+                        "tags":[
+                            "writing"
+                        ]
+    
+                    },
+                    "patchs":[
+                        
+                    ]
+                }
+            ],
+            "icon":"df2.ico",
+            "background":"backgrounds/df2.jpg"
         }
     ]
 }
