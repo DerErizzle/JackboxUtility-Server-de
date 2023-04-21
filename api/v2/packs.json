@@ -2261,8 +2261,8 @@
                 {
                     "id": "jpp9_de",
                     "name": "Das Jackbox Party Pack 9",
-                    "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                    "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "653.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.tar",
                     "components": [
@@ -2541,8 +2541,8 @@
                 {
                     "id": "jpstarter_de",
                     "name": "Jackbox Party Starter",
-                    "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                    "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "216.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.tar",
                     "components": [
@@ -2887,8 +2887,8 @@
                 {
                     "id": "quip2int_de",
                     "name": "Quiplash 2 InterLASHional",
-                    "small_description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                    "small_description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "Build:  141.0-DE",
                     "patch_path": "https://github.com/DerErizzle/Quiplash-2-InterLASHional-German/releases/latest/download/Quiplash-2-InterLASHional-German.zip",
                     "components": [
@@ -2971,8 +2971,8 @@
                 {
                     "id": "df2_de",
                     "name": "Drawful 2",
-                    "small_description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
-                    "description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.gg).",
+                    "small_description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "150.0-DE",
                     "patch_path": "https://github.com/DerErizzle/Drawful-2-German/releases/latest/download/Drawful-2-German.zip",
                     "components": [
