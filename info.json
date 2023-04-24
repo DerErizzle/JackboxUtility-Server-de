@@ -12,6 +12,38 @@
             "assets": "https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets"
         }
     ],
-    "controller": "jackbox.gg",
-    "languages":["de"]
+    "controller": "jackbox.de",
+    "languages":["de"],
+    "links": [
+        {
+            "icon":"globe",
+            "url":"https://jackboxpatch.de",
+            "text":"Webseite"
+        },
+        {
+            "icon":"discord",
+            "url":"https://discord.gg/vGcu9HWde4",
+            "text":"Discord"
+        },
+        {
+            "icon":"twitter",
+            "url":"https://twitter.com/jackboxde",
+            "text":"Twitter"
+        },
+        {
+            "icon":"patreon",
+            "url":"https://patreon.com/jackboxpatch",
+            "text":"Patreon"
+        },
+        {
+            "icon":"paypal",
+            "url":"https://www.paypal.com/donate/?hosted_button_id=GME4RQWR38Y4J&locale.x=de_DE",
+            "text":"Spenden"
+        },
+        {
+            "icon":"youtube",
+            "url":"https://www.youtube.com/@jackboxde",
+            "text":"YouTube"
+        }
+     ]
 }
