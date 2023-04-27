@@ -3165,7 +3165,7 @@
                 {
                     "id": "ydkj2",
                     "name": "YOU DON'T KNOW JACK VOL. 2",
-                    "background": "game_backgrounds/ClassicYDKJ.png",
+                    "background": "game_backgrounds/ydkj2.jpg",
                     "path": "",
                     "game_info": {
                         "players": {
@@ -3191,7 +3191,7 @@
                 }
             ],
             "icon": "ydkj2.ico",
-            "background": "backgrounds/ydkj.png"
+            "background": "backgrounds/ydkj2.png"
         },
         {
             "id": "ydkj3",
@@ -3239,7 +3239,7 @@
                 {
                     "id": "ydkj3",
                     "name": "YOU DON'T KNOW JACK VOL. 3",
-                    "background": "game_backgrounds/ClassicYDKJ.png",
+                    "background": "game_backgrounds/ydkj3.jpg",
                     "path": "",
                     "game_info": {
                         "players": {
@@ -3265,7 +3265,7 @@
                 }
             ],
             "icon": "ydkj3.ico",
-            "background": "backgrounds/ydkj.png"
+            "background": "backgrounds/ydkj3.png"
         },
         {
             "id": "ydkj4",
@@ -3313,7 +3313,7 @@
                 {
                     "id": "ydkj4",
                     "name": "YOU DON'T KNOW JACK VOL. 4",
-                    "background": "game_backgrounds/ClassicYDKJ.png",
+                    "background": "game_backgrounds/ydkj4.jpg",
                     "path": "",
                     "game_info": {
                         "players": {
@@ -3339,7 +3339,7 @@
                 }
             ],
             "icon": "ydkj4.ico",
-            "background": "backgrounds/ydkj.png"
+            "background": "backgrounds/ydkj4.png"
         }
     ]
 }
