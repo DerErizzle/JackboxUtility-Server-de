@@ -75,8 +75,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -340,8 +340,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "loader": {
                 "path": "loaders/tjpp2/default.zip",
@@ -614,8 +614,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "loader": {
                 "path": "loaders/tjpp3/default.zip",
@@ -890,8 +890,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "loader": {
                 "path": "loaders/tjpp4/default.zip",
@@ -1170,8 +1170,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -1446,8 +1446,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -1724,8 +1724,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -2000,8 +2000,8 @@
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -2274,10 +2274,10 @@
                 "version": "1.0.0"
             },
             "configuration": {
-                "file": "jbg.config.jet",
+                "file": "jet.config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/main/jbg.config.jet"
+                "version_origin": "game_file",
+                "version_file": "jet.config.jet"
             },
             "patchs": [
                 {
@@ -2556,10 +2556,11 @@
                 "version": "1.0.0"
             },
             "configuration": {
+                
                 "file": "config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/config.jet"
+                "version_origin": "game_file",
+                "version_file": "config.jet"
             },
             "patchs": [
                 {
@@ -2734,8 +2735,8 @@
             "configuration": {
                 "file": "jbg.config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet"
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -2820,8 +2821,8 @@
             "configuration": {
                 "file": "jbg.config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet"
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -2906,8 +2907,8 @@
             "configuration": {
                 "file": "jbg.config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/DerErizzle/Quiplash-2-InterLASHional-German/main/jbg.config.jet"
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -2992,8 +2993,8 @@
             "configuration": {
                 "file": "jbg.config.jet",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/DerErizzle/Drawful-2-German/main/jbg.config.jet"
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
             },
             "loader": {
                 "path": "loaders/df2/default.zip",
@@ -3077,8 +3078,8 @@
             "configuration": {
                 "file": "config.dat",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/main/config.dat"
+                "version_origin": "game_file",
+                "version_file": "config.dat"
             },
             "patchs": [
                 {
@@ -3153,8 +3154,8 @@
             "configuration": {
                 "file": "config.dat",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/main/config.dat"
+                "version_origin": "game_file",
+                "version_file": "config.dat"
             },
             "patchs": [
                 {
@@ -3229,8 +3230,8 @@
             "configuration": {
                 "file": "config.dat",
                 "version_property": "buildVersion",
-                "version_origin": "repo_file",
-                "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/main/config.dat"
+                "version_origin": "game_file",
+                "version_file": "config.dat"
             },
             "patchs": [
                 {
