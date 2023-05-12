@@ -2314,10 +2314,10 @@
                 "version": "1.0.0"
             },
             "configuration": {
-                "file": "jet.config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "jet.config.jet"
+                "version_file": "jbg.config.jet"
             },
             "patchs": [
                 {
