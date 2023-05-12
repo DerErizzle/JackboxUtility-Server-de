@@ -86,6 +86,11 @@
                     "description": "Alle Spiele haben eine deutsche Text-Übersetzung.",
                     "version": "Build:  20.13-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/config.jet",
+						"version_property":"buildVersion"
+					},
                     "components": [
                         {
                             "id": "ydkj2015_patch",
