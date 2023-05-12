@@ -2801,7 +2801,7 @@
                     "patch_path": "https://github.com/Team-Gamechanger/Fibbage-XL-German/releases/latest/download/Fibbage-XL-German.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet",
 						"version_property":"buildVersion"
 					},
                     "components": [
@@ -2890,6 +2890,11 @@
                     "description": "Prompts und Sprachausgabe auf Deutsch.",
                     "version": "Build:  23.5-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/Quiplash-German/releases/latest/download/Quiplash-German.zip",
+                    "configuration": {
+						"version_origin":"repo_file",
+						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
+						"version_property":"buildVersion"
+					},
                     "components": [
                         {
                             "id": "quiplash_patch",
