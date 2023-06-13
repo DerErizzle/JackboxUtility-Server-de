@@ -1,9 +1,22 @@
 {
-    "LAUNCHER":{
-        "HIDE_DUBBED_BY_COMMUNITY":true   
+    "LAUNCHER": {
+        "HIDE_DUBBED_BY_COMMUNITY": true
     },
-    "SERVER_INFORMATION":{
-        "SHOW_PATREONS_SUBSCRIBERS":true,
-        "PATREONS_SUBSCRIBERS":["Jakob Bysewski","Sturmkraehe","Angie","DanielM","Scooty","Steini225","Nuggelz","Just a Yoshi","Joshua Seipel"]
+    "SERVER_INFORMATION": {
+        "SHOW_PATREONS_SUBSCRIBERS": true,
+        "PATREONS_SUBSCRIBERS": [
+            "Kai Schulz",
+            "Jakob Bysewski",
+            "Sturmkraehe",
+            "Scooty",
+            "Just a Yoshi",
+            "Joshua Seipel",
+            "Cedrik LPle",
+            "Lokana Lighto",
+            "Lillith",
+            "Rabenkind",
+            "ACertainCoder",
+            "David Sakavitschus"
+        ]
     }
 }
