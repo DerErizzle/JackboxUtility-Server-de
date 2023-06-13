@@ -1,0 +1,309 @@
+{
+    "packs": [
+        {
+            "id": "jpp1",
+            "games": [
+                {
+                    "id": "ydkj2015",
+                    "rating": 6
+                },
+                {
+                    "id": "fibbagexl",
+                    "rating": 6
+                },
+                {
+                    "id": "drawful",
+                    "rating": 6
+                },
+                {
+                    "id": "wordspud",
+                    "rating": 2
+                },
+                {
+                    "id": "lieswatter",
+                    "rating": 4
+                }
+            ]
+        },
+        {
+            "id": "jpp2",
+            "games": [
+                {
+                    "id": "bombcorp",
+                    "rating": 6
+                },
+                {
+                    "id": "quiplashxl",
+                    "rating": 8
+                },
+                {
+                    "id": "fibbage2",
+                    "rating": 6
+                },
+                {
+                    "id": "earwax",
+                    "rating": 7
+                },
+                {
+                    "id": "bidiots",
+                    "rating": 7
+                }
+            ]
+        },
+        {
+            "id": "jpp3",
+            "games": [
+                {
+                    "id": "fakinit",
+                    "rating": 8
+                },
+                {
+                    "id": "quiplash2",
+                    "rating": 8
+                },
+                {
+                    "id": "triviamurderparty",
+                    "rating": 9
+                },
+                {
+                    "id": "teeko",
+                    "rating": 8
+                },
+                {
+                    "id": "guesspionage",
+                    "rating": 7
+                }
+            ]
+        },
+        {
+            "id": "jpp4",
+            "games": [
+                {
+                    "id": "survivetheinternet",
+                    "rating": 8
+                },
+                {
+                    "id": "monsterseekingmonster",
+                    "rating": 7
+                },
+                {
+                    "id": "bracketeering",
+                    "rating": 5
+                },
+                {
+                    "id": "fibbage3",
+                    "rating": 7
+                },
+                {
+                    "id": "civicdoodle",
+                    "rating": 6
+                }
+            ]
+        },
+        {
+            "id": "jpp5",
+            "games": [
+                {
+                    "id": "ydkj_fullstream",
+                    "rating": 9
+                },
+                {
+                    "id": "mad_verse_city",
+                    "rating": 8
+                },
+                {
+                    "id": "zeeple_dome",
+                    "rating": 3
+                },
+                {
+                    "id": "splittheroom",
+                    "rating": 7
+                },
+                {
+                    "id": "patentlystupid",
+                    "rating": 8
+                }
+            ]
+        },
+        {
+            "id": "jpp6",
+            "games": [
+                {
+                    "id": "trivia_murder_party_2",
+                    "rating": 10
+                },
+                {
+                    "id": "role_models",
+                    "rating": 6
+                },
+                {
+                    "id": "jokeboat",
+                    "rating": 5
+                },
+                {
+                    "id": "dictionarium",
+                    "rating": 4
+                },
+                {
+                    "id": "pushthebutton",
+                    "rating": 6
+                }
+            ]
+        },
+        {
+            "id": "jpp7",
+            "games": [
+                {
+                    "id": "champdup",
+                    "rating": 7
+                },
+                {
+                    "id": "talkingpoints",
+                    "rating": 8
+                },
+                {
+                    "id": "thedevilsandthedetails",
+                    "rating": 5
+                },
+                {
+                    "id": "quiplash3",
+                    "rating": 8
+                },
+                {
+                    "id": "blatherround",
+                    "rating": 7
+                }
+            ]
+        },
+        {
+            "id": "jpp8",
+            "games": [
+                {
+                    "id": "drawful_animate",
+                    "rating": 7
+                },
+                {
+                    "id": "the_wheel_of_enormous_proportions",
+                    "rating": 7
+                },
+                {
+                    "id": "jobjob",
+                    "rating": 8
+                },
+                {
+                    "id": "thepollmine",
+                    "rating": 6
+                },
+                {
+                    "id": "weaponsdrawn",
+                    "rating": 5
+                }
+            ]
+        },
+        {
+            "id": "jpp9",
+            "games": [
+                {
+                    "id": "fibbage4",
+                    "rating": 7
+                },
+                {
+                    "id": "roomerang",
+                    "rating": 8
+                },
+                {
+                    "id": "junktopia",
+                    "rating": 6
+                },
+                {
+                    "id": "nonsensory",
+                    "rating": 6
+                },
+                {
+                    "id": "quixort",
+                    "rating": 6
+                }
+            ]
+        },
+        {
+            "id": "jpstarter",
+            "games": [
+                {
+                    "id": "quiplash3_starter",
+                    "rating": 8
+                },
+                {
+                    "id": "teeko_starter",
+                    "rating": 8
+                },
+                {
+                    "id": "trivia_murder_party_2_starter",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "id": "fbxl",
+            "games": [
+                {
+                    "id": "fibbagexl_standalone",
+                    "rating": 6
+                }
+            ]
+        },
+        {
+            "id": "quip",
+            "games": [
+                {
+                    "id": "quiplash",
+                    "rating": 8
+                }
+            ]
+        },
+        {
+            "id": "quip2int",
+            "games": [
+                {
+                    "id": "quiplash2interlashional",
+                    "rating": 8
+                }
+            ]
+        },
+        {
+            "id": "df2",
+            "games": [
+                {
+                    "id": "drawful_2",
+                    "rating": 7
+                }
+            ]
+        },
+        {
+            "id": "ydkj2",
+            "games": [
+                {
+                    "id": "ydkj2",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "id": "ydkj3",
+            "games": [
+                {
+                    "id": "ydkj3",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "id": "ydkj4",
+            "games": [
+                {
+                    "id": "ydkj4",
+                    "rating": 10
+                }
+            ]
+        }
+    ]
+}
