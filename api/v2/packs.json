@@ -1516,6 +1516,13 @@
                             "min": 15,
                             "max": 20
                         },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "In the final round, the first player to see the correct answer on-screen and press the button will win points. Because of this, the player who is streaming their screen will have an unfair advantage over the other players.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "Schnick-Schnack-Fragen Moderations-Text hier einfügen.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
