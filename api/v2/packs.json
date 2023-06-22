@@ -87,10 +87,10 @@
                     "version": "Build:  20.13-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "ydkj2015_patch",
@@ -181,6 +181,17 @@
                             "min": 1,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "In the final round, the first player to see the correct answer on-screen and press the button will win points. Because of this, the player who is streaming their screen will have an unfair advantage over the other players.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -213,6 +224,16 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -245,6 +266,16 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text and drawings.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -275,6 +306,16 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "10 - 15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -305,6 +346,16 @@
                             "min": 1,
                             "max": 100
                         },
+                        "playtime": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": false,
                         "length": "10 - 15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -361,10 +412,10 @@
                     "version": "74.3-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "bombcorp_patch",
@@ -453,6 +504,17 @@
                             "min": 1,
                             "max": 4
                         },
+                        "playtime": {
+                            "min": 5,
+                            "max": 10
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "It's recommended for players to communicate out loud with each other to mention the rules and know which wires to cut.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": false,
                         "length": "10 - 20 Minuten",
                         "type": "COOP",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -487,6 +549,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -519,6 +592,17 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess the truth, without giving points to the players in case of choosing their lies, and gives likes to their favorite lies. If they guess all the truths, at the end of the game they'll receive an additional crazy fact.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -552,6 +636,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can give likes to their favorite responses.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Since players can only input sounds provided by the game, this game doesn't require moderation. However, you cannot control the sound combinations that players submit.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -582,6 +677,16 @@
                             "min": 3,
                             "max": 6
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit drawings.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -640,10 +745,10 @@
                     "version": "Build:  13.14-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "fakinit_patch",
@@ -734,6 +839,18 @@
                             "min": 3,
                             "max": 6
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess who the faker is along with the players.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Players need to be able to see each other for the game to work properly. Therefore, if the game is played through streaming, players must have cameras to play. For the \"YOU GOTTA POINT\" category, it's recommended that players write each other's names on different pieces of paper and show them to the camera when prompted to do so. Alternatively, they can write each other's names in the chat when prompted to do so.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor the player's responses once they appear on screen in the final round.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -766,6 +883,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. In addition, they can submit responses that are displayed on-screen with the \"Audience Play-Along\" option turned on.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Play-Along\" option so that only players can submit text.",
+                        "subtitles": false,
                         "length": "15 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
@@ -798,6 +926,17 @@
                             "min": 1,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can answer questions along with the players. If at the end of the game they have a higher score than the best player, they survive.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "If necessary, it's recommended to enable the \"No Writing and Drawing Mode\" option so that players cannot submit text or drawings.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -830,6 +969,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite shirts. In addition, they can submit writing and drawing suggestions that are displayed on the screen with the \"Audience Suggestions\" option turned on.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Suggestions\" option so that only players can send text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
@@ -863,7 +1013,18 @@
                             "min": 2,
                             "max": 8
                         },
-                        "length": "10 - 15 Minuten",
+                        "playtime": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience answers the given questions and the percentages of these answers are used in the game instead of the global ones provided by the game.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": false,
+                        "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Wie viel Prozent der Menschen haben etwas im Wald vergraben? Auf dem Rücksitz eines Polizeiautos mitgefahren? Sich in jemanden verknallt, mit dem sie arbeiten? Rate richtig und gewinn!",
@@ -921,10 +1082,10 @@
                     "version": "Build:  134.15-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "survivetheinternet_patch",
@@ -1015,6 +1176,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "Ungefähr 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1047,6 +1219,17 @@
                             "min": 3,
                             "max": 7
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "El público controla a un jugador y puede salir con los demás jugadores. Para ello, puede votar entre varias respuestas predeterminadas que se envían a todos los jugadores. Debido a cómo funciona, solo en este juego la opción de público está deshabilitada por defecto. Recordar activarla en los Ajustes.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "If necessary, it's recommended to activate the \"Hide messages on screen\" option. You can't control what players send to each other.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1079,6 +1262,17 @@
                             "min": 3,
                             "max": 16
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1111,6 +1305,17 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for a lie to appear on-screen along with the others. Then, they try to guess the truth, giving players points for choosing their lies, and giving likes to their favorite lies.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1144,6 +1349,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. They can also react to the drawings as the players draw.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "Ungefähr 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1202,10 +1418,10 @@
                     "version": "Build:  213.18-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -1296,6 +1512,10 @@
                             "min": 1,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
@@ -1328,6 +1548,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers and cheer during the raps. Also, they can interact with the gags that happen while the players type.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1360,6 +1591,17 @@
                             "min": 1,
                             "max": 6
                         },
+                        "playtime": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "In this game, players are required to perform actions in real time. As a result, when streaming the game, players watching the stream will experience high latency between their actions and what's on-screen.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": false,
                         "length": "10 Minuten oder mehr",
                         "type": "COOP",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1392,6 +1634,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience controls a player. They answer prompts and vote just like the players. To answer, they can vote among several predetermined answers so that one appears on-screen.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1424,6 +1677,18 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a presentation game, it's recommended for players to be able to at least hear each other.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": false,
                         "length": "20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1483,10 +1748,10 @@
                     "version": "Build:  456.31-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -1577,7 +1842,11 @@
                             "min": 1,
                             "max": 8
                         },
-                        "length": "15 - 25 Minuten",
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
                         "tagline": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
@@ -1609,6 +1878,18 @@
                             "min": 3,
                             "max": 6
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. Additionally, during role choices, they can answer like the players (although only about themselves) and will be given a bonus role at the end of the game based on their answers.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "In \"Peer Assessment Tests\" players must complete tasks so that other players can then see them being performed and vote on who did it best. It is important to be able to see each other for these tasks.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen. If necessary, it's recommended to activate the option \"Disable Player Photos\" so that players cannot use a photo as an avatar.",
+                        "subtitles": true,
                         "length": "15 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1641,6 +1922,18 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a presentation game, it's recommended for players to be able to at least hear each other.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1673,6 +1966,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 10,
+                            "max": 15
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": true,
                         "length": "10 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1705,6 +2009,17 @@
                             "min": 4,
                             "max": 10
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": false,
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a social deduction game, it' recommended that players are able to speak out loud and discuss with each other, especially in the Bioscanner section (one player must describe various symbols to the others). If playing on streaming platforms, this section should be avoided entirely and if one of the humans is AFK it ends up being unbeatable for the humans.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players once they appear on-screen.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "TEAM",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1766,10 +2081,10 @@
                     "version": "561.17-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/releases/latest/download/The-Jackbox-Party-Pack-7-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "champdup_patch",
@@ -1860,6 +2175,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. Además, pueden votar para mostrar diferentes carteles de aliento para los jugadores.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "Ungefähr 20 Minuten",
                         "translation": "COMMUNITY_TRANSLATED",
                         "type": "VERSUS",
@@ -1893,6 +2219,18 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote during the talks and give a prize at the end to their favorite talk.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a presentation game, it's recommended for players to be able to at least hear each other.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "20 - 30 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1925,6 +2263,18 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience is the cat in the house and can cause problems for the rest of the players.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a strategy game, it is recommended that players can at least hear each other in order to perform team tasks.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": true,
                         "length": "Ungefähr 15 Minuten",
                         "type": "COOP",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -1957,6 +2307,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
@@ -1989,7 +2350,19 @@
                             "min": 2,
                             "max": 6
                         },
-                        "length": "15 - 30 Minuten",
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess the correct answer along with the other players.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Being a discussion game, it's recommended for players to be able to at least hear each other. Unlike the other discussion games, however, this game works perfectly without discussions.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "Due to how the game works, player responses cannot be censored. If necessary, it is recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Schaltet eure grauen Zellen für dieses Popkultur-Ratespiel ein, bei dem nichts richtig klingen will!",
@@ -2047,10 +2420,10 @@
                     "version": "437.28-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/releases/latest/download/The-Jackbox-Party-Pack-8-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -2141,7 +2514,18 @@
                             "min": 3,
                             "max": 10
                         },
-                        "length": "15 - 30 Minuten",
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess the correct answer along with the other players, giving points to the players in case they choose their titles, and gives likes to their favorite titles.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Erwecke deine schlimmen Zeichnungen zum Leben!",
@@ -2173,6 +2557,17 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience answers the questions along with the players and wins portions by guessing correctly. These are placed on the wheel and can trigger actions on the players when someone lands on it.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation. If necessary, it's recommended to enable the \"Profanity Filter\" option or disable the \"Allow Player Written Responses\" option.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2205,6 +2600,17 @@
                             "min": 3,
                             "max": 10
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. In addition, they can customize the posters that appear in the background while players make their answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2237,6 +2643,18 @@
                             "min": 2,
                             "max": 10
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can try to guess the correct doors together with the players. In addition, in \"Streamer Mode\", players play in a team against the entire audience.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Being a presentation game, it's recommended for players to be able to at least hear each other. When playing on streaming platforms, it's more recommended that the players team play against the audience team in \"Streamer Mode\".",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "This game doesn't require moderation.",
+                        "subtitles": true,
                         "length": "Ungefähr 15 Minuten",
                         "type": "TEAM",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2269,6 +2687,18 @@
                             "min": 4,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 30
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote along with the players, both when deciding which case is going to be solved and who the murderer is. Also, they can cause lightnings to strike while players draw and can murder nothingness while players murder.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a social deduction game, it's recommended for players to be able to at least hear each other.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "20 - 40 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2326,11 +2756,12 @@
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "653.1-DE",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip","configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/main/jbg.config.jet",
-						"version_property":"buildVersion"
-					},
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/releases/latest/download/The-Jackbox-Party-Pack-9-German.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -2421,6 +2852,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for a lie to appear on-screen along with the others. Then, they try to guess the truth, giving players points for choosing their lies, and giving likes to their favorite lies.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "20 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2454,6 +2896,17 @@
                             "min": 3,
                             "max": 9
                         },
+                        "playtime": {
+                            "min": 25,
+                            "max": 30
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. In addition, they answer different polls as the players type.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "25 - 35 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2487,6 +2940,18 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Being a presentation game, it's recommended for players to be able to at least hear each other.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2519,6 +2984,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess the correct answer along with the other players. They can win the game if they beat the score of the players.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. They can also kick players off the game. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2553,6 +3029,18 @@
                             "min": 1,
                             "max": 10
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "El público se une a algún equipo y ordena los bloques al igual que los jugadores. El equipo de público que lo haga mejor gana al final de la partida.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Al ser un juego de discusión, se recomienda que los jugadores puedan al menos escucharse entre sí.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to kick players off the game if necessary.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "TEAM",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2600,7 +3088,6 @@
                 "version": "1.0.0"
             },
             "configuration": {
-                
                 "file": "config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
@@ -2615,10 +3102,10 @@
                     "version": "216.1-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "quiplash3_starter_patch",
@@ -2679,6 +3166,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option.",
+                        "subtitles": true,
                         "length": "20 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2710,6 +3208,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite shirts. In addition, they can submit writing and drawing suggestions that are displayed on the screen with the \"Audience Suggestions\" option turned on.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option and disable the \"Audience Suggestions\" option so that only players can send text.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2743,6 +3252,18 @@
                             "min": 1,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "The audience controls a player, answering questions and voting on the bets of the minigames. In the final round, they try to escape along with the other players.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "The game works perfectly on streams. However, in the \"Password\" minigame, it's recommended for players to be able to hear each other to share their clues. In addition, the \"Dictation\" minigame requires the stream to have sound in order to hear the dictation.",
+                        "moderation": "CENSORING",
+                        "moderation_description": "If necessary, it's recommended to enable the \"No Writing/Drawing Onscreen Mode\" option so that players cannot send text or drawings.",
+                        "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -2800,10 +3321,10 @@
                     "version": "Build:  22.3-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/Fibbage-XL-German/releases/latest/download/Fibbage-XL-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "fibbagexl_standalone_patch",
@@ -2834,6 +3355,16 @@
                             "min": 2,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2891,10 +3422,10 @@
                     "version": "Build:  23.5-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/Quiplash-German/releases/latest/download/Quiplash-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "quiplash_patch",
@@ -2925,6 +3456,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text.",
+                        "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "COMMUNITY_TRANSLATED",
@@ -2982,10 +3524,10 @@
                     "version": "Build:  141.1-DE",
                     "patch_path": "https://github.com/DerErizzle/Quiplash-2-InterLASHional-German/releases/latest/download/Quiplash-2-InterLASHional-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/DerErizzle/Quiplash-2-InterLASHional-German/main/jbg.config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/DerErizzle/Quiplash-2-InterLASHional-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "quiplash2interlashional_patch",
@@ -3016,6 +3558,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience can vote for their favorite answers. Además, pueden enviar respuestas que se muestran en pantalla con la opción \"Participación del público\" activada.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "With the \"Manual Censoring\" option enabled, the VIP can censor responses from players and the audience once they appear on-screen. If necessary, it's recommended to disable the \"Audience Play-Along\" option so that only players can submit text.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -3073,10 +3626,10 @@
                     "version": "150.1-DE",
                     "patch_path": "https://github.com/DerErizzle/Drawful-2-German/releases/latest/download/Drawful-2-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/DerErizzle/Drawful-2-German/main/jbg.config.jet",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/DerErizzle/Drawful-2-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "drawful_2_patch",
@@ -3107,6 +3660,17 @@
                             "min": 3,
                             "max": 8
                         },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "The audience tries to guess the correct answer along with the other players, giving points to the players in case they choose their titles, and gives likes to their favorite titles.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "With the \"Moderation\" option enabled, the mods that enter mod.jackbox.tv will be able to decide what's displayed on-screen. If necessary, it's recommended to enable the \"Profanity Filter\" option. This game also has the \"Manual Censoring\" option, allowing the VIP to censor the player's responses once they appear on the screen.",
+                        "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -3159,10 +3723,10 @@
                     "version": "1.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/releases/latest/download/YOU-DONT-KNOW-JACK-2-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/main/config.dat",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/main/config.dat",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "ydkj2_patch",
@@ -3193,6 +3757,17 @@
                             "min": 1,
                             "max": 3
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 30
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "This game can only be played locally.",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles": false,
                         "length": "15 - 30 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -3240,10 +3815,10 @@
                     "version": "1.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/releases/latest/download/YOU-DONT-KNOW-JACK-3-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/main/config.dat",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/main/config.dat",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "ydkj3_patch",
@@ -3274,6 +3849,17 @@
                             "min": 1,
                             "max": 3
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 30
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "This game can only be played locally.",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles": false,
                         "length": "15 - 30 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
@@ -3321,10 +3907,10 @@
                     "version": "1.0-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/releases/latest/download/YOU-DONT-KNOW-JACK-4-German.zip",
                     "configuration": {
-						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/main/config.dat",
-						"version_property":"buildVersion"
-					},
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/main/config.dat",
+                        "version_property": "buildVersion"
+                    },
                     "components": [
                         {
                             "id": "ydkj4_patch",
@@ -3355,6 +3941,17 @@
                             "min": 1,
                             "max": 3
                         },
+                        "playtime": {
+                            "min": 15,
+                            "max": 30
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "This game can only be played locally.",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Players can submit text in the \"Gibberish Question\" sections.",
+                        "subtitles": false,
                         "length": "15 - 30 Minuten",
                         "type": "VERSUS",
                         "translation": "NATIVELY_TRANSLATED",
