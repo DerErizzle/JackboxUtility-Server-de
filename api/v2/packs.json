@@ -409,7 +409,7 @@
                     "name": "Das Jackbox Party Pack 2",
                     "small_description": "Earwax, Bidiots und Quiplash XL sind vollständig auf Deutsch.",
                     "description": "Earwax, Bidiots und Quiplash XL sind vollständig auf Deutsch.",
-                    "version": "74.3-DE",
+                    "version": "74.4-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -429,7 +429,7 @@
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
