@@ -409,7 +409,7 @@
                     "name": "Das Jackbox Party Pack 2",
                     "small_description": "Bis auf Fibbage 2 sind alle Spiele vollständig auf Deutsch.",
                     "description": "Bis auf Fibbage 2 sind alle Spiele vollständig auf Deutsch.",
-                    "version": "74.4-DE",
+                    "version": "74.5-DE",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
