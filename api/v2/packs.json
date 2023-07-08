@@ -78,6 +78,10 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-1"
+            },
             "patchs": [
                 {
                     "id": "jpp1_de",
@@ -398,6 +402,10 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-2"
             },
             "loader": {
                 "path": "loaders/tjpp2/default.zip",
@@ -731,6 +739,10 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-3"
             },
             "loader": {
                 "path": "loaders/tjpp3/default.zip",
@@ -1068,6 +1080,10 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-4"
             },
             "loader": {
                 "path": "loaders/tjpp4/default.zip",
@@ -1409,6 +1425,10 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-5"
+            },
             "patchs": [
                 {
                     "id": "jpp5_de",
@@ -1744,6 +1764,10 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-6"
             },
             "patchs": [
                 {
@@ -2086,6 +2110,10 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-7"
+            },
             "patchs": [
                 {
                     "id": "jpp7_de",
@@ -2424,6 +2452,10 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-8"
+            },
             "patchs": [
                 {
                     "id": "jpp8_de",
@@ -2761,6 +2793,10 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-pack-9"
             },
             "patchs": [
                 {
@@ -3105,6 +3141,10 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
+                "epic":"https://store.epicgames.com/p/jackbox-party-starter"
+            },
             "patchs": [
                 {
                     "id": "jpstarter_de",
@@ -3320,6 +3360,9 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/448080/Fibbage_XL/"
+            },
             "loader": {
                 "path": "loaders/standalones/default.zip",
                 "version": "1.0.0"
@@ -3420,6 +3463,9 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/351510/Quiplash/"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -3523,6 +3569,9 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
+            },
             "loader": {
                 "path": "loaders/standalones/default.zip",
                 "version": "1.0.0"
@@ -3625,6 +3674,10 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/442070/Drawful_2/",
+                "epic":"https://store.epicgames.com/p/drawful-2"
+            },
             "loader": {
                 "path": "loaders/df2/default.zip",
                 "version": "1.0.0"
@@ -3726,6 +3779,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.dat"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259940/YOU_DONT_KNOW_JACK_Vol_2/"
+            },
             "patchs": [
                 {
                     "id": "ydkj2_de",
@@ -3818,6 +3874,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.dat"
             },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259960/YOU_DONT_KNOW_JACK_Vol_3/"
+            },
             "patchs": [
                 {
                     "id": "ydkj3_de",
@@ -3909,6 +3968,9 @@
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
                 "version_file": "config.dat"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/259980/YOU_DONT_KNOW_JACK_Vol_4_The_Ride/"
             },
             "patchs": [
                 {
