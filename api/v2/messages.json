@@ -4,12 +4,12 @@
     "children":[
       {
         "type":"text",
-        "text":"Cooles Party Pack 7 Update"
+        "text":"YOU DON'T KNOW JACK auf Deutsch"
       },
       {
         "type":"countdown",
-        "endText":"Patch verfügbar",
-        "endTime":"2023-08-06 15:00:00"
+        "endText":"Ab sofort verfügbar!",
+        "endTime":"2023-08-19 12:00:00"
       }
     ]
   },
@@ -20,16 +20,16 @@
         "children":[
           {
             "type":"text",
-            "text":"Cooles Party Pack 7 Update"
+            "text":"YOU DON'T KNOW JACK auf Deutsch"
           },
           {
             "type":"countdown",
-            "endText":"Patch verfügbar",
-            "endTime":"2023-08-06 15:00:00"
+            "endText":"Ab sofort verfügbar!",
+            "endTime":"2023-08-19 12:00:00"
           }
         ]
       },
-      "gameId":"blatherround"
+      "gameId":"ydkj_fullstream"
     }
   ],
   "patchesComponent" : [
@@ -39,16 +39,16 @@
         "children":[
           {
             "type":"text",
-            "text":"Cooles Party Pack 7 Update"
+            "text":"YOU DON'T KNOW JACK auf Deutsch"
           },
           {
             "type":"countdown",
-            "endText":"Patch verfügbar",
-            "endTime":"2023-08-06 15:00:00"
+            "endText":"Ab sofort verfügbar!",
+            "endTime":"2023-08-19 12:00:00"
           }
         ]
       },
-      "packId":"jpp7"
+      "packId":"jpp5"
     }
   ]
 }
