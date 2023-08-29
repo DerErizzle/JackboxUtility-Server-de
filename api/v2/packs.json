@@ -1545,14 +1545,16 @@
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
                         "translation": "ENGLISH",
-                        "tagline": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
-                        "small_description": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
-                        "description": "Das Deutsch-Patch-Team bringt YDKJ zurück! Wir arbeiten derzeit an der Übersetzung für dieses Spiel und rechnen mit einer Veröffentlichung im Sommer 2023. Bleibt gespannt!",
+                        "tagline": "YOU DON'T KNOW JACK: Full Stream bringt das klassische, respektlose Trivia-Phänomen zum äußerst beliebten und völlig fiktiven Streamingdienst Binjpipe! In den Nutzungsbedingungen steht ausdrücklich, dass ihr es lieben werdet!",
+                        "small_description": "YOU DON'T KNOW JACK: Full Stream bringt das klassische, respektlose Trivia-Phänomen zum äußerst beliebten und völlig fiktiven Streamingdienst Binjpipe! In den Nutzungsbedingungen steht ausdrücklich, dass ihr es lieben werdet!",
+                        "description": "YOU DON'T KNOW JACK: Full Stream bringt das klassische, respektlose Trivia-Phänomen zum äußerst beliebten und völlig fiktiven Streamingdienst Binjpipe! In den Nutzungsbedingungen steht ausdrücklich, dass ihr es lieben werdet!",
                         "images": [
-                            "game_images/YDKJFullStream/ydkjfullstream_1.webp",
-                            "game_images/YDKJFullStream/ydkjfullstream_2.webp",
-                            "game_images/YDKJFullStream/ydkjfullstream_3.webp",
-                            "game_images/YDKJFullStream/ydkjfullstream_4.webp"
+                            "game_images/YDKJFullStream/fs1.png",
+                            "game_images/YDKJFullStream/fs2.png",
+                            "game_images/YDKJFullStream/fs3.png",
+                            "game_images/YDKJFullStream/fs4.png",
+                            "game_images/YDKJFullStream/fs5.png",
+                            "game_images/YDKJFullStream/fs6.png"
                         ],
                         "tags": [
                             "knowledge"
