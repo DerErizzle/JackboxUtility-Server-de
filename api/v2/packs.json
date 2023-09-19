@@ -79,9 +79,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-1"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-1"
             },
             "patchs": [
                 {
@@ -404,9 +404,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-2"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-2"
             },
             "loader": {
                 "path": "loaders/tjpp2/default.zip",
@@ -741,9 +741,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-3"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-3"
             },
             "loader": {
                 "path": "loaders/tjpp3/default.zip",
@@ -1082,9 +1082,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-4"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-4"
             },
             "loader": {
                 "path": "loaders/tjpp4/default.zip",
@@ -1426,9 +1426,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-5"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-5"
             },
             "patchs": [
                 {
@@ -1768,9 +1768,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-6"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-6"
             },
             "patchs": [
                 {
@@ -2113,9 +2113,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-7"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-7"
             },
             "patchs": [
                 {
@@ -2455,9 +2455,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-8"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-8"
             },
             "patchs": [
                 {
@@ -2797,9 +2797,9 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-pack-9"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-pack-9"
             },
             "patchs": [
                 {
@@ -3143,8 +3143,8 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
             },
             "patchs": [
                 {
@@ -3484,9 +3484,9 @@
                 "version_origin": "game_file",
                 "version_file": "config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
-                "epic":"https://store.epicgames.com/p/jackbox-party-starter"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
+                "epic": "https://store.epicgames.com/p/jackbox-party-starter"
             },
             "patchs": [
                 {
@@ -3703,8 +3703,8 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/448080/Fibbage_XL/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/448080/Fibbage_XL/"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -3807,8 +3807,8 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/351510/Quiplash/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/351510/Quiplash/"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -3912,8 +3912,8 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -4017,9 +4017,9 @@
                 "version_origin": "game_file",
                 "version_file": "jbg.config.jet"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/442070/Drawful_2/",
-                "epic":"https://store.epicgames.com/p/drawful-2"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/442070/Drawful_2/",
+                "epic": "https://store.epicgames.com/p/drawful-2"
             },
             "loader": {
                 "path": "loaders/df2/default.zip",
@@ -4122,8 +4122,8 @@
                 "version_origin": "game_file",
                 "version_file": "config.dat"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/259940/YOU_DONT_KNOW_JACK_Vol_2/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/259940/YOU_DONT_KNOW_JACK_Vol_2/"
             },
             "patchs": [
                 {
@@ -4217,8 +4217,8 @@
                 "version_origin": "game_file",
                 "version_file": "config.dat"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/259960/YOU_DONT_KNOW_JACK_Vol_3/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/259960/YOU_DONT_KNOW_JACK_Vol_3/"
             },
             "patchs": [
                 {
@@ -4312,8 +4312,8 @@
                 "version_origin": "game_file",
                 "version_file": "config.dat"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/259980/YOU_DONT_KNOW_JACK_Vol_4_The_Ride/"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/259980/YOU_DONT_KNOW_JACK_Vol_4_The_Ride/"
             },
             "patchs": [
                 {
@@ -4391,25 +4391,25 @@
             "background": "backgrounds/ydkj4.png"
         },
         {
-            "id":"ydkjvol6",
-            "name":"YOU DON'T KNOW JACK VOL. 6 The Lost Gold",
-            "description":"Erscheinungsdatum: 2003",
-            "launchers_id":{
-                "steam":"260080"
+            "id": "ydkjvol6",
+            "name": "YOU DON'T KNOW JACK VOL. 6 The Lost Gold",
+            "description": "Erscheinungsdatum: 2003",
+            "launchers_id": {
+                "steam": "260080"
             },
-            "executables":{
-                "windows":"YDKJ6.exe",
-                "mac":"",
-                "linux":"YDKJ6.exe"
+            "executables": {
+                "windows": "YDKJ6.exe",
+                "mac": "",
+                "linux": "YDKJ6.exe"
             },
-            "configuration":{
-                "version_origin":"game_file",
-                "version_file":"config.dat",
-                "version_property":"buildVersion"
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "config.dat",
+                "version_property": "buildVersion"
             },
-            "store_links":{
-                "steam":"https://store.steampowered.com/app/260080/YOU_DONT_KNOW_JACK_Vol_6_The_Lost_Gold/",
-                "jackbox_games_store":"http://shrsl.com/44k24"
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/260080/YOU_DONT_KNOW_JACK_Vol_6_The_Lost_Gold/",
+                "jackbox_games_store": "http://shrsl.com/44k24"
             },
             "patchs": [
                 {
@@ -4443,50 +4443,49 @@
                     ]
                 }
             ],
-            "games":[
+            "games": [
                 {
-                    "id":"ydkjvol6",
-                    "name":"YOU DON'T KNOW JACK VOL. 6 The Lost Gold",
-                    "background":"game_backgrounds/YouDontKnowJackVol6.webp",
-                    "path":"",
-                    "game_info":{
-                        "players":{
-                            "min":1,
-                            "max":3
+                    "id": "ydkjvol6",
+                    "name": "YOU DON'T KNOW JACK VOL. 6 The Lost Gold",
+                    "background": "game_backgrounds/YouDontKnowJackVol6.webp",
+                    "path": "",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 3
                         },
-                        "length":"15 - 30 minutes",
-                        "playtime":{
-                            "min":15,
-                            "max":30
+                        "length": "15 - 30 minutes",
+                        "playtime": {
+                            "min": 15,
+                            "max": 30
                         },
-                        "family_friendly":"NOT_FAMILY_FRIENDLY",
-                        "audience":false,
-                        "stream_friendly":"NOT_PLAYABLE",
-                        "stream_friendly_description":"Dieses Spiel kann nur lokal gespielt werden.",
-                        "moderation":"NO_MODERATION",
-                        "moderation_description":"Spieler können beispielsweise in den \"Schnickschnack-Fragen\" eigene Texte eingeben.",
-                        "subtitles":false,
-                        "type":"VERSUS",
-                        "translation":"NATIVELY_TRANSLATED",
-                        "tagline":"Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
-                        "small_description":"Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
-                        "description":"Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
-                        "images":[
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": false,
+                        "stream_friendly": "NOT_PLAYABLE",
+                        "stream_friendly_description": "Dieses Spiel kann nur lokal gespielt werden.",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Spieler können beispielsweise in den \"Schnickschnack-Fragen\" eigene Texte eingeben.",
+                        "subtitles": false,
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
+                        "small_description": "Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
+                        "description": "Das klassische Quiz-Spiel, bei dem Hochkultur und Popkultur aufeinanderprallen - Auf Deutsch!",
+                        "images": [
                             "game_images/YouDontKnowJackVol6/youdontknowjackvol6_1.jpg",
                             "game_images/YouDontKnowJackVol6/youdontknowjackvol6_2.jpg",
                             "game_images/YouDontKnowJackVol6/youdontknowjackvol6_3.jpg",
                             "game_images/YouDontKnowJackVol6/youdontknowjackvol6_4.jpg"
                         ],
-                        "tags":[
+                        "tags": [
                             "knowledge"
                         ]
-    
                     },
-                    "patchs":[]
+                    "patchs": []
                 }
             ],
-            "icon":"ydkjvol6.ico",
-            "background":"backgrounds/ydkjvol6.jpg"
+            "icon": "ydkjvol6.ico",
+            "background": "backgrounds/ydkjvol6.jpg"
         }
     ]
 }
