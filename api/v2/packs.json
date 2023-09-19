@@ -58,7 +58,7 @@
     "packs": [
         {
             "id": "jpp1",
-            "name": "Jackbox Party Pack 1",
+            "name": "The Jackbox Party Pack",
             "description": "Erscheinungsdatum: 2014",
             "launchers_id": {
                 "steam": "331670",
@@ -66,7 +66,7 @@
             },
             "executables": {
                 "windows": "The Jackbox Party Pack.exe",
-                "mac": "The Jackbox Party Pack 1.app/Contents/MacOS/The Jackbox Party Pack 1",
+                "mac": "The Jackbox Party Pack.app/Contents/MacOS/The Jackbox Party Pack",
                 "linux": "Launcher.sh"
             },
             "loader": {
@@ -387,7 +387,7 @@
         },
         {
             "id": "jpp2",
-            "name": "Jackbox Party Pack 2",
+            "name": "The Jackbox Party Pack 2",
             "description": "Erscheinungsdatum: 2015",
             "launchers_id": {
                 "steam": "397460",
@@ -724,7 +724,7 @@
         },
         {
             "id": "jpp3",
-            "name": "Jackbox Party Pack 3",
+            "name": "The Jackbox Party Pack 3",
             "description": "Erscheinungsdatum: 2016",
             "launchers_id": {
                 "steam": "434170",
@@ -1065,7 +1065,7 @@
         },
         {
             "id": "jpp4",
-            "name": "Jackbox Party Pack 4",
+            "name": "The Jackbox Party Pack 4",
             "description": "Erscheinungsdatum: 2017",
             "launchers_id": {
                 "steam": "610180",
@@ -1405,7 +1405,7 @@
         },
         {
             "id": "jpp5",
-            "name": "Jackbox Party Pack 5",
+            "name": "The Jackbox Party Pack 5",
             "description": "Erscheinungsdatum: 2018",
             "launchers_id": {
                 "steam": "774461",
@@ -1747,7 +1747,7 @@
         },
         {
             "id": "jpp6",
-            "name": "Jackbox Party Pack 6",
+            "name": "The Jackbox Party Pack 6",
             "description": "Erscheinungsdatum: 2019",
             "launchers_id": {
                 "steam": "1005300",
@@ -2092,7 +2092,7 @@
         },
         {
             "id": "jpp7",
-            "name": "Jackbox Party Pack 7",
+            "name": "The Jackbox Party Pack 7",
             "description": "Erscheinungsdatum: 2020",
             "launchers_id": {
                 "steam": "1211630",
@@ -2434,7 +2434,7 @@
         },
         {
             "id": "jpp8",
-            "name": "Jackbox Party Pack 8",
+            "name": "The Jackbox Party Pack 8",
             "description": "Erscheinungsdatum: 2021",
             "launchers_id": {
                 "steam": "1552350",
@@ -2776,7 +2776,7 @@
         },
         {
             "id": "jpp9",
-            "name": "Jackbox Party Pack 9",
+            "name": "The Jackbox Party Pack 9",
             "description": "Erscheinungsdatum: 2022",
             "launchers_id": {
                 "steam": "1850960",
@@ -3123,7 +3123,7 @@
         },
         {
             "id": "jpp10",
-            "name": "Jackbox Party Pack 10",
+            "name": "The Jackbox Party Pack 10",
             "description": "Erscheinungsdatum: 2023",
             "launchers_id": {
                 "steam": "2216830"
@@ -3463,7 +3463,7 @@
         },
         {
             "id": "jpstarter",
-            "name": "Jackbox Party Starter",
+            "name": "The Jackbox Party Starter",
             "description": "Erscheinungsdatum: 2022",
             "launchers_id": {
                 "steam": "1755580",
@@ -3491,7 +3491,7 @@
             "patchs": [
                 {
                     "id": "jpstarter_de",
-                    "name": "Jackbox Party Starter",
+                    "name": "Der Jackbox Party Starter",
                     "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "version": "216.1-DE",
