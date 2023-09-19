@@ -46,6 +46,7 @@
                 "jpp7_de",
                 "jpp8_de",
                 "jpp9_de",
+                "jpp10_de",
                 "jpstarter_de",
                 "fbxl_de",
                 "quip_de",
@@ -3096,7 +3097,7 @@
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Diese fallenden Ratespielblöcke sortieren sich nicht von allein!",
                         "small_description": "Diese fallenden Ratespielblöcke sortieren sich nicht von allein!",
-                        "description": " In dieser Trivia-Sortierfabrik müsst ihr mit eurem Team die herabfallenden Antworten in die richtige Reihenfolge bringen, bevor sie den Boden erreichen! Oder ihr wagt euch an den Einzelspielermodus und versucht, so viele Blöcke wie möglich zu sortieren. Das ist so einfach wie das ACB!",
+                        "description": "In dieser Trivia-Sortierfabrik müsst ihr mit eurem Team die herabfallenden Antworten in die richtige Reihenfolge bringen, bevor sie den Boden erreichen! Oder ihr wagt euch an den Einzelspielermodus und versucht, so viele Blöcke wie möglich zu sortieren. Das ist so einfach wie das ACB!",
                         "images": [
                             "game_images/Quixort/quixort_1.jpg",
                             "game_images/Quixort/quixort_2.jpg",
@@ -3119,6 +3120,347 @@
             ],
             "icon": "jpp9.ico",
             "background": "backgrounds/jpp9.jpg"
+        },
+        {
+            "id": "jpp10",
+            "name": "Jackbox Party Pack 10",
+            "description": "Erscheinungsdatum: 2023",
+            "launchers_id": {
+                "steam": "2216830"
+            },
+            "executables": {
+                "windows": "The Jackbox Party Pack 10.exe",
+                "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
+                "linux": "Launcher.sh"
+            },
+            "loader": {
+                "path": "loaders/tjpp10/default.zip",
+                "version": "1.0.0"
+            },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
+            },
+            "store_links":{
+                "steam":"https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
+            },
+            "patchs": [
+                {
+                    "id": "jpp10_de",
+                    "name": "Das Jackbox Party Pack 10",
+                    "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "version": "407.0-DE",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-10-German/releases/latest/download/The-Jackbox-Party-Pack-10-German.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-10-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "components": [
+                        {
+                            "id": "teeko2_patch",
+                            "linked_game": "teeko2",
+                            "name": "Tee K.O. 2",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "fixytext_patch",
+                            "linked_game": "fixytext",
+                            "name": "FixyText",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "timejinx_patch",
+                            "linked_game": "timejinx",
+                            "name": "Timejinx",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "hypnotorious_patch",
+                            "linked_game": "hypnotorious",
+                            "name": "Hypnotorious",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "dodoremi_patch",
+                            "linked_game": "dodoremi",
+                            "name": "Dodo Re Mi",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": false,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
+            "games": [
+                {
+                    "id": "teeko2",
+                    "name": "Tee K.O. 2",
+                    "background": "game_backgrounds/jbg_generic.png",
+                    "path": "games/AwShirt2",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "subtitles": true,
+                        "length": "20 - 25 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Erstellt schräge Shirts... und LASST SIE KÄMPFEN!",
+                        "small_description": "Erstellt schräge Shirts... und LASST SIE KÄMPFEN!",
+                        "description": "Erstellt schräge Shirts... und LASST SIE KÄMPFEN!",
+                        "images": [
+                            "game_images/Fibbage4/fibbage4_1.jpg",
+                            "game_images/Fibbage4/fibbage4_2.jpg",
+                            "game_images/Fibbage4/fibbage4_3.jpg",
+                            "game_images/Fibbage4/fibbage4_4.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "drawing"
+                        ]
+                    },
+                    "loader": {
+                        "path": "loaders/tjpp10/teeko2.zip",
+                        "version": "1.0.0"
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "fixytext",
+                    "name": "FixyText",
+                    "background": "game_backgrounds/jbg_generic.png",
+                    "path": "games/RiskyText",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Poliert fremde Nachrichten auf!",
+                        "small_description": "Poliert fremde Nachrichten auf!",
+                        "description": "Poliert fremde Nachrichten auf!",
+                        "images": [
+                            "game_images/Roomerang/roomerang_1.jpg",
+                            "game_images/Roomerang/roomerang_2.jpg",
+                            "game_images/Roomerang/roomerang_3.jpg",
+                            "game_images/Roomerang/roomerang_4.jpg",
+                            "game_images/Roomerang/roomerang_5.jpg"
+                        ],
+                        "tags": [
+                            "writing"
+                        ]
+                    },
+                    "loader": {
+                        "path": "loaders/tjpp10/fixytext.zip",
+                        "version": "1.0.0"
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "timejinx",
+                    "name": "Timejinx",
+                    "background": "game_backgrounds/jbg_generic.png",
+                    "path": "games/TimeTrivia",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "DIES IST EIN PLATZHALTER.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Das beste Quizspiel aller Zeiten. Wortwörtlich.",
+                        "small_description": "Das beste Quizspiel aller Zeiten. Wortwörtlich.",
+                        "description": "Das beste Quizspiel aller Zeiten. Wortwörtlich.",
+                        "images": [
+                            "game_images/Junktopia/junktopia_1.jpg",
+                            "game_images/Junktopia/junktopia_2.jpg",
+                            "game_images/Junktopia/junktopia_3.jpg"
+                        ],
+                        "tags": [
+                            "knowledge"
+                        ]
+                    },
+                    "loader": {
+                        "path": "loaders/tjpp10/timejinx.zip",
+                        "version": "1.0.0"
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "hypnotorious",
+                    "name": "Hypnotorious",
+                    "background": "game_backgrounds/jbg_generic.png",
+                    "path": "games/RangeGame",
+                    "game_info": {
+                        "players": {
+                            "min": 4,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "subtitles": true,
+                        "length": "15 - 25 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Hypnose, Teamwork und ... geheime Identitäten!",
+                        "small_description": "Hypnose, Teamwork und ... geheime Identitäten!",
+                        "description": "Hypnose, Teamwork und ... geheime Identitäten!",
+                        "images": [
+                            "game_images/Nonsensory/nonsensory_1.jpg",
+                            "game_images/Nonsensory/nonsensory_2.jpg",
+                            "game_images/Nonsensory/nonsensory_3.jpg",
+                            "game_images/Nonsensory/nonsensory_4.jpg",
+                            "game_images/Nonsensory/nonsensory_5.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "deduction"
+                        ]
+                    },
+                    "loader": {
+                        "path": "loaders/tjpp10/hypnotorious.zip",
+                        "version": "1.0.0"
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "dodoremi",
+                    "name": "Dodo Re Mi",
+                    "background": "game_backgrounds/jbg_generic.png",
+                    "path": "games/Lineup",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 9
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 25
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "DIES IST EIN PLATZHALTER.",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 25 Minuten",
+                        "type": "TEAM",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
+                        "small_description": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
+                        "description": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
+                        "images": [
+                            "game_images/Quixort/quixort_1.jpg",
+                            "game_images/Quixort/quixort_2.jpg",
+                            "game_images/Quixort/quixort_3.jpg",
+                            "game_images/Quixort/quixort_4.jpg",
+                            "game_images/Quixort/quixort_5.jpg",
+                            "game_images/Quixort/quixort_6.jpg"
+                        ],
+                        "tags": []
+                    },
+                    "loader": {
+                        "path": "loaders/tjpp10/dodoremi.zip",
+                        "version": "1.0.0"
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jpp10.ico",
+            "background": "backgrounds/jpp10.jpg"
         },
         {
             "id": "jpstarter",
