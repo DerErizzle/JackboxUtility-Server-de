@@ -3255,10 +3255,10 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "audience_description": "Das Publikum kann für die besten Shirts abstimmen.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
                         "subtitles": true,
                         "length": "20 - 25 Minuten",
                         "type": "VERSUS",
@@ -3267,10 +3267,11 @@
                         "small_description": "Erstellt schräge Shirts... und LASST SIE KÄMPFEN!",
                         "description": "Erstellt schräge Shirts... und LASST SIE KÄMPFEN!",
                         "images": [
-                            "game_images/Fibbage4/fibbage4_1.jpg",
-                            "game_images/Fibbage4/fibbage4_2.jpg",
-                            "game_images/Fibbage4/fibbage4_3.jpg",
-                            "game_images/Fibbage4/fibbage4_4.jpg"
+                            "game_images/TeeKO2/TKO2-0001.png",
+                            "game_images/TeeKO2/TKO2-0002.png",
+                            "game_images/TeeKO2/TKO2-0003.png",
+                            "game_images/TeeKO2/TKO2-0004.png",
+                            "game_images/TeeKO2/TKO2-0005.png"
                         ],
                         "tags": [
                             "writing",
@@ -3299,10 +3300,10 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "audience_description": "Das Publikum kann über die lustigsten Wörter abstimmen.",
                         "stream_friendly": "PLAYABLE",
-                        "moderation": "CENSORING",
-                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "moderation": "NO_MODERATION",
+                        "moderation_description": "Da die Spielereingaben in Echtzeit stattfinden, ist eine Moderation nicht möglich.",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
@@ -3311,11 +3312,11 @@
                         "small_description": "Poliert fremde Nachrichten auf!",
                         "description": "Poliert fremde Nachrichten auf!",
                         "images": [
-                            "game_images/Roomerang/roomerang_1.jpg",
-                            "game_images/Roomerang/roomerang_2.jpg",
-                            "game_images/Roomerang/roomerang_3.jpg",
-                            "game_images/Roomerang/roomerang_4.jpg",
-                            "game_images/Roomerang/roomerang_5.jpg"
+                            "game_images/FixyText/FixyText-0001.png",
+                            "game_images/FixyText/FixyText-0002.png",
+                            "game_images/FixyText/FixyText-0003.png",
+                            "game_images/FixyText/FixyText-0004.png",
+                            "game_images/FixyText/FixyText-0005.png"
                         ],
                         "tags": [
                             "writing"
@@ -3343,11 +3344,9 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "audience_description": "Das Publikum beantwortet ebenfalls Quizfragen.",
                         "stream_friendly": "PLAYABLE",
-                        "stream_friendly_description": "DIES IST EIN PLATZHALTER.",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "DIES IST EIN PLATZHALTER.",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
@@ -3356,9 +3355,11 @@
                         "small_description": "Das beste Quizspiel aller Zeiten. Wortwörtlich.",
                         "description": "Das beste Quizspiel aller Zeiten. Wortwörtlich.",
                         "images": [
-                            "game_images/Junktopia/junktopia_1.jpg",
-                            "game_images/Junktopia/junktopia_2.jpg",
-                            "game_images/Junktopia/junktopia_3.jpg"
+                            "game_images/TimeJinx/TimeJinx-0001.png",
+                            "game_images/TimeJinx/TimeJinx-0002.png",
+                            "game_images/TimeJinx/TimeJinx-0003.png",
+                            "game_images/TimeJinx/TimeJinx-0004.png",
+                            "game_images/TimeJinx/TimeJinx-0005.png"
                         ],
                         "tags": [
                             "knowledge"
@@ -3374,7 +3375,7 @@
                     "id": "hypnotorious",
                     "name": "Hypnotorious",
                     "background": "game_backgrounds/Hypnotorious.png",
-                    "path": "games/RangeGame",
+                    "path": "games/Strangers",
                     "game_info": {
                         "players": {
                             "min": 4,
@@ -3386,10 +3387,9 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "DIES IST EIN PLATZHALTER.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
-                        "moderation_description": "DIES IST EIN PLATZHALTER.",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
                         "subtitles": true,
                         "length": "15 - 25 Minuten",
                         "type": "VERSUS",
@@ -3398,11 +3398,11 @@
                         "small_description": "Hypnose, Teamwork und ... geheime Identitäten!",
                         "description": "Hypnose, Teamwork und ... geheime Identitäten!",
                         "images": [
-                            "game_images/Nonsensory/nonsensory_1.jpg",
-                            "game_images/Nonsensory/nonsensory_2.jpg",
-                            "game_images/Nonsensory/nonsensory_3.jpg",
-                            "game_images/Nonsensory/nonsensory_4.jpg",
-                            "game_images/Nonsensory/nonsensory_5.jpg"
+                            "game_images/Hypnotorious/Hypnotorious-0001.png",
+                            "game_images/Hypnotorious/Hypnotorious-0002.png",
+                            "game_images/Hypnotorious/Hypnotorious-0003.png",
+                            "game_images/Hypnotorious/Hypnotorious-0004.png",
+                            "game_images/Hypnotorious/Hypnotorious-0005.png"
                         ],
                         "tags": [
                             "writing",
@@ -3419,7 +3419,7 @@
                     "id": "dodoremi",
                     "name": "Dodo Re Mi",
                     "background": "game_backgrounds/DodoReMi.png",
-                    "path": "games/Lineup",
+                    "path": "games/NopusOpus",
                     "game_info": {
                         "players": {
                             "min": 1,
@@ -3431,24 +3431,23 @@
                         },
                         "family_friendly": "FAMILY_FRIENDLY",
                         "audience": true,
-                        "audience_description": "DIES IST EIN PLATZHALTER.",
+                        "audience_description": "Das Publikum kann ebenfalls die Songs mitspielen.",
                         "stream_friendly": "PLAYABLE",
-                        "stream_friendly_description": "DIES IST EIN PLATZHALTER.",
+                        "stream_friendly_description": "Zu Beginn jedes Songs gibt es eine Synchronisation, sodass die Streamverzögerung automatisch herausgerechnet wird.",
                         "moderation": "FULL_MODERATION",
                         "subtitles": true,
                         "length": "15 - 25 Minuten",
-                        "type": "TEAM",
+                        "type": "COOP",
                         "translation": "NATIVELY_TRANSLATED",
                         "tagline": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
                         "small_description": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
                         "description": "Ein Musikspiel, das die reinste Vogelhochzeit ist.",
                         "images": [
-                            "game_images/Quixort/quixort_1.jpg",
-                            "game_images/Quixort/quixort_2.jpg",
-                            "game_images/Quixort/quixort_3.jpg",
-                            "game_images/Quixort/quixort_4.jpg",
-                            "game_images/Quixort/quixort_5.jpg",
-                            "game_images/Quixort/quixort_6.jpg"
+                            "game_images/DodoReMi/DoDoReMi-0001.png",
+                            "game_images/DodoReMi/DoDoReMi-0002.png",
+                            "game_images/DodoReMi/DoDoReMi-0003.png",
+                            "game_images/DodoReMi/DoDoReMi-0004.png",
+                            "game_images/DodoReMi/DoDoReMi-0005.png"
                         ],
                         "tags": []
                     },
