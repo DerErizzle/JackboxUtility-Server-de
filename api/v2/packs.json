@@ -3214,9 +3214,9 @@
                             "id": "dodoremi_patch",
                             "linked_game": "dodoremi",
                             "name": "Dodo Re Mi",
-                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert. Der Patch fügt die Songs \"Das Rad von unglaublicher Größe\" und \"Kritzel Witzel\" hinzu.",
                             "authors": "Jackbox Games",
-                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert. Der Patch fügt die Songs \"Das Rad von unglaublicher Größe\" und \"Kritzel Witzel\" hinzu.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": false,
