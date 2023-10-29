@@ -1496,7 +1496,7 @@
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": true
+                                "audios": false
                             }
                         },
                         {
