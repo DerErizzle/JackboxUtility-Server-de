@@ -130,15 +130,15 @@
                             "id": "drawful_patch",
                             "linked_game": "drawful",
                             "name": "Drawful",
-                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
