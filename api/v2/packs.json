@@ -1433,6 +1433,10 @@
                     "small_description": "You Don't Know Jack: Full Stream, Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
                     "description": "You Don't Know Jack: Full Stream, Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
+                    "patch_paths": [
+                        "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
+                        "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/download/213.18-DE/The-Jackbox-Party-Pack-5-German.zip"
+                    ],
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet",
@@ -3118,7 +3122,7 @@
             "description": "Erscheinungsdatum: 2023",
             "launchers_id": {
                 "steam": "2216830",
-                "epic":"fddfaf1422fb43b08d3ccc0fcc110a65"
+                "epic": "fddfaf1422fb43b08d3ccc0fcc110a65"
             },
             "executables": {
                 "windows": "The Jackbox Party Pack 10.exe",
