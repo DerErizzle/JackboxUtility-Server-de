@@ -1430,9 +1430,9 @@
                 {
                     "id": "jpp5_de",
                     "name": "Das Jackbox Party Pack 5",
-                    "small_description": "You Don't Know Jack: Full Stream, Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
-                    "description": "You Don't Know Jack: Full Stream, Mad Verse City und Patently Stupid sind vollständig auf Deutsch.",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German.zip",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "patch_paths": [ "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German-Part1.zip", "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German-Part2.zip" ],
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet",
@@ -1473,30 +1473,30 @@
                             "id": "zeeple_dome_patch",
                             "linked_game": "zeeple_dome",
                             "name": "Zeeple Dome",
-                            "description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
                             "id": "splittheroom_patch",
                             "linked_game": "splittheroom",
-                            "name": "Split The Room",
-                            "description": "Prompts auf Deutsch. Sprachausgabe zum Teil auf Englisch.",
+                            "name": "Split the Room",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Prompts auf Deutsch. Sprachausgabe zum Teil auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
@@ -1650,7 +1650,7 @@
                 },
                 {
                     "id": "splittheroom",
-                    "name": "Split The Room",
+                    "name": "Split the Room",
                     "background": "game_backgrounds/SplitTheRoom.webp",
                     "path": "games/SplitTheRoom",
                     "game_info": {
