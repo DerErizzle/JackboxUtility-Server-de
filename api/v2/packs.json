@@ -3888,7 +3888,8 @@
             "name": "Quiplash 2 InterLASHional",
             "description": "Erscheinungsdatum: 2020",
             "launchers_id": {
-                "steam": "1111940"
+                "steam": "1111940",
+                "epic": "e912e6d9595b4ff3a7257bcdc82b6671"
             },
             "executables": {
                 "windows": "Quiplash 2 InterLASHional.exe",
@@ -3902,7 +3903,8 @@
                 "version_file": "jbg.config.jet"
             },
             "store_links": {
-                "steam": "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
+                "steam": "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/",
+                "epic": "https://store.epicgames.com/p/quiplash-2-interlashional-3c3888"
             },
             "loader": {
                 "path": "loaders/standalones/default.zip",
@@ -4392,8 +4394,7 @@
                 "version_property": "buildVersion"
             },
             "store_links": {
-                "steam": "https://store.steampowered.com/app/260080/YOU_DONT_KNOW_JACK_Vol_6_The_Lost_Gold/",
-                "jackbox_games_store": "http://shrsl.com/44k24"
+                "steam": "https://store.steampowered.com/app/260080/YOU_DONT_KNOW_JACK_Vol_6_The_Lost_Gold/"
             },
             "patchs": [
                 {
