@@ -1856,6 +1856,35 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "jpp6_latin",
+                    "name": "Festum Sapentiae Homicida II",
+                    "small_description": "Spiele Trivia Murder Party 2 auf Latein!",
+                    "description": "Spiele Trivia Murder Party 2 auf Latein!",
+                    "patch_path": "https://github.com/DerErizzle/The-Jackbox-Party-Pack-6-Latin/releases/latest/download/The-Jackbox-Party-Pack-6-Latin.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/DerErizzle/The-Jackbox-Party-Pack-6-Latin/main/config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "components": [
+                        {
+                            "id": "trivia_murder_party_2__latin_patch",
+                            "linked_game": "trivia_murder_party_2",
+                            "name": "Festum Sapentiae Homicida II",
+                            "description": "Erlebe Trivia Murder Party 2 auf Latein - so wie es im antiken Rom gespielt worden wäre!",
+                            "authors": "Team Gamechanger Interlingual",
+                            "small_description": "Erlebe Trivia Murder Party 2 auf Latein - so wie es im antiken Rom gespielt worden wäre!",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
                 }
             ],
             "games": [
