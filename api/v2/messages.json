@@ -1,54 +1,5 @@
 {
-  "menuComponent" : {
-    "type":"column",
-    "children":[
-      {
-        "type":"text",
-        "text":"YOU DON'T KNOW JACK auf Deutsch"
-      },
-      {
-        "type":"countdown",
-        "endText":"Ab sofort verfügbar!",
-        "endTime":"2023-08-31 16:00:00"
-      }
-    ]
-  },
-  "gamesComponent" : [
-    {
-      "component":{
-        "type":"column",
-        "children":[
-          {
-            "type":"text",
-            "text":"YOU DON'T KNOW JACK auf Deutsch"
-          },
-          {
-            "type":"countdown",
-            "endText":"Ab sofort verfügbar!",
-            "endTime":"2023-08-31 16:00:00"
-          }
-        ]
-      },
-      "gameId":"ydkj_fullstream"
-    }
-  ],
-  "patchesComponent" : [
-    {
-      "component":{
-        "type":"column",
-        "children":[
-          {
-            "type":"text",
-            "text":"YOU DON'T KNOW JACK auf Deutsch"
-          },
-          {
-            "type":"countdown",
-            "endText":"Ab sofort verfügbar!",
-            "endTime":"2023-08-31 16:00:00"
-          }
-        ]
-      },
-      "packId":"jpp5"
-    }
-  ]
+  "menuComponent" : {},
+  "gamesComponent" : [],
+  "patchesComponent" : []
 }
