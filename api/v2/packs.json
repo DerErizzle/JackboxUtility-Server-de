@@ -2965,7 +2965,7 @@
                     "path": "games/MakeFriends",
                     "game_info": {
                         "players": {
-                            "min": 3,
+                            "min": 4,
                             "max": 9
                         },
                         "playtime": {
