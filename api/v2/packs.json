@@ -1758,10 +1758,10 @@
                 "version": "1.0.0"
             },
             "configuration": {
-                "file": "config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet"
+                "version_file": "jbg.config.jet"
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1005300/The_Jackbox_Party_Pack_6/",
@@ -1776,7 +1776,7 @@
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/releases/latest/download/The-Jackbox-Party-Pack-6-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -1847,35 +1847,6 @@
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "patch_type": {
-                                "game_text": true,
-                                "game_assets": true,
-                                "game_subtitles": true,
-                                "website": true,
-                                "audios": true
-                            }
-                        }
-                    ]
-                },
-                {
-                    "id": "jpp6_latin",
-                    "name": "Festum Sapentiae Homicida II",
-                    "small_description": "Spiele Trivia Murder Party 2 auf Latein!",
-                    "description": "Spiele Trivia Murder Party 2 auf Latein!",
-                    "patch_path": "https://github.com/DerErizzle/The-Jackbox-Party-Pack-6-Latin/releases/latest/download/The-Jackbox-Party-Pack-6-Latin.zip",
-                    "configuration": {
-                        "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/DerErizzle/The-Jackbox-Party-Pack-6-Latin/main/config.jet",
-                        "version_property": "buildVersion"
-                    },
-                    "components": [
-                        {
-                            "id": "trivia_murder_party_2__latin_patch",
-                            "linked_game": "trivia_murder_party_2",
-                            "name": "Festum Sapentiae Homicida II",
-                            "description": "Erlebe Trivia Murder Party 2 auf Latein - so wie es im antiken Rom gespielt worden wäre!",
-                            "authors": "Team Gamechanger Interlingual",
-                            "small_description": "Erlebe Trivia Murder Party 2 auf Latein - so wie es im antiken Rom gespielt worden wäre!",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
