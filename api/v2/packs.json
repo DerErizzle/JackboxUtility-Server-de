@@ -1755,7 +1755,7 @@
             },
             "loader": {
                 "path": "loaders/tjpp6/default.zip",
-                "version": "1.0.0"
+                "version": "1.0.1"
             },
             "configuration": {
                 "file": "jbg.config.jet",
