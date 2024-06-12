@@ -1745,8 +1745,7 @@
             "name": "The Jackbox Party Pack 6",
             "description": "Erscheinungsdatum: 2019",
             "launchers_id": {
-                "steam": "1005300",
-                "epic": "Astrapia"
+                "steam": "1005300"
             },
             "executables": {
                 "windows": "The Jackbox Party Pack 6.exe",
