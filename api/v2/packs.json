@@ -3488,7 +3488,7 @@
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/releases/latest/download/The-Jackbox-Party-Starter-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
