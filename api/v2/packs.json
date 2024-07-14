@@ -3470,10 +3470,10 @@
                 "version": "1.0.1"
             },
             "configuration": {
-                "file": "config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet"
+                "version_file": "jbg.config.jet"
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/",
