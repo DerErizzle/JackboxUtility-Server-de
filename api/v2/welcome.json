@@ -5,28 +5,28 @@
             "title":"YDKJ ab sofort auf Deutsch!",
             "smallDescription":"Das legendäre Quiz-Spiel ist auf Deutsch zurück!",
             "content":"# Das Spiel bei dem Hochkultur und Popkultur aufeinanderprallen - Das ist **You Don't Know Jack**!\n\nDas Übersetzer-Team arbeitet seit 2021 daran, den Quiz-Klassiker zurückzubringen. Am Donnerstag, den 31. August 2023 ist es so weit: Tonnenweise neue Fragen, Gags und Albernheiten. Bleibt gespannt und folgt uns auf Social Media für weitere Updates!\n\n<https://twitter.com/jackboxde>",
-            "image":"news_images/ydkj.png"
+            "image":"news_images/ydkj.jpg"
         },
         {
             "id":"2023-05-12 12:00:00",
             "title":"Unterstütze uns doch",
             "smallDescription":"Unsere Arbeit wird ausschließlich durch die Community finanziert",
             "content":"# Ist das etwa die Patreon-Seite der weltberühmten deutschen Jackbox-Games Übersetzer?\n\nGenau richtig! Und wir benötigen eure Unterstützung, um diese Übersetzungen noch besser zu machen (oder um sie überhaupt machen zu können)!\n\n<https://patreon.com/jackboxpatch>",
-            "image":"news_images/patreon.png"
+            "image":"news_images/patreon.jpg"
         },
         {
             "id":"2023-02-21 12:00:00",
             "title":"Jackbox Utility",
             "smallDescription":"Willkommen bei der neuen Version von Jackbox Utility!",
             "content":"# Hier ist die neue Jackbox Utility\n\nIn dieser neuen Version wirst du alle deine Lieblingsspiele an einem Ort starten können!\n\nLust, noch schneller Spiele zu starten? Probiere den **Schnellstart-Modus** aus und starte Spiele direkt!",
-            "image":"news_images/jbu.png"
+            "image":"news_images/jbu.jpg"
         },
         {
             "id":"2023-02-18 12:00:00",
             "title":"Trete der Community bei!",
             "smallDescription":"Vernetze dich mit anderen Community-Mitgliedern und erhalte Hilfe zu all deinen Jackbox-Fragen",
             "content":"# Hilfe benötigt? Suchst du nach Mitspielern? \n\nTrete unserem Discord-Server bei, um deine Fragen zu stellen und dich mit anderen Community-Mitgliedern zu vernetzen!\n\n<https://discord.gg/vGcu9HWde4>",
-            "image":"news_images/discord.png"
+            "image":"news_images/discord.jpg"
         }
     ]
 }
