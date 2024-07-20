@@ -327,8 +327,11 @@
                         "small_description": "Lasst die Worte wie Wasser aus eurem Mund laufen! Vervollständigt einfach das Wort, das auf euch zukommt.",
                         "description": "Lasst die Worte wie Wasser aus eurem Mund laufen! Vervollständigt einfach das Wort, das auf euch zukommt.",
                         "images": [
-                            "game_images/WordSpud/wordspud_1.webp",
-                            "game_images/WordSpud/wordspud_2.webp"
+                            "game_images/WordSpud/wordspud-00001.png",
+                            "game_images/WordSpud/wordspud-00002.png",
+                            "game_images/WordSpud/wordspud-00003.png",
+                            "game_images/WordSpud/wordspud-00004.png",
+                            "game_images/WordSpud/wordspud-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -529,10 +532,11 @@
                         "small_description": "Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
                         "description": "Willkommen bei Bomb Corp. Praktikanten eurer Art müssen in unserem Büro helfen, Bomben zu entschärfen.. Drückt einfach Start.",
                         "images": [
-                            "game_images/BombCorp/bombcorp_1.webp",
-                            "game_images/BombCorp/bombcorp_2.webp",
-                            "game_images/BombCorp/bombcorp_3.webp",
-                            "game_images/BombCorp/bombcorp_4.webp"
+                            "game_images/BombCorp/bombcorp-00001.png",
+                            "game_images/BombCorp/bombcorp-00002.png",
+                            "game_images/BombCorp/bombcorp-00003.png",
+                            "game_images/BombCorp/bombcorp-00004.png",
+                            "game_images/BombCorp/bombcorp-00005.png"
                         ],
                         "tags": [
                             "deduction"
@@ -661,10 +665,11 @@
                         "small_description": "Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
                         "description": "Kuh-Muh? Riesige Explosion? Oder kleiner Furz? Was soll man wählen? Dieses Spiel mit Soundeffekten wird euch bis über beide Ohren lachen lassen!",
                         "images": [
-                            "game_images/Earwax/earwax_1.webp",
-                            "game_images/Earwax/earwax_2.webp",
-                            "game_images/Earwax/earwax_3.webp",
-                            "game_images/Earwax/earwax_4.webp"
+                            "game_images/Earwax/earwax-00001.png",
+                            "game_images/Earwax/earwax-00002.png",
+                            "game_images/Earwax/earwax-00003.png",
+                            "game_images/Earwax/earwax-00004.png",
+                            "game_images/Earwax/earwax-00005.png"
                         ],
                         "tags": []
                     },
@@ -868,10 +873,11 @@
                         "small_description": "Jeder gibt eine Antwort, aber nicht jeder kennt die Frage. Einer deiner Freunde hat etwas zu verbergen. Finde den Schwindler, bevor es zu spät ist!",
                         "description": "Jeder gibt eine Antwort, aber nicht jeder kennt die Frage. Einer deiner Freunde hat etwas zu verbergen. Finde den Schwindler, bevor es zu spät ist!",
                         "images": [
-                            "game_images/FakinIt/fakinit_1.webp",
-                            "game_images/FakinIt/fakinit_2.webp",
-                            "game_images/FakinIt/fakinit_3.webp",
-                            "game_images/FakinIt/fakinit_4.webp"
+                            "game_images/FakinIt/fakinit-00001.png",
+                            "game_images/FakinIt/fakinit-00002.png",
+                            "game_images/FakinIt/fakinit-00003.png",
+                            "game_images/FakinIt/fakinit-00004.png",
+                            "game_images/FakinIt/fakinit-00005.png"
                         ],
                         "tags": [
                             "deduction"
@@ -954,10 +960,11 @@
                         "small_description": "Sei der Letzte, der die absurde Trivia-Spielshow eines Serienmörders überlebt. Aber es macht Spaß!",
                         "description": "Sei der Letzte, der die absurde Trivia-Spielshow eines Serienmörders überlebt. Aber es macht Spaß!",
                         "images": [
-                            "game_images/TriviaMurderParty/triviamurderparty_1.webp",
-                            "game_images/TriviaMurderParty/triviamurderparty_2.webp",
-                            "game_images/TriviaMurderParty/triviamurderparty_3.webp",
-                            "game_images/TriviaMurderParty/triviamurderparty_4.webp"
+                            "game_images/TriviaMurderParty/triviamurderparty-00001.png",
+                            "game_images/TriviaMurderParty/triviamurderparty-00002.png",
+                            "game_images/TriviaMurderParty/triviamurderparty-00003.png",
+                            "game_images/TriviaMurderParty/triviamurderparty-00004.png",
+                            "game_images/TriviaMurderParty/triviamurderparty-00005.png"
                         ],
                         "tags": [
                             "knowledge"
@@ -1207,10 +1214,11 @@
                         "small_description": "Eingeloggt und angeschnallt! Versuche, die Sprüche deiner Freunde aus dem Kontext zu reißen! Nur so überlebt man heutzutage im World Wide Web!",
                         "description": "Eingeloggt und angeschnallt! Versuche, die Sprüche deiner Freunde aus dem Kontext zu reißen! Nur so überlebt man heutzutage im World Wide Web!",
                         "images": [
-                            "game_images/SurviveTheInternet/survivetheinternet_1.webp",
-                            "game_images/SurviveTheInternet/survivetheinternet_2.webp",
-                            "game_images/SurviveTheInternet/survivetheinternet_3.webp",
-                            "game_images/SurviveTheInternet/survivetheinternet_4.webp"
+                            "game_images/SurviveTheInternet/survivetheinternet-00001.png",
+                            "game_images/SurviveTheInternet/survivetheinternet-00002.png",
+                            "game_images/SurviveTheInternet/survivetheinternet-00003.png",
+                            "game_images/SurviveTheInternet/survivetheinternet-00004.png",
+                            "game_images/SurviveTheInternet/survivetheinternet-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -1250,10 +1258,11 @@
                         "small_description": "Ein Dating-Spiel, in dem du lustige Nachrichten versendest und versuchst, deine geheimen Monsterkräfte zu verbergen. Genau wie echtes Dating!",
                         "description": "Ein Dating-Spiel, in dem du lustige Nachrichten versendest und versuchst, deine geheimen Monsterkräfte zu verbergen. Genau wie echtes Dating!",
                         "images": [
-                            "game_images/MonsterSeekingMonster/monsterseekingmonster_1.webp",
-                            "game_images/MonsterSeekingMonster/monsterseekingmonster_2.webp",
-                            "game_images/MonsterSeekingMonster/monsterseekingmonster_3.webp",
-                            "game_images/MonsterSeekingMonster/monsterseekingmonster_4.webp"
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster-00001.png",
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster-00002.png",
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster-00003.png",
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster-00004.png",
+                            "game_images/MonsterSeekingMonster/monsterseekingmonster-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -1293,10 +1302,11 @@
                         "small_description": "Das geistesgestörte Debattenturnier! “Welches Gemüse kann Til Schweiger am besten in Filmen ersetzen?” Wettet mit Bedacht, welche Antworten gewinnen!",
                         "description": "Das geistesgestörte Debattenturnier! “Welches Gemüse kann Til Schweiger am besten in Filmen ersetzen?” Wettet mit Bedacht, welche Antworten gewinnen!",
                         "images": [
-                            "game_images/Bracketeering/bracketeering_1.webp",
-                            "game_images/Bracketeering/bracketeering_2.webp",
-                            "game_images/Bracketeering/bracketeering_3.webp",
-                            "game_images/Bracketeering/bracketeering_4.webp"
+                            "game_images/Bracketeering/bracketeering-00001.png",
+                            "game_images/Bracketeering/bracketeering-00002.png",
+                            "game_images/Bracketeering/bracketeering-00003.png",
+                            "game_images/Bracketeering/bracketeering-00004.png",
+                            "game_images/Bracketeering/bracketeering-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -1380,10 +1390,11 @@
                         "small_description": "Ihr wurdet beauftragt, die Wände im ganzen Dorf zu besprühen. Tretet gegeneinander an und ergänzt eure Kunstwerke, um sie immer wieder zu “verschönern”.",
                         "description": "Ihr wurdet beauftragt, die Wände im ganzen Dorf zu besprühen. Tretet gegeneinander an und ergänzt eure Kunstwerke, um sie immer wieder zu “verschönern”.",
                         "images": [
-                            "game_images/CivicDoodle/civicdoodle_1.webp",
-                            "game_images/CivicDoodle/civicdoodle_2.webp",
-                            "game_images/CivicDoodle/civicdoodle_3.webp",
-                            "game_images/CivicDoodle/civicdoodle_4.webp"
+                            "game_images/CivicDoodle/civicdoodle-00001.png",
+                            "game_images/CivicDoodle/civicdoodle-00002.png",
+                            "game_images/CivicDoodle/civicdoodle-00003.png",
+                            "game_images/CivicDoodle/civicdoodle-00004.png",
+                            "game_images/CivicDoodle/civicdoodle-00005.png"
                         ],
                         "tags": [
                             "drawing"
@@ -1590,10 +1601,11 @@
                         "small_description": "Das Roboter Rap-Battle beginnt! Feuer fette Rhymes und fette Beats gegen deine Freunde, um zu sehen, wer der heftigste MC in der Hood ist.",
                         "description": "Das Roboter Rap-Battle beginnt! Feuer fette Rhymes und fette Beats gegen deine Freunde, um zu sehen, wer der heftigste MC in der Hood ist.",
                         "images": [
-                            "game_images/MadVerseCity/madversecity_1.webp",
-                            "game_images/MadVerseCity/madversecity_2.webp",
-                            "game_images/MadVerseCity/madversecity_3.webp",
-                            "game_images/MadVerseCity/madversecity_4.webp"
+                            "game_images/MadVerseCity/madversecity-00001.png",
+                            "game_images/MadVerseCity/madversecity-00002.png",
+                            "game_images/MadVerseCity/madversecity-00003.png",
+                            "game_images/MadVerseCity/madversecity-00004.png",
+                            "game_images/MadVerseCity/madversecity-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -1633,10 +1645,10 @@
                         "small_description": "Die tödlichste Spielshow der Galaxie! Schleudert euch rein und gewinnt tolle Preise!",
                         "description": "Die tödlichste Spielshow der Galaxie! Schleudert euch rein und gewinnt tolle Preise!",
                         "images": [
-                            "game_images/ZeepleDome/zeepledome_1.webp",
-                            "game_images/ZeepleDome/zeepledome_2.webp",
-                            "game_images/ZeepleDome/zeepledome_3.webp",
-                            "game_images/ZeepleDome/zeepledome_4.webp"
+                            "game_images/ZeepleDome/zeepledome-00001.png",
+                            "game_images/ZeepleDome/zeepledome-00002.png",
+                            "game_images/ZeepleDome/zeepledome-00003.png",
+                            "game_images/ZeepleDome/zeepledome-00004.png"
                         ],
                         "tags": [
                             "deduction"
@@ -1676,10 +1688,11 @@
                         "small_description": "Das Was-wäre-wenn-Spiel, bei dem alles möglich ist! Erstelle kuriose, hypothetische Situationen und spalte die Meinungen im Raum.",
                         "description": "Das Was-wäre-wenn-Spiel, bei dem alles möglich ist! Erstelle kuriose, hypothetische Situationen und spalte die Meinungen im Raum.",
                         "images": [
-                            "game_images/SplitTheRoom/splittheroom_1.webp",
-                            "game_images/SplitTheRoom/splittheroom_2.webp",
-                            "game_images/SplitTheRoom/splittheroom_3.webp",
-                            "game_images/SplitTheRoom/splittheroom_4.webp"
+                            "game_images/SplitTheRoom/splittheroom-00001.png",
+                            "game_images/SplitTheRoom/splittheroom-00002.png",
+                            "game_images/SplitTheRoom/splittheroom-00003.png",
+                            "game_images/SplitTheRoom/splittheroom-00004.png",
+                            "game_images/SplitTheRoom/splittheroom-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -1720,10 +1733,11 @@
                         "small_description": "Sei kreativ und denke dir Lösungen zu irren Problemen aus! Hype anschließend deine Erfindung in’s unermessliche!",
                         "description": "Sei kreativ und denke dir Lösungen zu irren Problemen aus! Hype anschließend deine Erfindung in’s unermessliche!",
                         "images": [
-                            "game_images/PatentlyStupid/patentlystupid_1.webp",
-                            "game_images/PatentlyStupid/patentlystupid_2.webp",
-                            "game_images/PatentlyStupid/patentlystupid_3.webp",
-                            "game_images/PatentlyStupid/patentlystupid_4.webp"
+                            "game_images/PatentlyStupid/patentlystupid-00001.png",
+                            "game_images/PatentlyStupid/patentlystupid-00002.png",
+                            "game_images/PatentlyStupid/patentlystupid-00003.png",
+                            "game_images/PatentlyStupid/patentlystupid-00004.png",
+                            "game_images/PatentlyStupid/patentlystupid-00005.png"
                         ],
                         "tags": [
                             "writing",
@@ -1887,10 +1901,9 @@
                         "small_description": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
                         "description": "Ein Serienmörder veranstaltet ein verrücktes Quizspiel aus dem familiengeführten Mörderhotel. Wer wird überleben?",
                         "images": [
-                            "game_images/TriviaMurderParty2/triviamurderparty2_1.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_2.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_3.webp",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_4.webp"
+                            "game_images/TriviaMurderParty2/TMP2-0001.png",
+                            "game_images/TriviaMurderParty2/TMP2-0002.png",
+                            "game_images/TriviaMurderParty2/TMP2-0003.png"
                         ],
                         "tags": [
                             "knowledge"
@@ -1975,10 +1988,11 @@
                         "small_description": "Ihr seid Amateur-Komiker auf einem viertklassigen Kreuzfahrtschiff und versucht eine Talentshow zu gewinnen. Aber bloß nicht seekrank werden!",
                         "description": "Ihr seid Amateur-Komiker auf einem viertklassigen Kreuzfahrtschiff und versucht eine Talentshow zu gewinnen. Aber bloß nicht seekrank werden!",
                         "images": [
-                            "game_images/JokeBoat/jokeboat_1.webp",
-                            "game_images/JokeBoat/jokeboat_2.webp",
-                            "game_images/JokeBoat/jokeboat_3.webp",
-                            "game_images/JokeBoat/jokeboat_4.webp"
+                            "game_images/JokeBoat/jokeboat-00001.png",
+                            "game_images/JokeBoat/jokeboat-00002.png",
+                            "game_images/JokeBoat/jokeboat-00003.png",
+                            "game_images/JokeBoat/jokeboat-00004.png",
+                            "game_images/JokeBoat/jokeboat-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -2018,10 +2032,11 @@
                         "small_description": "Seit Jahrhunderten erschaffen Menschen neue Wörter und Sätze. Jetzt dürft ihr euren Teil zum Wörterbuch beitragen!",
                         "description": "Seit Jahrhunderten erschaffen Menschen neue Wörter und Sätze. Jetzt dürft ihr euren Teil zum Wörterbuch beitragen!",
                         "images": [
-                            "game_images/Dictionarium/dictionarium_1.webp",
-                            "game_images/Dictionarium/dictionarium_2.webp",
-                            "game_images/Dictionarium/dictionarium_3.webp",
-                            "game_images/Dictionarium/dictionarium_4.webp"
+                            "game_images/Dictionarium/dictionarium-00001.png",
+                            "game_images/Dictionarium/dictionarium-00002.png",
+                            "game_images/Dictionarium/dictionarium-00003.png",
+                            "game_images/Dictionarium/dictionarium-00004.png",
+                            "game_images/Dictionarium/dictionarium-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -2061,10 +2076,11 @@
                         "small_description": "Als Menschen getarnte Außerirdische haben euer Raumschiff infiltriert. Findet ihr sie, bevor alles zu spät ist?",
                         "description": "Als Menschen getarnte Außerirdische haben euer Raumschiff infiltriert. Findet ihr sie, bevor alles zu spät ist?",
                         "images": [
-                            "game_images/PushTheButton/pushthebutton_1.webp",
-                            "game_images/PushTheButton/pushthebutton_2.webp",
-                            "game_images/PushTheButton/pushthebutton_3.webp",
-                            "game_images/PushTheButton/pushthebutton_4.webp"
+                            "game_images/PushTheButton/pushthebutton-00001.png",
+                            "game_images/PushTheButton/pushthebutton-00002.png",
+                            "game_images/PushTheButton/pushthebutton-00003.png",
+                            "game_images/PushTheButton/pushthebutton-00004.png",
+                            "game_images/PushTheButton/pushthebutton-00005.png"
                         ],
                         "tags": [
                             "deduction",
@@ -2230,10 +2246,11 @@
                         "small_description": "Betretet das Scrawliseum und kämpft mit euren Kreationen um seltsame Titel. Wer setzt sich gegen die Favoriten durch?",
                         "description": "Betretet das Scrawliseum, wo von Spielern erstellte Charaktere um ungewöhnliche Titel kämpfen. Wer wird zum Champion der Feiglinge gekrönt? Der Spieler, der das Thema sieht, oder sein Herausforderer, der nur seine Konkurrenz sieht? Die großen Favoriten werden gegen die Underdogs antreten, um lustige, turbulente Kämpfe zu veranstalten.",
                         "images": [
-                            "game_images/ChampdUp/champdup_1.webp",
-                            "game_images/ChampdUp/champdup_2.webp",
-                            "game_images/ChampdUp/champdup_3.webp",
-                            "game_images/ChampdUp/champdup_4.webp"
+                            "game_images/ChampdUp/champdup-00001.png",
+                            "game_images/ChampdUp/champdup-00002.png",
+                            "game_images/ChampdUp/champdup-00003.png",
+                            "game_images/ChampdUp/champdup-00004.png",
+                            "game_images/ChampdUp/champdup-00005.png"
                         ],
                         "tags": [
                             "drawing",
@@ -2275,10 +2292,11 @@
                         "small_description": "Haltet eine Präsentation mithilfe von Folien, die ihr gar nicht kennt. Dabei spielt Sinnhaftigkeit keine Rolle!",
                         "description": "Vorträge in der Öffentlichkeit können beängstigend sein, aber mit Talking Points macht es Spaß!\n\nDie Redner erhalten Bildfolien, die sie noch nie zuvor gesehen haben, und Texte, die sie laut vorlesen müssen und die sie nicht geschrieben haben. Eine Rede zu halten war noch nie so komisch oder so lustig.",
                         "images": [
-                            "game_images/TalkingPoints/talkingpoints_1.webp",
-                            "game_images/TalkingPoints/talkingpoints_2.webp",
-                            "game_images/TalkingPoints/talkingpoints_3.webp",
-                            "game_images/TalkingPoints/talkingpoints_4.webp"
+                            "game_images/TalkingPoints/talkingpoints-00001.png",
+                            "game_images/TalkingPoints/talkingpoints-00002.png",
+                            "game_images/TalkingPoints/talkingpoints-00003.png",
+                            "game_images/TalkingPoints/talkingpoints-00004.png",
+                            "game_images/TalkingPoints/talkingpoints-00005.png"
                         ],
                         "tags": [
                             "talking"
@@ -2319,10 +2337,11 @@
                         "small_description": "Spielt eine Familie aus Teufeln und überwindet gemeinsam die alltäglichen Hürden des menschlichen Lebens.",
                         "description": "Herzlichen Glückwunsch, Dämonen! Ihr und eure Familie wurdet für unser bahnbrechendes Programm für Dämonen-Mensch-Beziehungen ausgewählt. Ihr werdet von der Unterwelt in eine ganz normale Vorstadtsiedlung ziehen, wo ihr an den sinnlosen und höchst stressigen Ritualen des sterblichen Lebens teilnehmen werdet. Kümmert euch gemeinsam um Klempnernotfälle, nervige Nachbarn und natürlich um eure eigene schreckliche Familie.",
                         "images": [
-                            "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_1.webp",
-                            "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_2.webp",
-                            "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_3.webp",
-                            "game_images/TheDevilsAndTheDetails/thedevilsandthedetails_4.webp"
+                            "game_images/TheDevilsAndTheDetails/devilsanddetails-00001.png",
+                            "game_images/TheDevilsAndTheDetails/devilsanddetails-00002.png",
+                            "game_images/TheDevilsAndTheDetails/devilsanddetails-00003.png",
+                            "game_images/TheDevilsAndTheDetails/devilsanddetails-00004.png",
+                            "game_images/TheDevilsAndTheDetails/devilsanddetails-00005.png"
                         ],
                         "tags": [
                             "deduction"
@@ -2405,10 +2424,11 @@
                         "small_description": "Schaltet eure grauen Zellen für dieses Popkultur-Ratespiel ein, bei dem nichts richtig klingen will!",
                         "description": "Blather 'Round ist ein Ratespiel, bei dem man stolpert, strauchelt und - ja! Ihr schreibt Sätze, um euren Freunden Phänomene der Popkultur zu beschreiben, aber ihr findet nie die richtigen Worte. Wenn man das könnte, wäre es ja kein Spiel! Es wäre einfach nur eine Beschreibung von Dingen.",
                         "images": [
-                            "game_images/BlatherRound/blatherround_1.webp",
-                            "game_images/BlatherRound/blatherround_2.webp",
-                            "game_images/BlatherRound/blatherround_3.webp",
-                            "game_images/BlatherRound/blatherround_4.webp"
+                            "game_images/BlatherRound/blatherround-00001.png",
+                            "game_images/BlatherRound/blatherround-00002.png",
+                            "game_images/BlatherRound/blatherround-00003.png",
+                            "game_images/BlatherRound/blatherround-00004.png",
+                            "game_images/BlatherRound/blatherround-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -2571,10 +2591,11 @@
                         "small_description": "Erwecke deine schlimmen Zeichnungen zum Leben!",
                         "description": "Es lebt! Das klassische Ratespiel kehrt in Drawful Animate zurück, bei dem die Spieler auf der Grundlage absurder Vorgaben Zwei-Frame-Animationen zeichnen müssen.",
                         "images": [
-                            "game_images/DrawfulAnimate/drawfulanimate_1.webp",
-                            "game_images/DrawfulAnimate/drawfulanimate_2.webp",
-                            "game_images/DrawfulAnimate/drawfulanimate_3.webp",
-                            "game_images/DrawfulAnimate/drawfulanimate_4.webp"
+                            "game_images/DrawfulAnimate/drawfulanimate-00001.png",
+                            "game_images/DrawfulAnimate/drawfulanimate-00002.png",
+                            "game_images/DrawfulAnimate/drawfulanimate-00003.png",
+                            "game_images/DrawfulAnimate/drawfulanimate-00004.png",
+                            "game_images/DrawfulAnimate/drawfulanimate-00005.png"
                         ],
                         "tags": [
                             "drawing"
@@ -2614,10 +2635,11 @@
                         "small_description": "Stellt euer Wissen vor dem heiligen Rad auf die Probe!",
                         "description": "Siehe da... eine unglaubliche Erfahrung wartet auf euch! Das Rad von unglaublicher Größe ist eine Mischung aus Quiz und Glücksspiel, das von einem unsterblichen, allwissenden Rad auf einem Berggipfel im Himmel veranstaltet wird. Ihr müsst euch Scheiben des majestätischen Rades verdienen, indem ihr Quizfragen beantwortet, bevor ihr in die Drehrunde kommt, in der ihr mit genügend Glück den Sieg davontragen könnt.",
                         "images": [
-                            "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_1.webp",
-                            "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_2.webp",
-                            "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_3.webp",
-                            "game_images/TheWheelOfEnormousProportions/thewheelofenormousproportions_4.webp"
+                            "game_images/TheWheelOfEnormousProportions/wheel-00001.png",
+                            "game_images/TheWheelOfEnormousProportions/wheel-00002.png",
+                            "game_images/TheWheelOfEnormousProportions/wheel-00003.png",
+                            "game_images/TheWheelOfEnormousProportions/wheel-00004.png",
+                            "game_images/TheWheelOfEnormousProportions/wheel-00005.png"
                         ],
                         "tags": [
                             "knowledge"
@@ -2657,10 +2679,11 @@
                         "small_description": "Nutze die Wörter der anderen, um den Job zu bekommen!",
                         "description": "Willkommen bei Job Job, einem Spiel, bei dem man die Wörter anderer Leute benutzt, um Bewerbungsfragen zu beantworten! Lustige und einzigartige Antworten erhalten Punkte, und der Spieler mit den meisten Punkten am Ende bekommt den JOB (JOB)!",
                         "images": [
-                            "game_images/JobJob/jobjob_1.webp",
-                            "game_images/JobJob/jobjob_2.webp",
-                            "game_images/JobJob/jobjob_3.webp",
-                            "game_images/JobJob/jobjob_4.webp"
+                            "game_images/JobJob/jobjob-00001.png",
+                            "game_images/JobJob/jobjob-00002.png",
+                            "game_images/JobJob/jobjob-00003.png",
+                            "game_images/JobJob/jobjob-00004.png",
+                            "game_images/JobJob/jobjob-00005.png"
                         ],
                         "tags": [
                             "writing"
@@ -2701,10 +2724,11 @@
                         "small_description": "Erratet im Team die Antworten eurer Freunde und entkommt!",
                         "description": "Ein Umfragespiel des Überlebens! Die Spieler teilen sich in zwei Teams auf, beantworten geheim Umfragen und versuchen dann, die Ergebnisse zu erraten. Könnt ihr die richtigen Türen öffnen und entkommen?",
                         "images": [
-                            "game_images/PollMine/pollmine_1.webp",
-                            "game_images/PollMine/pollmine_2.webp",
-                            "game_images/PollMine/pollmine_3.webp",
-                            "game_images/PollMine/pollmine_4.webp"
+                            "game_images/PollMine/pollmine-00001.png",
+                            "game_images/PollMine/pollmine-00002.png",
+                            "game_images/PollMine/pollmine-00003.png",
+                            "game_images/PollMine/pollmine-00004.png",
+                            "game_images/PollMine/pollmine-00005.png"
                         ],
                         "tags": [
                             "deduction"
@@ -2745,10 +2769,11 @@
                         "small_description": "Ein soziales Deduktionsspiel, bei dem es jeder getan hat!",
                         "description": "ES GAB EINEN MORD! Eigentlich... gab es mehrere Morde.\n\nWeapons Drawn ist ein soziales Deduktionsspiel, bei dem jeder es getan hat. Ihr versucht, von den von euch begangenen Morden abzulenken, indem ihr die anderen Morde aufklärt. Wird jemand erraten, welche Mordwaffen von dir gezeichnet wurden?",
                         "images": [
-                            "game_images/WeaponsDrawn/weaponsdrawn_1.webp",
-                            "game_images/WeaponsDrawn/weaponsdrawn_2.webp",
-                            "game_images/WeaponsDrawn/weaponsdrawn_3.webp",
-                            "game_images/WeaponsDrawn/weaponsdrawn_4.webp"
+                            "game_images/WeaponsDrawn/weaponsdrawn-00001.png",
+                            "game_images/WeaponsDrawn/weaponsdrawn-00002.png",
+                            "game_images/WeaponsDrawn/weaponsdrawn-00003.png",
+                            "game_images/WeaponsDrawn/weaponsdrawn-00004.png",
+                            "game_images/WeaponsDrawn/weaponsdrawn-00005.png"
                         ],
                         "tags": [
                             "deduction",
@@ -3089,12 +3114,11 @@
                         "small_description": "Diese fallenden Ratespielblöcke sortieren sich nicht von allein!",
                         "description": "In dieser Trivia-Sortierfabrik müsst ihr mit eurem Team die herabfallenden Antworten in die richtige Reihenfolge bringen, bevor sie den Boden erreichen! Oder ihr wagt euch an den Einzelspielermodus und versucht, so viele Blöcke wie möglich zu sortieren. Das ist so einfach wie das ACB!",
                         "images": [
-                            "game_images/Quixort/quixort_1.jpg",
-                            "game_images/Quixort/quixort_2.jpg",
-                            "game_images/Quixort/quixort_3.jpg",
-                            "game_images/Quixort/quixort_4.jpg",
-                            "game_images/Quixort/quixort_5.jpg",
-                            "game_images/Quixort/quixort_6.jpg"
+                            "game_images/Quixort/Quixort-0001.png",
+                            "game_images/Quixort/Quixort-0002.png",
+                            "game_images/Quixort/Quixort-0003.png",
+                            "game_images/Quixort/Quixort-0004.png",
+                            "game_images/Quixort/Quixort-0005.png"
                         ],
                         "tags": [
                             "knowledge",
@@ -3656,10 +3680,9 @@
                         "small_description": "Ein absurdes Ratespiel aus dem familienbetriebenen Murder Hotel.",
                         "description": "Der Gastgeber des Serienmörders ist nach den Ereignissen der ersten Trivia Murder Party immer noch auf der Flucht vor der Polizei und lebt im Murder Hotel, in dem er aufgewachsen ist. Damals tötete seine Familie ahnungslose Gäste im Hotel, aber jetzt nutzt der Gastgeber das Hotel, um eine bizarre Spielshow zu veranstalten … bei der er ahnungslose Gäste tötet.\n\nWie bei der ersten Trivia Murder Party beantworten die Spieler Quizfragen - und wer eine falsche Antwort gibt, wird zum „Killing Floor“ geschickt, um Minispiele zu spielen, die tödlich sein können. Zu den neuen Minispielen gehören das Ausweichen von Schwertern, die in die Kiste eines Zauberers gestoßen werden, Tätowieren des Rückens des Mörders und das Schrecklichste von allem … die Verwendung eines Telefons mit Wählscheibe!\n\nTrivia Murder Party 2 steckt voller neuer Überraschungen. Kannst Du das Spiel mit einer um Deinen Körper geschnallten Bombe beenden? Was tust du, wenn du einen der anderen Spieler verfolgst? Wäre es seltsam, wenn der Mörder Dich für seine Mutter halten würde?\n\nUrsprünglich gehörte Trivia Murder Party 2 zu The Jackbox Party Pack 6 und wurde vollständig mit neuen Funktionen und Übersetzungen in Französisch, Italienisch, Deutsch und Spanisch überarbeitet!",
                         "images": [
-                            "game_images/TriviaMurderParty2/triviamurderparty2_1.jpg",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_2.jpg",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_3.jpg",
-                            "game_images/TriviaMurderParty2/triviamurderparty2_4.jpg"
+                            "game_images/TriviaMurderParty2/TMP2-0001.png",
+                            "game_images/TriviaMurderParty2/TMP2-0002.png",
+                            "game_images/TriviaMurderParty2/TMP2-0003.png"
                         ],
                         "tags": [
                             "knowledge"
@@ -3969,10 +3992,10 @@
                         "small_description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
                         "description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
                         "images": [
-                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_1.webp",
-                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_2.webp",
-                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_3.webp",
-                            "game_images/Quiplash2InterLASHional/quiplash2interlashional_4.webp"
+                            "game_images/Quiplash2InterLASHional/Quiplash2-InterLASHional-0001.png",
+                            "game_images/Quiplash2InterLASHional/Quiplash2-InterLASHional-0002.png",
+                            "game_images/Quiplash2InterLASHional/Quiplash2-InterLASHional-0003.png",
+                            "game_images/Quiplash2InterLASHional/Quiplash2-InterLASHional-0004.png"
                         ],
                         "tags": [
                             "writing"
@@ -4074,10 +4097,12 @@
                         "small_description": "Was hast du da gezeichnet?",
                         "description": "Was hast du da gezeichnet?",
                         "images": [
-                            "game_images/Drawful2/drawful2_1.webp",
-                            "game_images/Drawful2/drawful2_2.webp",
-                            "game_images/Drawful2/drawful2_3.webp",
-                            "game_images/Drawful2/drawful2_4.webp"
+                            "game_images/Drawful2/Drawful2-0001.png",
+                            "game_images/Drawful2/Drawful2-0002.png",
+                            "game_images/Drawful2/Drawful2-0003.png",
+                            "game_images/Drawful2/Drawful2-0004.png",
+                            "game_images/Drawful2/Drawful2-0005.png",
+                            "game_images/Drawful2/Drawful2-0006.png"
                         ],
                         "tags": [
                             "drawing"
