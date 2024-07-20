@@ -2381,10 +2381,9 @@
                         "small_description": "Teil Drei des Spiels ohne Regeln! Schreibe etwas lustiges und bringe deine Freunde - hoffentlich - zum lachen.",
                         "description": "Die Spieler treten in einem Kopf-an-Kopf-Kampf an, indem sie auf eine witzige Frage antworten und die anderen Spieler (und das Publikum) entscheiden lassen, welche Antwort ihnen am besten gefiel!",
                         "images": [
-                            "game_images/Quiplash3/quiplash3_1.webp",
-                            "game_images/Quiplash3/quiplash3_2.webp",
-                            "game_images/Quiplash3/quiplash3_3.webp",
-                            "game_images/Quiplash3/quiplash3_4.webp"
+                            "game_images/Quiplash3/quiplash3_1.jpg",
+                            "game_images/Quiplash3/quiplash3_2.jpg",
+                            "game_images/Quiplash3/quiplash3_3.jpg"
                         ],
                         "tags": [
                             "writing"
