@@ -1004,10 +1004,10 @@
                         "small_description": "Zeichne Bilder und schreibe Slogans, um sie anschließend mit anderen Spielern auszutauschen und daraus deinen eigenen massgeschneiderten T-Shirt-Krieger zu schaffen. Nur das beste und einzigartigste T-Shirt wird das Turnier lebend verlassen.",
                         "description": "Zeichne Bilder und schreibe Slogans, um sie anschließend mit anderen Spielern auszutauschen und daraus deinen eigenen massgeschneiderten T-Shirt-Krieger zu schaffen. Nur das beste und einzigartigste T-Shirt wird das Turnier lebend verlassen.",
                         "images": [
-                            "game_images/TeeKO/teeko_1.webp",
-                            "game_images/TeeKO/teeko_2.webp",
-                            "game_images/TeeKO/teeko_3.webp",
-                            "game_images/TeeKO/teeko_4.webp"
+                            "game_images/TeeKO/teeko_1.jpg",
+                            "game_images/TeeKO/teeko_2.jpg",
+                            "game_images/TeeKO/teeko_3.jpg",
+                            "game_images/TeeKO/teeko_4.jpg"
                         ],
                         "tags": [
                             "drawing",
