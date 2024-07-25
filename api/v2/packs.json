@@ -739,10 +739,10 @@
                 "linux": "Launcher.sh"
             },
             "configuration": {
-                "file": "config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet"
+                "version_file": "jbg.config.jet"
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
@@ -761,7 +761,7 @@
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/releases/latest/download/The-Jackbox-Party-Pack-3-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
@@ -784,15 +784,15 @@
                             "id": "quiplash2_patch",
                             "linked_game": "quiplash2",
                             "name": "Quiplash 2",
-                            "description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
-                            "authors": "Team Gamechanger",
-                            "small_description": "Englisch. Für die deutsche Version wird Quiplash 2 InterLASHional (separat erhältlich) benötigt.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Jackbox Games",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
-                                "game_text": false,
-                                "game_assets": false,
+                                "game_text": true,
+                                "game_assets": true,
                                 "game_subtitles": false,
-                                "website": false,
-                                "audios": false
+                                "website": true,
+                                "audios": true
                             }
                         },
                         {
@@ -912,7 +912,7 @@
                         "subtitles": false,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
                         "small_description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
                         "description": "Das \"Sag-Irgendwas\"-Partyspiel kehrt zurück. Erfinde \"einen schlechten Ersatz für Zahnseide\" und gewinn! Hast du genug genug von unseren seltsamen Prompts? Probier den neuen \"Make Your Own\"-Modus!",
