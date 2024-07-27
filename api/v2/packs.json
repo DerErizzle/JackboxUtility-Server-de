@@ -1009,10 +1009,10 @@
                 "linux": "Launcher.sh"
             },
             "configuration": {
-                "file": "config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet"
+                "version_file": "jbg.config.jet"
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
@@ -1027,7 +1027,7 @@
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
