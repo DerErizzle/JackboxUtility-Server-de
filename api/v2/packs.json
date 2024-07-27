@@ -69,10 +69,6 @@
                 "mac": "The Jackbox Party Pack.app/Contents/MacOS/The Jackbox Party Pack",
                 "linux": "Launcher.sh"
             },
-            "loader": {
-                "path": "loaders/tjpp1/default.zip",
-                "version": "1.0.0"
-            },
             "configuration": {
                 "file": "config.jet",
                 "version_property": "buildVersion",
@@ -212,10 +208,7 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp1/ydkj2015.zip",
-                        "version": "1.0.0"
-                    },
+                    "loader": {},
                     "patchs": []
                 },
                 {
@@ -254,10 +247,7 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp1/fibbagexl.zip",
-                        "version": "1.0.0"
-                    },
+                    "loader": {},
                     "patchs": []
                 },
                 {
@@ -294,10 +284,7 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp1/drawful.zip",
-                        "version": "1.0.0"
-                    },
+                    "loader": {},
                     "patchs": []
                 },
                 {
@@ -337,10 +324,7 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp1/wordspud.zip",
-                        "version": "1.0.0"
-                    },
+                    "loader": {},
                     "patchs": []
                 },
                 {
@@ -377,10 +361,7 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp1/lieswatter.zip",
-                        "version": "1.0.0"
-                    },
+                    "loader": {},
                     "patchs": []
                 }
             ],
