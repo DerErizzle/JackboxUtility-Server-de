@@ -1428,10 +1428,10 @@
                 "version": "1.0.0"
             },
             "configuration": {
-                "file": "config.jet",
+                "file": "jbg.config.jet",
                 "version_property": "buildVersion",
                 "version_origin": "game_file",
-                "version_file": "config.jet"
+                "version_file": "jbg.config.jet"
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/",
@@ -1446,7 +1446,7 @@
                     "patch_paths": [ "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German-Part1.zip", "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/releases/latest/download/The-Jackbox-Party-Pack-5-German-Part2.zip" ],
                     "configuration": {
                         "version_origin": "repo_file",
-                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/config.jet",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
                     "components": [
