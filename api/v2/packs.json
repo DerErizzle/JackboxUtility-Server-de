@@ -386,10 +386,6 @@
                 "steam": "https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-2"
             },
-            "loader": {
-                "path": "loaders/tjpp2/default.zip",
-                "version": "1.0.0"
-            },
             "patchs": [
                 {
                     "id": "jpp2_de",
@@ -520,10 +516,6 @@
                     },
                     "background": "game_backgrounds/BombCorp.webp",
                     "path": "games/BombInterns",
-                    "loader": {
-                        "path": "loaders/tjpp2/bombcorp.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -562,10 +554,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp2/quiplashxl.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -607,10 +595,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp2/fibbage2.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -648,10 +632,6 @@
                             "game_images/Earwax/earwax-00005.jpg"
                         ],
                         "tags": []
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp2/earwax.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -691,10 +671,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp2/bidiots.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -723,10 +699,6 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/434170/The_Jackbox_Party_Pack_3/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-3"
-            },
-            "loader": {
-                "path": "loaders/tjpp3/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -859,10 +831,6 @@
                             "deduction"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp3/fakinit.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -901,10 +869,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp3/quiplash2.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -946,10 +910,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp3/triviamurderparty.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -990,10 +950,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp3/teeko.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -1033,10 +989,6 @@
                             "deduction"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp3/guesspionage.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -1065,10 +1017,6 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/610180/The_Jackbox_Party_Pack_4/",
                 "epic": "https://store.epicgames.com/p/jackbox-party-pack-4"
-            },
-            "loader": {
-                "path": "loaders/tjpp4/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -1200,10 +1148,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp4/survivetheinternet.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -1243,10 +1187,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp4/monsterseekingmonster.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -1288,10 +1228,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp4/bracketeering.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -1331,10 +1267,6 @@
                             "writing",
                             "knowledge"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp4/fibbage3.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -1376,10 +1308,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp4/civicdoodle.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -1398,10 +1326,6 @@
                 "windows": "The Jackbox Party Pack 5.exe",
                 "mac": "The Jackbox Party Pack 5.app/Contents/MacOS/The Jackbox Party Pack 5",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp5/default.zip",
-                "version": "1.0.0"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -1543,10 +1467,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp5/ydkjfullstream.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -1587,10 +1507,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp5/madversecity.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -1629,10 +1545,6 @@
                         "tags": [
                             "deduction"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp5/zeepledome.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -1673,10 +1585,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp5/splittheroom.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -1720,10 +1628,6 @@
                             "talking"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp5/patentlystupid.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -1741,10 +1645,6 @@
                 "windows": "The Jackbox Party Pack 6.exe",
                 "mac": "The Jackbox Party Pack 6.app/Contents/MacOS/The Jackbox Party Pack 6",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp6/default.zip",
-                "version": "1.0.2"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -1885,10 +1785,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp6/triviamurderparty2.zip",
-                        "version": "1.0.2"
-                    },
                     "patchs": []
                 },
                 {
@@ -1928,10 +1824,6 @@
                         "tags": [
                             "talking"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp6/rolemodels.zip",
-                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -1974,10 +1866,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp6/jokeboat.zip",
-                        "version": "1.0.2"
-                    },
                     "patchs": []
                 },
                 {
@@ -2017,10 +1905,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp6/dictionarium.zip",
-                        "version": "1.0.2"
                     },
                     "patchs": []
                 },
@@ -2065,10 +1949,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp6/pushthebutton.zip",
-                        "version": "1.0.2"
-                    },
                     "patchs": []
                 }
             ],
@@ -2087,10 +1967,6 @@
                 "windows": "The Jackbox Party Pack 7.exe",
                 "mac": "The Jackbox Party Pack 7.app/Contents/MacOS/The Jackbox Party Pack 7",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp7/default.zip",
-                "version": "1.0.0"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -2233,10 +2109,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp7/champdup.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -2277,10 +2149,6 @@
                         "tags": [
                             "talking"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp7/talkingpoints.zip",
-                        "version": "1.0.1"
                     },
                     "patchs": []
                 },
@@ -2323,10 +2191,6 @@
                             "deduction"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp7/thedevilsandthedetails.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -2364,10 +2228,6 @@
                         "tags": [
                             "writing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp7/quiplash3.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -2409,10 +2269,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp7/blatherround.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -2431,10 +2287,6 @@
                 "windows": "The Jackbox Party Pack 8.exe",
                 "mac": "The Jackbox Party Pack 8.app/Contents/MacOS/The Jackbox Party Pack 8",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp8/default.zip",
-                "version": "1.0.0"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -2576,10 +2428,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp8/drawfulanimate.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -2619,10 +2467,6 @@
                         "tags": [
                             "knowledge"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp8/thewheelofenormousproportions.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -2664,10 +2508,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp8/jobjob.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -2708,10 +2548,6 @@
                         "tags": [
                             "deduction"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp8/thepollmine.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -2755,10 +2591,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp8/weaponsdrawn.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -2777,10 +2609,6 @@
                 "windows": "The Jackbox Party Pack 9.exe",
                 "mac": "The Jackbox Party Pack 9.app/Contents/MacOS/The Jackbox Party Pack 9",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp9/default.zip",
-                "version": "1.0.0"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -2922,10 +2750,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp9/fibbage4.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -2966,10 +2790,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp9/roomerang.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -3009,10 +2829,6 @@
                             "writing",
                             "talking"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp9/junktopia.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -3055,10 +2871,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp9/nonsensory.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -3100,10 +2912,6 @@
                             "deduction"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp9/quixort.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -3122,10 +2930,6 @@
                 "windows": "The Jackbox Party Pack 10.exe",
                 "mac": "The Jackbox Party Pack 10.app/Contents/MacOS/The Jackbox Party Pack 10",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpp10/default.zip",
-                "version": "1.0.0"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -3267,10 +3071,6 @@
                             "drawing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp10/teeko2.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -3311,10 +3111,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp10/fixytext.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -3353,10 +3149,6 @@
                         "tags": [
                             "knowledge"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/tjpp10/timejinx.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 },
@@ -3399,10 +3191,6 @@
                             "deduction"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpp10/hypnotorious.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 },
                 {
@@ -3441,10 +3229,6 @@
                         ],
                         "tags": []
                     },
-                    "loader": {
-                        "path": "loaders/tjpp10/dodoremi.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -3463,10 +3247,6 @@
                 "windows": "The Jackbox Party Starter.exe",
                 "mac": "The Jackbox Party Starter.app/Contents/MacOS/The Jackbox Party Pack Starter",
                 "linux": "Launcher.sh"
-            },
-            "loader": {
-                "path": "loaders/tjpstarter/default.zip",
-                "version": "1.0.1"
             },
             "configuration": {
                 "file": "jbg.config.jet",
@@ -3576,10 +3356,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpstarter/quiplash3.zip",
-                        "version": "1.0.1"
-                    },
                     "patchs": []
                 },
                 {
@@ -3620,10 +3396,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpstarter/teeko.zip",
-                        "version": "1.0.1"
-                    },
                     "patchs": []
                 },
                 {
@@ -3663,10 +3435,6 @@
                             "knowledge"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/tjpstarter/triviamurderparty2.zip",
-                        "version": "1.0.1"
-                    },
                     "patchs": []
                 }
             ],
@@ -3693,10 +3461,6 @@
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/448080/Fibbage_XL/"
-            },
-            "loader": {
-                "path": "loaders/standalones/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -3766,10 +3530,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/standalones/standalones.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -3796,10 +3556,6 @@
             },
             "store_links": {
                 "steam": "https://store.steampowered.com/app/351510/Quiplash/"
-            },
-            "loader": {
-                "path": "loaders/standalones/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -3870,10 +3626,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/standalones/standalones.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -3902,10 +3654,6 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/",
                 "epic": "https://store.epicgames.com/p/quiplash-2-interlashional-3c3888"
-            },
-            "loader": {
-                "path": "loaders/standalones/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -3976,10 +3724,6 @@
                             "writing"
                         ]
                     },
-                    "loader": {
-                        "path": "loaders/standalones/standalones.zip",
-                        "version": "1.0.0"
-                    },
                     "patchs": []
                 }
             ],
@@ -4007,10 +3751,6 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/442070/Drawful_2/",
                 "epic": "https://store.epicgames.com/p/drawful-2"
-            },
-            "loader": {
-                "path": "loaders/df2/default.zip",
-                "version": "1.0.0"
             },
             "patchs": [
                 {
@@ -4082,10 +3822,6 @@
                         "tags": [
                             "drawing"
                         ]
-                    },
-                    "loader": {
-                        "path": "loaders/df2/drawful2.zip",
-                        "version": "1.0.0"
                     },
                     "patchs": []
                 }
