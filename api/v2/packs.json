@@ -173,7 +173,7 @@
             "games": [
                 {
                     "id": "ydkj2015",
-                    "internalName": "YDKJ2015",
+                    "internal_name": "YDKJ2015",
                     "name": "You Don't Know Jack: 2015",
                     "background": "game_backgrounds/YDKJ2015.webp",
                     "path": "games/YDKJ2015",
@@ -213,7 +213,7 @@
                 },
                 {
                     "id": "fibbagexl",
-                    "internalName": "FibbageXL",
+                    "internal_name": "FibbageXL",
                     "name": "Fibbage XL",
                     "background": "game_backgrounds/FibbageXL.webp",
                     "path": "games/FibbageXL",
@@ -252,7 +252,7 @@
                 },
                 {
                     "id": "drawful",
-                    "internalName": "Drawful",
+                    "internal_name": "Drawful",
                     "name": "Drawful",
                     "background": "game_backgrounds/Drawful.webp",
                     "path": "games/Drawful",
@@ -289,7 +289,7 @@
                 },
                 {
                     "id": "wordspud",
-                    "internalName": "WordSpud",
+                    "internal_name": "WordSpud",
                     "name": "Word Spud",
                     "background": "game_backgrounds/WordSpud.webp",
                     "path": "games/WordSpud",
@@ -329,7 +329,7 @@
                 },
                 {
                     "id": "lieswatter",
-                    "internalName": "LieSwatterParty",
+                    "internal_name": "LieSwatterParty",
                     "name": "Lie Swatter",
                     "background": "game_backgrounds/LieSwatter.webp",
                     "path": "games/LieSwatter",
@@ -485,7 +485,7 @@
             "games": [
                 {
                     "id": "bombcorp",
-                    "internalName": "BombInterns",
+                    "internal_name": "BombInterns",
                     "name": "Bomb Corp.",
                     "game_info": {
                         "players": {
@@ -526,7 +526,7 @@
                 },
                 {
                     "id": "quiplashxl",
-                    "internalName": "QuiplashXL",
+                    "internal_name": "QuiplashXL",
                     "name": "Quiplash XL",
                     "background": "game_backgrounds/QuiplashXL.webp",
                     "path": "games/QuiplashXL",
@@ -566,7 +566,7 @@
                 },
                 {
                     "id": "fibbage2",
-                    "internalName": "Fibbage2",
+                    "internal_name": "Fibbage2",
                     "name": "Fibbage 2",
                     "background": "game_backgrounds/Fibbage2.webp",
                     "path": "games/Fibbage2",
@@ -607,7 +607,7 @@
                 },
                 {
                     "id": "earwax",
-                    "internalName": "Earwax",
+                    "internal_name": "Earwax",
                     "name": "Earwax",
                     "background": "game_backgrounds/Earwax.webp",
                     "path": "games/Earwax",
@@ -646,7 +646,7 @@
                 },
                 {
                     "id": "bidiots",
-                    "internalName": "Auction",
+                    "internal_name": "Auction",
                     "name": "Bidiots",
                     "background": "game_backgrounds/Bidiots.webp",
                     "path": "games/Bidiots",
@@ -804,7 +804,7 @@
             "games": [
                 {
                     "id": "fakinit",
-                    "internalName": "FakinIt",
+                    "internal_name": "FakinIt",
                     "name": "Fakin' It",
                     "background": "game_backgrounds/FakinIt.webp",
                     "path": "games/FakinIt",
@@ -846,7 +846,7 @@
                 },
                 {
                     "id": "quiplash2",
-                    "internalName": "Quiplash2",
+                    "internal_name": "Quiplash2",
                     "name": "Quiplash 2",
                     "background": "game_backgrounds/Quiplash2.webp",
                     "path": "games/Quiplash2",
@@ -886,7 +886,7 @@
                 },
                 {
                     "id": "triviamurderparty",
-                    "internalName": "triviadeath",
+                    "internal_name": "triviadeath",
                     "name": "Trivia Murder Party",
                     "background": "game_backgrounds/TriviaMurderParty.webp",
                     "path": "games/TriviaMurderParty",
@@ -927,7 +927,7 @@
                 },
                 {
                     "id": "teeko",
-                    "internalName": "AwShirt",
+                    "internal_name": "AwShirt",
                     "name": "Tee K.O.",
                     "background": "game_backgrounds/TeeKO.webp",
                     "path": "games/TeeKO",
@@ -968,7 +968,7 @@
                 },
                 {
                     "id": "guesspionage",
-                    "internalName": "PollPosition",
+                    "internal_name": "PollPosition",
                     "name": "Guesspionage",
                     "background": "game_backgrounds/Guesspionage.webp",
                     "path": "games/Guesspionage",
@@ -1127,7 +1127,7 @@
             "games": [
                 {
                     "id": "survivetheinternet",
-                    "internalName": "SurviveTheInternet",
+                    "internal_name": "SurviveTheInternet",
                     "name": "Survive The Internet",
                     "background": "game_backgrounds/SurviveTheInternet.webp",
                     "path": "games/SurviveTheInternet",
@@ -1168,7 +1168,7 @@
                 },
                 {
                     "id": "monsterseekingmonster",
-                    "internalName": "MonsterMingle",
+                    "internal_name": "MonsterMingle",
                     "name": "Monster Seeking Monster",
                     "background": "game_backgrounds/MonsterSeekingMonster.webp",
                     "path": "games/MonsterMingle",
@@ -1209,7 +1209,7 @@
                 },
                 {
                     "id": "bracketeering",
-                    "internalName": "Bracketeering",
+                    "internal_name": "Bracketeering",
                     "name": "Bracketeering",
                     "background": "game_backgrounds/Bracketeering.webp",
                     "path": "games/Bracketeering",
@@ -1250,7 +1250,7 @@
                 },
                 {
                     "id": "fibbage3",
-                    "internalName": "Fibbage3",
+                    "internal_name": "Fibbage3",
                     "name": "Fibbage 3",
                     "background": "game_backgrounds/Fibbage3.webp",
                     "path": "games/Fibbage3",
@@ -1291,7 +1291,7 @@
                 },
                 {
                     "id": "civicdoodle",
-                    "internalName": "Overdrawn",
+                    "internal_name": "Overdrawn",
                     "name": "Kritzel Witzel",
                     "background": "game_backgrounds/CivicDoodle.webp",
                     "path": "games/CivicDoodle",
@@ -1451,7 +1451,7 @@
             "games": [
                 {
                     "id": "ydkj_fullstream",
-                    "internalName": "YDKJ2018",
+                    "internal_name": "YDKJ2018",
                     "name": "YDKJ: Full Stream",
                     "background": "game_backgrounds/YDKJFullStream.webp",
                     "path": "games/YDKJ2018",
@@ -1492,7 +1492,7 @@
                 },
                 {
                     "id": "mad_verse_city",
-                    "internalName": "RapBattle",
+                    "internal_name": "RapBattle",
                     "name": "Mad Verse City",
                     "background": "game_backgrounds/MadVerseCity.webp",
                     "path": "games/RapBattle",
@@ -1533,7 +1533,7 @@
                 },
                 {
                     "id": "zeeple_dome",
-                    "internalName": "SlingShoot",
+                    "internal_name": "SlingShoot",
                     "name": "Zeeple Dome",
                     "background": "game_backgrounds/ZeepleDome.webp",
                     "path": "games/ZeepleDome",
@@ -1573,7 +1573,7 @@
                 },
                 {
                     "id": "splittheroom",
-                    "internalName": "SplitTheRoom",
+                    "internal_name": "SplitTheRoom",
                     "name": "Split the Room",
                     "background": "game_backgrounds/SplitTheRoom.webp",
                     "path": "games/SplitTheRoom",
@@ -1614,7 +1614,7 @@
                 },
                 {
                     "id": "patentlystupid",
-                    "internalName": "PatentlyStupid",
+                    "internal_name": "PatentlyStupid",
                     "name": "Patently Stupid",
                     "background": "game_backgrounds/PatentlyStupid.webp",
                     "path": "games/PatentlyStupid",
@@ -1775,7 +1775,7 @@
             "games": [
                 {
                     "id": "trivia_murder_party_2",
-                    "internalName": "TriviaDeath2",
+                    "internal_name": "TriviaDeath2",
                     "name": "Trivia Murder Party 2",
                     "background": "game_backgrounds/TriviaMurderParty2.webp",
                     "path": "games/TriviaMurderParty2",
@@ -1815,7 +1815,7 @@
                 },
                 {
                     "id": "role_models",
-                    "internalName": "RoleModels",
+                    "internal_name": "RoleModels",
                     "name": "Role Models",
                     "background": "game_backgrounds/RoleModels.webp",
                     "path": "games/RoleModels",
@@ -1856,7 +1856,7 @@
                 },
                 {
                     "id": "jokeboat",
-                    "internalName": "Jokeboat",
+                    "internal_name": "Jokeboat",
                     "name": "Joke Boat",
                     "background": "game_backgrounds/JokeBoat.webp",
                     "path": "games/JokeBoat",
@@ -1898,7 +1898,7 @@
                 },
                 {
                     "id": "dictionarium",
-                    "internalName": "Ridictionary",
+                    "internal_name": "Ridictionary",
                     "name": "Dictionarium",
                     "background": "game_backgrounds/Dictionarium.webp",
                     "path": "games/Ridictionary",
@@ -1939,7 +1939,7 @@
                 },
                 {
                     "id": "pushthebutton",
-                    "internalName": "PushTheButton",
+                    "internal_name": "PushTheButton",
                     "name": "Drück den Knopf",
                     "background": "game_backgrounds/PushTheButton.webp",
                     "path": "games/PushTheButton",
@@ -2102,7 +2102,7 @@
             "games": [
                 {
                     "id": "champdup",
-                    "internalName": "WorldChampions",
+                    "internal_name": "WorldChampions",
                     "name": "Champ'd Up",
                     "background": "game_backgrounds/Champdup.webp",
                     "path": "games/WorldChampions",
@@ -2144,7 +2144,7 @@
                 },
                 {
                     "id": "talkingpoints",
-                    "internalName": "JackboxTalks",
+                    "internal_name": "JackboxTalks",
                     "name": "Talking Points",
                     "background": "game_backgrounds/TalkingPoints.webp",
                     "path": "games/JackboxTalks",
@@ -2186,7 +2186,7 @@
                 },
                 {
                     "id": "thedevilsandthedetails",
-                    "internalName": "Everyday",
+                    "internal_name": "Everyday",
                     "name": "Die Teufel im Detail",
                     "background": "game_backgrounds/TheDevilsAndTheDetails.webp",
                     "path": "games/Everyday",
@@ -2228,7 +2228,7 @@
                 },
                 {
                     "id": "quiplash3",
-                    "internalName": "Quiplash3",
+                    "internal_name": "Quiplash3",
                     "name": "Quiplash 3",
                     "background": "game_backgrounds/Quiplash3.webp",
                     "path": "games/Quiplash3",
@@ -2267,7 +2267,7 @@
                 },
                 {
                     "id": "blatherround",
-                    "internalName": "BlankyBlank",
+                    "internal_name": "BlankyBlank",
                     "name": "Blather 'Round",
                     "background": "game_backgrounds/BlatherRound.webp",
                     "path": "games/BlankyBlank",
@@ -2427,7 +2427,7 @@
             "games": [
                 {
                     "id": "drawful_animate",
-                    "internalName": "DrawfulAnimate",
+                    "internal_name": "DrawfulAnimate",
                     "name": "Drawful Animate",
                     "background": "game_backgrounds/DrawfulAnimate.webp",
                     "path": "games/DrawfulAnimate",
@@ -2468,7 +2468,7 @@
                 },
                 {
                     "id": "the_wheel_of_enormous_proportions",
-                    "internalName": "TheWheel",
+                    "internal_name": "TheWheel",
                     "name": "Das Rad von unglaublicher Größe",
                     "background": "game_backgrounds/TheWheelOfEnormousProportions.webp",
                     "path": "games/TheWheel",
@@ -2509,7 +2509,7 @@
                 },
                 {
                     "id": "jobjob",
-                    "internalName": "JobGame",
+                    "internal_name": "JobGame",
                     "name": "Job Job",
                     "background": "game_backgrounds/JobJob.webp",
                     "path": "games/JobGame",
@@ -2550,7 +2550,7 @@
                 },
                 {
                     "id": "thepollmine",
-                    "internalName": "SurveyBomb",
+                    "internal_name": "SurveyBomb",
                     "name": "Die Poll Mine",
                     "background": "game_backgrounds/ThePollMine.webp",
                     "path": "games/SurveyBomb",
@@ -2592,7 +2592,7 @@
                 },
                 {
                     "id": "weaponsdrawn",
-                    "internalName": "MurderDetectives",
+                    "internal_name": "MurderDetectives",
                     "name": "Weapons Drawn",
                     "background": "game_backgrounds/WeaponsDrawn.webp",
                     "path": "games/MurderDetectives",
@@ -2754,7 +2754,7 @@
             "games": [
                 {
                     "id": "fibbage4",
-                    "internalName": "Fibbage4",
+                    "internal_name": "Fibbage4",
                     "name": "Fibbage 4",
                     "background": "game_backgrounds/Fibbage4.webp",
                     "path": "games/Fibbage4",
@@ -2795,7 +2795,7 @@
                 },
                 {
                     "id": "roomerang",
-                    "internalName": "MakeFriends",
+                    "internal_name": "MakeFriends",
                     "name": "Roomerang",
                     "background": "game_backgrounds/Roomerang.webp",
                     "path": "games/MakeFriends",
@@ -2836,7 +2836,7 @@
                 },
                 {
                     "id": "junktopia",
-                    "internalName": "AntiqueGame",
+                    "internal_name": "AntiqueGame",
                     "name": "Junktopia",
                     "background": "game_backgrounds/Junktopia.webp",
                     "path": "games/AntiqueGame",
@@ -2877,7 +2877,7 @@
                 },
                 {
                     "id": "nonsensory",
-                    "internalName": "RangeGame",
+                    "internal_name": "RangeGame",
                     "name": "Nonsensory",
                     "background": "game_backgrounds/Nonsensory.webp",
                     "path": "games/RangeGame",
@@ -2919,7 +2919,7 @@
                 },
                 {
                     "id": "quixort",
-                    "internalName": "Lineup",
+                    "internal_name": "Lineup",
                     "name": "Quixort",
                     "background": "game_backgrounds/Quixort.webp",
                     "path": "games/Lineup",
@@ -3079,7 +3079,7 @@
             "games": [
                 {
                     "id": "teeko2",
-                    "internalName": "AwShirt2",
+                    "internal_name": "AwShirt2",
                     "name": "Tee K.O. 2",
                     "background": "game_backgrounds/TeeKO2.jpg",
                     "path": "games/AwShirt2",
@@ -3121,7 +3121,7 @@
                 },
                 {
                     "id": "fixytext",
-                    "internalName": "RiskyText",
+                    "internal_name": "RiskyText",
                     "name": "FixyText",
                     "background": "game_backgrounds/FixyText.jpg",
                     "path": "games/RiskyText",
@@ -3162,7 +3162,7 @@
                 },
                 {
                     "id": "timejinx",
-                    "internalName": "TimeTrivia",
+                    "internal_name": "TimeTrivia",
                     "name": "Timejinx",
                     "background": "game_backgrounds/Timejinx.jpg",
                     "path": "games/TimeTrivia",
@@ -3202,7 +3202,7 @@
                 },
                 {
                     "id": "hypnotorious",
-                    "internalName": "Strangers",
+                    "internal_name": "Strangers",
                     "name": "Hypnotorious",
                     "background": "game_backgrounds/Hypnotorious.jpg",
                     "path": "games/Strangers",
@@ -3244,7 +3244,7 @@
                 },
                 {
                     "id": "dodoremi",
-                    "internalName": "NopusOpus",
+                    "internal_name": "NopusOpus",
                     "name": "Dodo Re Mi",
                     "background": "game_backgrounds/DodoReMi.jpg",
                     "path": "games/NopusOpus",
@@ -3372,7 +3372,7 @@
             "games": [
                 {
                     "id": "quiplash3_starter",
-                    "internalName": "Quiplash3",
+                    "internal_name": "Quiplash3",
                     "name": "Quiplash 3",
                     "background": "game_backgrounds/Quiplash3Starter.jpg",
                     "path": "games/Quiplash3",
@@ -3411,7 +3411,7 @@
                 },
                 {
                     "id": "teeko_starter",
-                    "internalName": "AwShirt",
+                    "internal_name": "AwShirt",
                     "name": "Tee K.O.",
                     "background": "game_backgrounds/TeeKOStarter.jpg",
                     "path": "games/AwShirt",
@@ -3452,7 +3452,7 @@
                 },
                 {
                     "id": "trivia_murder_party_2_starter",
-                    "internalName": "triviadeath2",
+                    "internal_name": "triviadeath2",
                     "name": "Trivia Murder Party 2",
                     "background": "game_backgrounds/TriviaMurderParty2Starter.jpg",
                     "path": "games/triviadeath2",
