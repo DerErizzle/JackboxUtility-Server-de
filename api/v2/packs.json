@@ -1088,16 +1088,16 @@
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
                             "id": "fibbage3_patch",
                             "linked_game": "fibbage3",
                             "name": "Fibbage 3",
-                            "description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Das klassische Fibbage 3 ist derzeit noch Englisch.",
+                            "description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Im klassischen Fibbage 3 sind die Prompts auf Deutsch mit englischer Sprachausgabe.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Das klassische Fibbage 3 ist derzeit noch Englisch.",
+                            "small_description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Im klassischen Fibbage 3 sind die Prompts auf Deutsch mit englischer Sprachausgabe.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
