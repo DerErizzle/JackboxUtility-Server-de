@@ -2567,7 +2567,7 @@
                         "audience": true,
                         "audience_description": "Das Publikum kann gemeinsam mit den Spielern versuchen, die richtigen Türen zu erraten. Außerdem spielen die Spieler im \"Streamer-Modus\" in einem Team gegen das gesamte Publikum.",
                         "stream_friendly": "PLAYABLE",
-                        "stream_friendly_description": "Da es sich um ein Diskussionsspiel handelt, wird empfohlen, dass sich die Spieler sich absprechen können. Beim Spielen auf Streaming-Plattformen wird eher empfohlen, dass das Spielerteam gegen das Publikumsteam im \"Streamer-Modus\" spielt.",
+                        "stream_friendly_description": "Da es sich um ein Diskussionsspiel handelt, wird empfohlen, dass die Spieler sich absprechen können. Beim Spielen auf Streaming-Plattformen wird eher empfohlen, dass das Spielerteam gegen das Publikumsteam im \"Streamer-Modus\" spielt.",
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Dieses Spiel erfordert keine Moderation.",
                         "subtitles": true,
