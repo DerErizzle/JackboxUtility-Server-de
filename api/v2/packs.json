@@ -3495,6 +3495,160 @@
             "background": "backgrounds/jpstarter.jpg"
         },
         {
+            "id": "naughtypack",
+            "name": "The Jackbox Naughty Pack",
+            "description": "Erscheinungsdatum: 2024",
+            "launchers_id": {
+                "steam": "2652000"
+            },
+            "executables": {
+                "windows": "The Jackbox Naughty Pack.exe",
+                "mac": "The Jackbox Naughty Pack.app/Contents/MacOS/The Jackbox Naughty Pack",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/"
+            },
+            "patchs": [],
+            "games": [
+                {
+                    "id": "fakinitanl",
+                    "internal_name": "FakinIt2",
+                    "name": "Fakin' It All Night Long",
+                    "background": "game_backgrounds/FakinItANL.png",
+                    "path": "games/FakinIt2",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 30
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "Das Publikum errät zusammen mit den Spielern, wer der Schwindler ist.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird. Falls erforderlich, wird empfohlen, die Option \"Obszönitäts-Filter\" zu aktivieren.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Welcher Spieler ist der ferkelige Faker?",
+                        "small_description": "Fakin' It kehrt zurück und zwar so richtig. Jeder bekommt eine geheime Aufgabe, außer der Faker, der versucht, nicht aufzufallen. Finde heraus, welcher deiner Freunde der beste Lügner ist …",
+                        "description": "Fakin' It kehrt zurück und zwar so richtig. Jeder bekommt eine geheime Aufgabe, außer der Faker, der versucht, nicht aufzufallen. Finde heraus, welcher deiner Freunde der beste Lügner ist …und so EINIGES mehr! Mit neuen Kategorien wie „Schlimme Finger“ und einem neuen Online-Modus. Wer ist nicht gerne der „Schlimme Finger“ unter Freunden?",
+                        "images": [
+                            "game_images/FakinItANL/FakinItANL-0001.png",
+                            "game_images/FakinItANL/FakinItANL-0002.png",
+                            "game_images/FakinItANL/FakinItANL-0003.png",
+                            "game_images/FakinItANL/FakinItANL-0004.png",
+                            "game_images/FakinItANL/FakinItANL-0005.png",
+                            "game_images/FakinItANL/FakinItANL-0006.png",
+                            "game_images/FakinItANL/FakinItANL-0007.png",
+                            "game_images/FakinItANL/FakinItANL-0008.png"
+                        ],
+                        "tags": [
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "dirtydrawful",
+                    "internal_name": "Drawful3",
+                    "name": "Dirty Drawful",
+                    "background": "game_backgrounds/DirtyDrawful.png",
+                    "path": "games/Drawful3",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "Das Publikum versucht zusammen mit den anderen Spielern die richtige Antwort zu erraten und gibt den Spielern Punkte, wenn sie ihre Titel wählen, und gibt Likes für ihre Lieblingstitel.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird. Falls erforderlich, wird empfohlen, die Option \"Obszönitäts-Filter\" zu aktivieren.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Wie Drawful … nur versaut.",
+                        "small_description": "Es ist Drawful, aber dirty … Es ist Dirty Drawful. Gastgeberin ist die Drawful-Eule, wie du sie noch nie erlebt hast. Wir haben das geliebte Spiel genommen und Aufforderungen hinzugefügt, damit eure Zeichnungen sowohl schrecklich als auch erregend werden.",
+                        "description": "Es ist Drawful, aber dirty … Es ist Dirty Drawful. Gastgeberin ist die Drawful-Eule, wie du sie noch nie erlebt hast. Wir haben das geliebte Spiel genommen und Aufforderungen hinzugefügt, damit eure Zeichnungen sowohl schrecklich als auch erregend werden. Dieses Spiel hat alles: Sex, Drogen, Blasphemie, was immer du willst! Und für Menschen mit Bindungsängsten gibt es den Rückgängig-Button.",
+                        "images": [
+                            "game_images/DirtyDrawful/DirtyDrawful-0001.png",
+                            "game_images/DirtyDrawful/DirtyDrawful-0002.png",
+                            "game_images/DirtyDrawful/DirtyDrawful-0003.png",
+                            "game_images/DirtyDrawful/DirtyDrawful-0004.png",
+                            "game_images/DirtyDrawful/DirtyDrawful-0005.png"
+                        ],
+                        "tags": [
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "letmefinish",
+                    "internal_name": "CAPTCHA",
+                    "name": "Let Me Finish",
+                    "background": "game_backgrounds/LetMeFinish.png",
+                    "path": "games/CAPTCHA",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann abstimmen, welcher der Spieler sie am besten befriedigt hat und dadurch Punkte verteilen.",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Die Spieler müssen untereinander diskutieren. Daher ist es zwingend erforderlich, dass sich die Spieler untereinander hören können.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird. Falls erforderlich, wird empfohlen, die Option \"Obszönitäts-Filter\" zu aktivieren.",
+                        "subtitles": true,
+                        "length": "15 - 25 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Verteidige deine Antworten auf unerhörte Fragen!",
+                        "small_description": "Let Me Finish ist das neue Präsentationsspiel von Jackbox, das die ernsten Fragen ergründet, wie „Wo ist der Hintern des Briefkastens?“ oder „Wie erregt man diese Avocado?“. Hier dürfen alle mal ran!",
+                        "description": "Let Me Finish ist das neue Präsentationsspiel von Jackbox, das die ernsten Fragen ergründet, wie „Wo ist der Hintern des Briefkastens?“ oder „Wie erregt man diese Avocado?“. Hier dürfen alle mal ran!",
+                        "images": [
+                            "game_images/LetMeFinish/LetMeFinish-0001.png",
+                            "game_images/LetMeFinish/LetMeFinish-0002.png",
+                            "game_images/LetMeFinish/LetMeFinish-0003.png",
+                            "game_images/LetMeFinish/LetMeFinish-0004.png",
+                            "game_images/LetMeFinish/LetMeFinish-0005.png"
+                        ],
+                        "tags": [
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jnp.ico",
+            "background": "backgrounds/jnp.jpg"
+        },
+        {
             "id": "fbxl",
             "name": "Fibbage XL",
             "description": "Erscheinungsdatum: 2015",
