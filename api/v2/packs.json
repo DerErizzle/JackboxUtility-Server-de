@@ -92,6 +92,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj2015_patch",
@@ -404,6 +406,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "bombcorp_patch",
@@ -723,6 +727,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "fakinit_patch",
@@ -1046,6 +1052,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "survivetheinternet_patch",
@@ -1370,6 +1378,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj_fullstream_patch",
@@ -1694,6 +1704,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "trivia_murder_party_2_patch",
@@ -2021,6 +2033,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "champdup_patch",
@@ -2346,6 +2360,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "drawful_animate_patch",
@@ -2673,6 +2689,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "fibbage4_patch",
@@ -2998,6 +3016,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-10-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "teeko2_patch",
@@ -3321,6 +3341,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "quiplash3_starter_patch",
@@ -3528,6 +3550,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Naughty-Pack-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "fakinitanl_patch",
@@ -3742,6 +3766,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "fibbagexl_standalone_patch",
@@ -3837,6 +3863,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "quiplash_patch",
@@ -3935,6 +3963,8 @@
                         "version_file": "https://raw.githubusercontent.com/DerErizzle/Quiplash-2-InterLASHional-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "quiplash2interlashional_patch",
@@ -4032,6 +4062,8 @@
                         "version_file": "https://raw.githubusercontent.com/DerErizzle/Drawful-2-German/main/jbg.config.jet",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux","mac"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "drawful_2_patch",
@@ -4129,6 +4161,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/main/config.dat",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj2_patch",
@@ -4223,6 +4257,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/main/config.dat",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj3_patch",
@@ -4317,6 +4353,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/main/config.dat",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkj4_patch",
@@ -4411,6 +4449,8 @@
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-6-German/main/config.dat",
                         "version_property": "buildVersion"
                     },
+                    "supported_platforms": ["windows","linux"],
+                    "supported_launchers" : ["steam","native"],
                     "components": [
                         {
                             "id": "ydkjvol6_patch",
