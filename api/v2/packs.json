@@ -49,6 +49,7 @@
                 "jpp10_de",
                 "jpstarter_de",
                 "naughtypack_de",
+                "surveyscramble_de",
                 "fbxl_de",
                 "quip_de",
                 "quip2int_de",
@@ -3898,6 +3899,115 @@
             ],
             "icon": "jnp.ico",
             "background": "backgrounds/jnp.jpg"
+        },
+        
+        {
+            "id": "surveyscramble",
+            "name": "The Jackbox Survey Sramble",
+            "description": "Erscheinungsdatum: 2024",
+            "launchers_id": {
+                "steam": "2948640"
+            },
+            "executables": {
+                "windows": "The Jackbox Survey Scramble.exe",
+                "mac": "The Jackbox Survey Scramble.app/Contents/MacOS/The Jackbox Survey Scramble",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
+            },
+            "resource_location": {
+                "mac": "The Jackbox Survey Scramble.app/Contents/Resources/macos"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/2948640/The_Jackbox_Survey_Scramble/",
+                "epic": "https://store.epicgames.com/de/p/the-jackbox-survey-scramble-8cfeb4"
+            },
+            "patchs": [
+                {
+                    "id": "surveyscramble_de",
+                    "name": "The Jackbox Survey Sramble",
+                    "small_description": "The Jackbox Survey Sramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "The Jackbox Survey Sramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Survey-Scramble-German/releases/latest/download/The-Jackbox-Survey-Scramble-German.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Survey-Scramble-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
+                    "components": [
+                        {
+                            "id": "surveyscramble_patch",
+                            "linked_game": "surveyscramble",
+                            "name": "The Jackbox Survey Sramble",
+                            "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
+                            "patch_type": {
+                                "game_text": false,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
+            "games": [
+                {
+                    "id": "surveyscramble",
+                    "name": "The Jackbox Survey Sramble",
+                    "background": "game_backgrounds/surveyscramble.png",
+                    "path": "",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 10
+                        },
+                        "playtime": {
+                            "min": 5,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann zusammen mit den Spielern für Begriffe abstimmen.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "CENSORING",
+                        "subtitles": true,
+                        "length": "5 - 15 Minuten",
+                        "type": "VERSUS",
+                        "translation": "NATIVELY_TRANSLATED",
+                        "tagline": "Jackbox hat ein brandneues Party-Erlebnis geschaffen! Mithilfe echter Umfragen von echten Leuten aus der ganzen Welt, verändert The Jackbox Survey Scramble sich ständig anhand der Antworten, die von Spielern wie dir gegeben wurden! Lade Freunde, Familie, Mitarbeiter und Widersacher ein, um herauszufinden, wie sie Fragen wie diese hier beantworten: „In einem Wort, was ist der süßeste Kosename für Hintern?“ oder „In einem Wort, was ist die beste Garnierung für ein Sandwich?“.",
+                        "small_description": "Jackbox hat ein brandneues Party-Erlebnis geschaffen! Mithilfe echter Umfragen von echten Leuten aus der ganzen Welt, verändert The Jackbox Survey Scramble sich ständig anhand der Antworten, die von Spielern wie dir gegeben wurden! Lade Freunde, Familie, Mitarbeiter und Widersacher ein, um herauszufinden, wie sie Fragen wie diese hier beantworten: „In einem Wort, was ist der süßeste Kosename für Hintern?“ oder „In einem Wort, was ist die beste Garnierung für ein Sandwich?“.",
+                        "description": "Jackbox hat ein brandneues Party-Erlebnis geschaffen! Mithilfe echter Umfragen von echten Leuten aus der ganzen Welt, verändert The Jackbox Survey Scramble sich ständig anhand der Antworten, die von Spielern wie dir gegeben wurden! Lade Freunde, Familie, Mitarbeiter und Widersacher ein, um herauszufinden, wie sie Fragen wie diese hier beantworten: „In einem Wort, was ist der süßeste Kosename für Hintern?“ oder „In einem Wort, was ist die beste Garnierung für ein Sandwich?“.",
+                        "images": [
+                            "game_images/SurveyScramble/survey_1_german.png",
+                            "game_images/SurveyScramble/survey_2_german.png",
+                            "game_images/SurveyScramble/survey_3_german.png",
+                            "game_images/SurveyScramble/survey_4_german.png",
+                            "game_images/SurveyScramble/survey_5_german.png"
+                        ],
+                        "tags": [
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "surveyscramble.ico",
+            "background": "backgrounds/surveyscramble.png"
         },
         {
             "id": "fbxl",
