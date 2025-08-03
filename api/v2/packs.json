@@ -92,8 +92,8 @@
                 {
                     "id": "jpp1_de",
                     "name": "Das Jackbox Party Pack",
-                    "small_description": "Alle Spiele haben eine deutsche Text-Übersetzung.",
-                    "description": "Alle Spiele haben eine deutsche Text-Übersetzung.",
+                    "small_description": "Fibbage XL, Drawful und You Don't Know Jack: 2015 haben eine deutsche Sprachausgabe.",
+                    "description": "Alle Spiele haben eine deutsche Text-Übersetzung. Fibbage XL, Drawful und You Don't Know Jack: 2015 haben auch eine deutsche Sprachausgabe.",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/releases/latest/download/The-Jackbox-Party-Pack-1-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -129,15 +129,15 @@
                             "id": "fibbagexl_patch",
                             "linked_game": "fibbagexl",
                             "name": "Fibbage XL",
-                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
+                                "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
@@ -257,9 +257,11 @@
                         "small_description": "Täuscht eure Freunde mit euren Lügen, meidet ihre und findet die Wahrheit.",
                         "description": "Täuscht eure Freunde mit euren Lügen, meidet ihre und findet die Wahrheit.",
                         "images": [
-                            "game_images/FibbageXL/fibbagexl_1.webp",
-                            "game_images/FibbageXL/fibbagexl_2.webp",
-                            "game_images/FibbageXL/fibbagexl_3.webp"
+                            "game_images/FibbageXL/fibbagexl_1.png",
+                            "game_images/FibbageXL/fibbagexl_2.png",
+                            "game_images/FibbageXL/fibbagexl_3.png",
+                            "game_images/FibbageXL/fibbagexl_4.png",
+                            "game_images/FibbageXL/fibbagexl_5.png"
                         ],
                         "tags": [
                             "writing",
@@ -420,8 +422,8 @@
                 {
                     "id": "jpp2_de",
                     "name": "Das Jackbox Party Pack 2",
-                    "small_description": "Bis auf Fibbage 2 sind alle Spiele vollständig auf Deutsch.",
-                    "description": "Bis auf Fibbage 2 sind alle Spiele vollständig auf Deutsch.",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/releases/latest/download/The-Jackbox-Party-Pack-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -472,15 +474,15 @@
                             "id": "fibbage2_patch",
                             "linked_game": "fibbage2",
                             "name": "Fibbage 2",
-                            "description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte größtenteils auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": false,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
@@ -627,10 +629,11 @@
                         "small_description": "Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
                         "description": "Mehr Fibbage! Lügt eure Freunde an, vermeidet ihre Lügen und erkennt die Wahrheit. Los!",
                         "images": [
-                            "game_images/Fibbage2/fibbage2_1.webp",
-                            "game_images/Fibbage2/fibbage2_2.webp",
-                            "game_images/Fibbage2/fibbage2_3.webp",
-                            "game_images/Fibbage2/fibbage2_4.webp"
+                            "game_images/Fibbage2/fibbage2_1.png",
+                            "game_images/Fibbage2/fibbage2_2.png",
+                            "game_images/Fibbage2/fibbage2_3.png",
+                            "game_images/Fibbage2/fibbage2_4.png",
+                            "game_images/Fibbage2/fibbage2_5.png"
                         ],
                         "tags": [
                             "writing",
@@ -1094,8 +1097,8 @@
                 {
                     "id": "jpp4_de",
                     "name": "Das Jackbox Party Pack 4",
-                    "small_description": "Alle Spiele sind vollständig auf Deutsch. Ausnahme: Fibbage 3 hat teilweise noch eine englische Sprachausgabe.",
-                    "description": "Alle Spiele sind vollständig auf Deutsch. Ausnahme: Fibbage 3 hat teilweise noch eine englische Sprachausgabe.",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
                     "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/releases/latest/download/The-Jackbox-Party-Pack-4-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -1161,9 +1164,9 @@
                             "id": "fibbage3_patch",
                             "linked_game": "fibbage3",
                             "name": "Fibbage 3",
-                            "description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Im klassischen Fibbage 3 sind die Prompts auf Deutsch mit englischer Sprachausgabe.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Fibbage 3 Genug von Dir ist vollständig auf Deutsch. Im klassischen Fibbage 3 sind die Prompts auf Deutsch mit englischer Sprachausgabe.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -1343,10 +1346,11 @@
                         "small_description": "Fibbe dich durch ganz neue Fragetypen und dem brandneuen Spielmodus Fibbage: Genug von Dir. Errate komische Fakten über deine Mitspieler!",
                         "description": "Fibbe dich durch ganz neue Fragetypen und dem brandneuen Spielmodus Fibbage: Genug von Dir. Errate komische Fakten über deine Mitspieler!",
                         "images": [
-                            "game_images/Fibbage3/fibbage3_1.webp",
-                            "game_images/Fibbage3/fibbage3_2.webp",
-                            "game_images/Fibbage3/fibbage3_3.webp",
-                            "game_images/Fibbage3/fibbage3_4.webp"
+                            "game_images/Fibbage3/fibbage3_1.png",
+                            "game_images/Fibbage3/fibbage3_2.png",
+                            "game_images/Fibbage3/fibbage3_3.png",
+                            "game_images/Fibbage3/fibbage3_4.png",
+                            "game_images/Fibbage3/fibbage3_5.png"
                         ],
                         "tags": [
                             "writing",
@@ -4033,8 +4037,8 @@
                 {
                     "id": "fbxl_de",
                     "name": "Fibbage XL",
-                    "small_description": "Mit deutscher Text-Übersetzung.",
-                    "description": "Mit deutscher Text-Übersetzung.",
+                    "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                    "description": "Prompts und Sprachausgabe auf Deutsch.",
                     "patch_path": "https://github.com/Team-Gamechanger/Fibbage-XL-German/releases/latest/download/Fibbage-XL-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -4055,9 +4059,9 @@
                             "id": "fibbagexl_standalone_patch",
                             "linked_game": "fibbagexl_standalone",
                             "name": "Fibbage XL",
-                            "description": "Mit deutscher Text-Übersetzung.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Mit deutscher Text-Übersetzung.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
@@ -4097,9 +4101,11 @@
                         "small_description": "Täuscht eure Freunde mit euren Lügen, meidet ihre und findet die Wahrheit.",
                         "description": "Täuscht eure Freunde mit euren Lügen, meidet ihre und findet die Wahrheit.",
                         "images": [
-                            "game_images/FibbageXL/fibbagexl_1.webp",
-                            "game_images/FibbageXL/fibbagexl_2.webp",
-                            "game_images/FibbageXL/fibbagexl_3.webp"
+                            "game_images/FibbageXL/fibbagexl_1.png",
+                            "game_images/FibbageXL/fibbagexl_2.png",
+                            "game_images/FibbageXL/fibbagexl_3.png",
+                            "game_images/FibbageXL/fibbagexl_4.png",
+                            "game_images/FibbageXL/fibbagexl_5.png"
                         ],
                         "tags": [
                             "knowledge",
