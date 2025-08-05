@@ -9,12 +9,12 @@ jobs:
  build:
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v3
+     - uses: actions/checkout@v4
      - uses: dart-lang/setup-dart@v1
      - name: Build blurhash
        working-directory: .github/workflows/blurhash/jackboxutility_blurhash
        run: dart pub get && dart run jackboxutility_blurhash.dart https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/api/v2/packs.json https://raw.githubusercontent.com/DerErizzle/JackboxUtility-Server-de/main/assets
-     - uses: actions/upload-artifact@v3
+     - uses: actions/upload-artifact@v4
        with:
           name: blurHashes.json
           path: .github/workflows/blurhash/jackboxutility_blurhash/out/blurHashes.json
