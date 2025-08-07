@@ -260,8 +260,7 @@
                             "game_images/FibbageXL/fibbagexl_1.png",
                             "game_images/FibbageXL/fibbagexl_2.png",
                             "game_images/FibbageXL/fibbagexl_3.png",
-                            "game_images/FibbageXL/fibbagexl_4.png",
-                            "game_images/FibbageXL/fibbagexl_5.png"
+                            "game_images/FibbageXL/fibbagexl_4.png"
                         ],
                         "tags": [
                             "writing",
@@ -3307,7 +3306,7 @@
                         "audience": true,
                         "audience_description": "Das Publikum kann über die lustigsten Wörter abstimmen.",
                         "stream_friendly": "PLAYABLE",
-                        "moderation": "NO_MODERATION",
+                        "moderation": "FULL_MODERATION",
                         "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, welche Textnachrichten auf dem Bildschirm angezeigt werden. Während der Live-Eingabe werden statt dem Echtzeit-Text auf dem Bildschirm Fragezeichen angezeigt.",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
@@ -3453,6 +3452,237 @@
             ],
             "icon": "jpp10.ico",
             "background": "backgrounds/jpp10.jpg"
+        },
+        {
+            "id": "jpp11",
+            "name": "The Jackbox Party Pack 11",
+            "description": "Erscheinungsdatum: 2025",
+            "launchers_id": {
+                "steam": "3364070"
+            },
+            "executables": {
+                "windows": "The Jackbox Party Pack 11.exe",
+                "mac": "The Jackbox Party Pack 11.app/Contents/MacOS/The Jackbox Party Pack 11",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "launcher_version_file": {
+                    "steam": "jbg.config.jet",
+                    "native": "jbg.config.jet"
+                }
+            },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 11.app/Contents/Resources/macos"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/"
+            },
+            "patchs": [],
+            "games": [
+                {
+                    "id": "doominate",
+                    "internal_name": "YouRuinedIt",
+                    "name": "Doominate",
+                    "background": "game_backgrounds/Doominate.png",
+                    "path": "games/YouRuinedIt",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann für seine Favoriten abstimmen.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "The game where it feels so good... to be bad",
+                        "small_description": "The game where it feels so good... to be bad",
+                        "description": "The game where it feels so good... to be bad",
+                        "images": [
+                            "game_images/Doominate/Doominate-0001.jpeg",
+                            "game_images/Doominate/Doominate-0002.jpeg",
+                            "game_images/Doominate/Doominate-0003.jpeg",
+                            "game_images/Doominate/Doominate-0004.jpeg",
+                            "game_images/Doominate/Doominate-0005.jpeg"
+                        ],
+                        "tags": [
+                            "writing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "legendsoftrivia",
+                    "internal_name": "TriviaRPG",
+                    "name": "Legends of Trivia",
+                    "background": "game_backgrounds/LegendsofTrivia.png",
+                    "path": "games/TriviaRPG",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 6
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 30
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
+                        "subtitles": true,
+                        "length": "20 - 30 Minuten",
+                        "type": "TEAM",
+                        "translation": "ENGLISH",
+                        "tagline": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
+                        "small_description": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
+                        "description": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
+                        "images": [
+                            "game_images/LegendsofTrivia/LegensofTrivia-0001.png"
+                        ],
+                        "tags": [
+                            "knowledge",
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "hearsay",
+                    "internal_name": "MicGame",
+                    "name": "Hear Say",
+                    "background": "game_backgrounds/HearSay.png",
+                    "path": "games/MicGame",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Da die Spieler Geräusche aufnehmen, wird empfohlen, nicht mit fremden Spielern zu spielen.",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Make a weird sound, get a weirder video. It's showtime!",
+                        "small_description": "Make a weird sound, get a weirder video. It's showtime!",
+                        "description": "Make a weird sound, get a weirder video. It's showtime!",
+                        "images": [
+                            "game_images/HearSay/Hearsay-0001.png",
+                            "game_images/HearSay/Hearsay-0002.png",
+                            "game_images/HearSay/Hearsay-0003.png",
+                            "game_images/HearSay/Hearsay-0004.png",
+                            "game_images/HearSay/Hearsay-0005.png"
+                        ],
+                        "tags": [
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "cookiehaus",
+                    "internal_name": "CookiesGame",
+                    "name": "Cookie Haus",
+                    "background": "game_backgrounds/CookieHaus.png",
+                    "path": "games/CookiesGame",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Bake it 'til you make it. The icing is your only hope!",
+                        "small_description": "Bake it 'til you make it. The icing is your only hope!",
+                        "description": "Bake it 'til you make it. The icing is your only hope!",
+                        "images": [
+                            "game_images/CookieHaus/CookieHaus-0001.png",
+                            "game_images/CookieHaus/CookieHaus-0002.png",
+                            "game_images/CookieHaus/CookieHaus-0003.png",
+                            "game_images/CookieHaus/CookieHaus-0004.png",
+                            "game_images/CookieHaus/CookieHaus-0005.png"
+                        ],
+                        "tags": [
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "suspectives",
+                    "internal_name": "DirtyDetectives",
+                    "name": "Suspectives",
+                    "background": "game_backgrounds/Suspectives.png",
+                    "path": "games/DirtyDetectives",
+                    "game_info": {
+                        "players": {
+                            "min": 4,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "FAMILY_FRIENDLY",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Zu Beginn jedes Songs gibt es eine Synchronisation, sodass die Streamverzögerung automatisch herausgerechnet wird.",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Study the evidence, question fellow player, and find the criminal!",
+                        "small_description": "Study the evidence, question fellow player, and find the criminal!",
+                        "description": "Study the evidence, question fellow player, and find the criminal!",
+                        "images": [
+                            "game_images/Suspectives/Suspectives-0001.png"
+                        ],
+                        "tags": [
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jpp11.ico",
+            "background": "backgrounds/jpp11.jpg"
         },
         {
             "id": "jpstarter",
@@ -4104,8 +4334,7 @@
                             "game_images/FibbageXL/fibbagexl_1.png",
                             "game_images/FibbageXL/fibbagexl_2.png",
                             "game_images/FibbageXL/fibbagexl_3.png",
-                            "game_images/FibbageXL/fibbagexl_4.png",
-                            "game_images/FibbageXL/fibbagexl_5.png"
+                            "game_images/FibbageXL/fibbagexl_4.png"
                         ],
                         "tags": [
                             "knowledge",
