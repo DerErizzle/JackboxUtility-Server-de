@@ -47,6 +47,7 @@
                 "jpp8_de",
                 "jpp9_de",
                 "jpp10_de",
+                "jpp11_de",
                 "jpstarter_de",
                 "naughtypack_de",
                 "surveyscramble_de",
@@ -2143,7 +2144,7 @@
                             "linked_game": "champdup",
                             "name": "Champ'd Up",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2158,7 +2159,7 @@
                             "linked_game": "talkingpoints",
                             "name": "Talking Points",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2173,7 +2174,7 @@
                             "linked_game": "thedevilsandthedetails",
                             "name": "Die Teufel im Detail",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg\nSynchronregie: Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin (Marvj13), AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg\nSynchronregie: Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin (Marvj13), AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2203,7 +2204,7 @@
                             "linked_game": "blatherround",
                             "name": "Blather 'Round",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, BlackSheep, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, BlackSheep, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2484,7 +2485,7 @@
                             "linked_game": "drawful_animate",
                             "name": "Drawful Animate",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2499,7 +2500,7 @@
                             "linked_game": "the_wheel_of_enormous_proportions",
                             "name": "Das Rad von unglaublicher Größe",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Julius Busch, Bonon\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Julius Busch, Bonon\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2514,7 +2515,7 @@
                             "linked_game": "jobjob",
                             "name": "Job Job",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Cptpichu, Maximilian Frank\nDeutsche Stimme: Kimi Meidowski\nSonstige Stimmen: Géraldine Hohmann, PilzPassi\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Cptpichu, Maximilian Frank\nDeutsche Stimme: Kimi Meidowski\nSonstige Stimmen: Géraldine Hohmann, PilzPassi\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2529,7 +2530,7 @@
                             "linked_game": "thepollmine",
                             "name": "Die Poll Mine",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Vanessa Strauch\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Vanessa Strauch\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2544,7 +2545,7 @@
                             "linked_game": "weaponsdrawn",
                             "name": "Weapons Drawn",
                             "description": "Prompts und Sprachausgabe auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: TheDarkSid3r, Erizzle",
+                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
                             "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3477,7 +3478,106 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/"
             },
-            "patchs": [],
+            "patchs": [
+                {
+                    "id": "jpp11_de",
+                    "name": "Das Jackbox Party Pack 11",
+                    "small_description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
+                    "description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
+                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-11-German",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-11-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "steam",
+                        "native"
+                    ],
+                    "components": [
+                        {
+                            "id": "doominate_patch",
+                            "linked_game": "doominate",
+                            "name": "Doominate",
+                            "description": "Prompts und Untertitel auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "small_description": "Prompts und Untertitel auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "legendsoftrivia_patch",
+                            "linked_game": "legendsoftrivia",
+                            "name": "Legends of Trivia",
+                            "description": "Prompts und Untertitel auf Deutsch.",
+                            "authors": "Projektleitung: Maximilian Frank\nÜbersetzung: Maximilian Frank",
+                            "small_description": "Prompts und Untertitel auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "hearsay_patch",
+                            "linked_game": "hearsay",
+                            "name": "Hear Say",
+                            "description": "Vollständig auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "small_description": "Vollständig auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "cookiehaus_patch",
+                            "linked_game": "cookiehaus",
+                            "name": "Cookie Haus",
+                            "description": "Prompts und Untertitel auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "small_description": "Prompts und Untertitel auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        },
+                        {
+                            "id": "suspectives_patch",
+                            "linked_game": "suspectives",
+                            "name": "Suspectives",
+                            "description": "Prompts und Untertitel auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "small_description": "Prompts und Untertitel auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": false
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "doominate",
@@ -3503,7 +3603,7 @@
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "The game where it feels so good... to be bad",
                         "small_description": "The game where it feels so good... to be bad",
                         "description": "The game where it feels so good... to be bad",
@@ -3537,14 +3637,14 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "audience_description": "Das Publikum kann die Spieler oder Gegner durch Würfeln heilen.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
                         "subtitles": true,
                         "length": "20 - 30 Minuten",
                         "type": "TEAM",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
                         "small_description": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
                         "description": "Grab your sword, spellbook and trove of useless knowledge... adventure awaits!",
@@ -3575,14 +3675,14 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "audience_description": "Das Publikum kann mit abstimmen und die Minispiele in den Unterbrechungen mitmachen.",
                         "stream_friendly": "PLAYABLE",
                         "stream_friendly_description": "Da die Spieler Geräusche aufnehmen, wird empfohlen, nicht mit fremden Spielern zu spielen.",
                         "moderation": "FULL_MODERATION",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Make a weird sound, get a weirder video. It's showtime!",
                         "small_description": "Make a weird sound, get a weirder video. It's showtime!",
                         "description": "Make a weird sound, get a weirder video. It's showtime!",
@@ -3616,14 +3716,14 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "audience_description": "Das Publikum kann für die besten Kekse abstimmen.",
                         "stream_friendly": "PLAYABLE",
                         "moderation": "FULL_MODERATION",
                         "moderation_description": "Wenn die Option \"Moderation\" aktiviert ist, können die Mods, die mod.jackbox.de betreten, entscheiden, was auf dem Bildschirm angezeigt wird.",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Bake it 'til you make it. The icing is your only hope!",
                         "small_description": "Bake it 'til you make it. The icing is your only hope!",
                         "description": "Bake it 'til you make it. The icing is your only hope!",
@@ -3657,14 +3757,13 @@
                         },
                         "family_friendly": "FAMILY_FRIENDLY",
                         "audience": true,
-                        "audience_description": "Das Publikum kann bestimmt auch irgendwas.",
+                        "audience_description": "Das Publikum kann ebenfalls mit abstimmen.",
                         "stream_friendly": "PLAYABLE",
-                        "stream_friendly_description": "Zu Beginn jedes Songs gibt es eine Synchronisation, sodass die Streamverzögerung automatisch herausgerechnet wird.",
                         "moderation": "FULL_MODERATION",
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Study the evidence, question fellow player, and find the criminal!",
                         "small_description": "Study the evidence, question fellow player, and find the criminal!",
                         "description": "Study the evidence, question fellow player, and find the criminal!",
