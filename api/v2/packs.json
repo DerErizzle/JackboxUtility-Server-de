@@ -3482,7 +3482,7 @@
                 {
                     "id": "jpp11_de",
                     "name": "Das Jackbox Party Pack 11",
-                    "small_description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
+                    "small_description": "Alle Spiele haben eine einfache deutsche Textübersetzung. (v1)",
                     "description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
                     "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-11-German",
                     "configuration": {
