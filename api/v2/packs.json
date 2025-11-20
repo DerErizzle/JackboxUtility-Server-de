@@ -3484,7 +3484,7 @@
                     "name": "Das Jackbox Party Pack 11",
                     "small_description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
                     "description": "Alle Spiele haben eine einfache deutsche Textübersetzung.",
-                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-11-German/releases/download/latest/The-Jackbox-Party-Pack-11-German.zip",
+                    "patch_path": "https://github.com/Team-Gamechanger/The-Jackbox-Party-Pack-11-German/releases/latest/download/The-Jackbox-Party-Pack-11-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-11-German/main/jbg.config.jet",
