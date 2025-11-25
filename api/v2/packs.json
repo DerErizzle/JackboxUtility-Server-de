@@ -1778,8 +1778,8 @@
                 {
                     "id": "jpp6_de",
                     "name": "Das Jackbox Party Pack 6",
-                    "small_description": "Joke Boat und Drück den Knopf sind vollständig auf Deutsch.",
-                    "description": "Joke Boat und Drück den Knopf sind vollständig auf Deutsch.",
+                    "small_description": "Joke Boat, Drück den Knopf und Dictionarium sind vollständig auf Deutsch.",
+                    "description": "Joke Boat, Drück den Knopf und Dictionarium sind vollständig auf Deutsch.",
                     "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-6-German",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -1845,15 +1845,15 @@
                             "id": "dictionarium_patch",
                             "linked_game": "dictionarium",
                             "name": "Dictionarium",
-                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
                             "authors": "Jackbox Games",
-                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
-                                "game_subtitles": false,
+                                "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
