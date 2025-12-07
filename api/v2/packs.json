@@ -1191,6 +1191,104 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "jpp4_de_epicgames",
+                    "name": "Das Jackbox Party Pack 4 (Epic Games)",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-4-German",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/epicgames/config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "epic",
+                        "native"
+                    ],
+                    "components": [
+                        {
+                            "id": "survivetheinternet_patch",
+                            "linked_game": "survivetheinternet",
+                            "name": "Survive The Internet",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "monsterseekingmonster_patch",
+                            "linked_game": "monsterseekingmonster",
+                            "name": "Monster Seeking Monster",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "bracketeering_patch",
+                            "linked_game": "bracketeering",
+                            "name": "Bracketeering",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "fibbage3_patch",
+                            "linked_game": "fibbage3",
+                            "name": "Fibbage 3",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "civicdoodle_patch",
+                            "linked_game": "civicdoodle",
+                            "name": "Kritzel Witzel",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Team Gamechanger",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": false,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
                 }
             ],
             "games": [
