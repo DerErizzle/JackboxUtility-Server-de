@@ -1197,7 +1197,7 @@
                     "name": "Das Jackbox Party Pack 4 (Epic Games)",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-4-German",
+                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-4-EpicGames-German",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/epicgames/config.jet",
