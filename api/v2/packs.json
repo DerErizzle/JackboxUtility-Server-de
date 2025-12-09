@@ -2752,6 +2752,104 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "jpp8_de_epicgames",
+                    "name": "Das Jackbox Party Pack 8 (Epic Games)",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-8-EpicGames-German",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/epicgames/config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux",
+                        "mac"
+                    ],
+                    "supported_launchers": [
+                        "epic",
+                        "native"
+                    ],
+                    "components": [
+                        {
+                            "id": "drawful_animate_patch",
+                            "linked_game": "drawful_animate",
+                            "name": "Drawful Animate",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "the_wheel_of_enormous_proportions_patch",
+                            "linked_game": "the_wheel_of_enormous_proportions",
+                            "name": "Das Rad von unglaublicher Größe",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Julius Busch, Bonon\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "jobjob_patch",
+                            "linked_game": "jobjob",
+                            "name": "Job Job",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Cptpichu, Maximilian Frank\nDeutsche Stimme: Kimi Meidowski\nSonstige Stimmen: Géraldine Hohmann, PilzPassi\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "thepollmine_patch",
+                            "linked_game": "thepollmine",
+                            "name": "Die Poll Mine",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Vanessa Strauch\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        },
+                        {
+                            "id": "weaponsdrawn_patch",
+                            "linked_game": "weaponsdrawn",
+                            "name": "Weapons Drawn",
+                            "description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "small_description": "Prompts und Sprachausgabe auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
                 }
             ],
             "games": [
@@ -3652,7 +3750,8 @@
             "name": "The Jackbox Party Pack 11",
             "description": "Erscheinungsdatum: 2025",
             "launchers_id": {
-                "steam": "3364070"
+                "steam": "3364070",
+                "epic": "2ee25702aebb4fae87bd2d95e92c1487"
             },
             "executables": {
                 "windows": "The Jackbox Party Pack 11.exe",
@@ -3693,6 +3792,7 @@
                     ],
                     "supported_launchers": [
                         "steam",
+                        "epic",
                         "native"
                     ],
                     "components": [
