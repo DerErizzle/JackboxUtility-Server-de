@@ -1,6 +1,13 @@
 {
     "news":[
         {
+            "id":"2025-12-22 12:00:00",
+            "title":"PP11 ab sofort auf Deutsch!",
+            "smallDescription":"Mit vollständiger deutscher Sprachausgabe!",
+            "content":"# Party Pack 11 ist nun vollständig auf Deutsch spielbar!\n\nWir haben hart daran gearbeitet, eine vollständige Lokalisierung für *The Jackbox Party Pack 11* zusammenzustellen. Nun sind wir pünktlich vor Weihnachten und Neujahr fertig geworden. Wir wünschen euch viel Spaß beim Spielen! Falls ihr unsere Arbeit unterstützen möchtet, zieht doch in Betracht, uns einen Kaffee zu spendieren.\n\n<https://ko-fi.com/teamgamechanger>",
+            "image":"news_images/pp11.jpg"
+        },
+        {
             "id":"2023-05-12 12:00:00",
             "title":"YDKJ ab sofort auf Deutsch!",
             "smallDescription":"Das legendäre Quiz-Spiel ist auf Deutsch zurück!",
