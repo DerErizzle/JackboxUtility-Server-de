@@ -4554,9 +4554,9 @@
             "patchs": [
                 {
                     "id": "surveyscramble_de",
-                    "name": "The Jackbox Survey Sramble",
-                    "small_description": "The Jackbox Survey Sramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "description": "The Jackbox Survey Sramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "name": "The Jackbox Survey Scramble",
+                    "small_description": "The Jackbox Survey Scramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
+                    "description": "The Jackbox Survey Scramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Survey-Scramble-German",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -4576,7 +4576,7 @@
                         {
                             "id": "surveyscramble_patch",
                             "linked_game": "surveyscramble",
-                            "name": "The Jackbox Survey Sramble",
+                            "name": "The Jackbox Survey Scramble",
                             "description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
                             "authors": "Team Gamechanger",
                             "small_description": "Dieses Spiel wurde vollständig von Jackbox Games auf Deutsch lokalisiert.",
@@ -4594,7 +4594,7 @@
             "games": [
                 {
                     "id": "surveyscramble",
-                    "name": "The Jackbox Survey Sramble",
+                    "name": "The Jackbox Survey Scramble",
                     "background": "game_backgrounds/surveyscramble.png",
                     "path": "",
                     "game_info": {
