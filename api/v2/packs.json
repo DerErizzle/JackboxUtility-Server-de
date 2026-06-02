@@ -1876,8 +1876,8 @@
                 {
                     "id": "jpp6_de",
                     "name": "Das Jackbox Party Pack 6",
-                    "small_description": "Joke Boat, Drück den Knopf und Dictionarium sind vollständig auf Deutsch.",
-                    "description": "Joke Boat, Drück den Knopf und Dictionarium sind vollständig auf Deutsch.",
+                    "small_description": "Joke Boat, Drück den Knopf, Dictionarium und Role Models sind vollständig auf Deutsch.",
+                    "description": "Joke Boat, Drück den Knopf, Dictionarium und Role Models sind vollständig auf Deutsch.",
                     "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-6-German",
                     "configuration": {
                         "version_origin": "repo_file",
