@@ -1913,15 +1913,15 @@
                             "id": "role_models_patch",
                             "linked_game": "role_models",
                             "name": "Role Models",
-                            "description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Prompts auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
-                                "game_assets": false,
-                                "game_subtitles": false,
+                                "game_assets": true,
+                                "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
