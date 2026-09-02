@@ -4077,6 +4077,287 @@
             "background": "backgrounds/jpp11.jpg"
         },
         {
+            "id": "jpp12",
+            "name": "The Jackbox Party Pack 12",
+            "description": "Erscheinungsdatum: 2026",
+            "launchers_id": {
+                "steam": "4199960",
+                "epic": "9294aad1dcf845d5a800f309facae1f1"
+            },
+            "executables": {
+                "windows": "The Jackbox Party Pack 12.exe",
+                "mac": "The Jackbox Party Pack 12.app/Contents/MacOS/The Jackbox Party Pack 12",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet",
+                "version_property": "buildVersion",
+                "launcher_version_file": {
+                    "steam": "jbg.config.jet",
+                    "epic_games": "config.jet",
+                    "native": "jbg.config.jet"
+                }
+            },
+            "resource_location": {
+                "mac": "The Jackbox Party Pack 12.app/Contents/Resources/macos"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/4199960/The_Jackbox_Party_Pack_12/"
+            },
+            "patchs": [],
+            "games": [
+                {
+                    "id": "idolfactions",
+                    "internal_name": "WordProcessing",
+                    "name": "Idol Factions",
+                    "background": "game_backgrounds/IdolFactions.png",
+                    "path": "games/WordProcessing",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minuten",
+                        "type": "TEAM",
+                        "translation": "ENGLISH",
+                        "tagline": "Ein actiongeladener Faktenkampf, bei dem zwei Teams Antworten so schnell wie möglich den richtigen Kategorien zuordnen.",
+                        "small_description": "Ein actiongeladener Faktenkampf, bei dem zwei Teams Antworten so schnell wie möglich den richtigen Kategorien zuordnen.",
+                        "description": "Ein actiongeladener Faktenkampf, bei dem zwei Teams darum wetteifern, Antworten den richtigen Kategorien zuzuordnen. Ihr müsst schnell denken und laut rufen, um die Antworten zu sortieren, die unaufhörlich auf euch zukommen!",
+                        "images": [
+                            "game_images/IdolFactions/IdolFactions-0001.jpg"
+                        ],
+                        "tags": [
+                            "knowledge",
+                            "talking"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "weforgotacard",
+                    "internal_name": "GratingCards",
+                    "name": "We Forgot a Card",
+                    "background": "game_backgrounds/WeforgotaCard.png",
+                    "path": "games/GratingCards",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 20,
+                            "max": 20
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Gestaltet lächerliche Grußkarten für seltsame Anlässe und bestellt sie auf Wunsch sogar im echten Leben.",
+                        "small_description": "Gestaltet lächerliche Grußkarten für seltsame Anlässe und bestellt sie auf Wunsch sogar im echten Leben.",
+                        "description": "In diesem Spiel gestaltet ihr lächerliche Grußkarten für seltsame Anlässe und könnt sie auf Wunsch sogar im echten Leben bestellen. Ihr seid spät dran für euren großen Anlass und seid auf einen Laden mit begrenzter Auswahl gestoßen. Zeit, kreativ zu werden!",
+                        "images": [
+                            "game_images/WeforgotaCard/WeforgotaCard-0001.jpg",
+                            "game_images/WeforgotaCard/WeforgotaCard-0002.jpg",
+                            "game_images/WeforgotaCard/WeforgotaCard-0003.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "debateandswitch",
+                    "internal_name": "Debate",
+                    "name": "Debate and Switch",
+                    "background": "game_backgrounds/DebateandSwitch.png",
+                    "path": "games/Debate",
+                    "game_info": {
+                        "players": {
+                            "min": 2,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Ein Spiel voller Streit und Diskussionen, in dem unbeschwerte Themen auf lebhafte Debatten treffen.",
+                        "small_description": "Ein Spiel voller Streit und Diskussionen, in dem unbeschwerte Themen auf lebhafte Debatten treffen.",
+                        "description": "Bei Debate and Switch dreht sich alles um gewagte Meinungen zu bizarren Szenarien. Die Spieler nehmen an einer Bürgerversammlung teil und reichen zunächst eine alberne Meinung zur Debatte ein. Ihr könntet beispielsweise über „Alle Speisekarten brauchen Fotos vom Essen“ oder „Das Schulmaskottchen sollte wirklich, wirklich gruselig sein“ debattieren. Die Spieler treten gegeneinander an und argumentieren für oder gegen ihr Thema. Währenddessen laufen ihre Mitspieler in Echtzeit von einer Seite des Rathauses zur anderen, um zu zeigen, welcher Position sie zustimmen.\n\nNach der ersten Debattenrunde können alle Spieler die Diskussion verändern, indem sie ein Wort im Thema auswählen und bearbeiten. So könnte aus „Wir brauchen mehr Spinnen!“ etwa „Wir brauchen heißere Spinnen!“ werden. Die Debattierenden müssen schnell umdenken, ihre Argumentation anpassen und die Menge für sich gewinnen.\n\nWenn ihr gerade nicht debattiert, könnt ihr außerdem Kommentare einreichen, die für alle Zuschauer in Sprechblasen erscheinen. Die Debattierenden können eure Sticheleien ignorieren oder sie als Munition für ihre Argumentation verwenden.",
+                        "images": [
+                            "game_images/DebateandSwitch/DebateandSwitch-0001.jpg"
+                        ],
+                        "tags": [
+                            "talking",
+                            "writing"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "megapals",
+                    "internal_name": "MegaFriends",
+                    "name": "MegaPals",
+                    "background": "game_backgrounds/MegaPals.png",
+                    "path": "games/MegaFriends",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Ein gedankenverschmelzendes Spiel, das alte und neue Freundschaften feiert.",
+                        "small_description": "Ein gedankenverschmelzendes Spiel, das alte und neue Freundschaften feiert.",
+                        "description": "Ein gedankenverschmelzendes Spiel, das alte und neue Freundschaften feiert! Findet durch impulsive Wortspiele und explosive Duelle heraus, wie eng ihr mit euren Freunden verbunden seid. Wie gut wisst ihr, was eure Mitspieler denken?",
+                        "images": [
+                            "game_images/MegaPals/MegaPals.jpg"
+                        ],
+                        "tags": [
+                            "writing",
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                },
+                {
+                    "id": "hyperface",
+                    "internal_name": "ReactionGame",
+                    "name": "Hyperface",
+                    "background": "game_backgrounds/Hyperface.png",
+                    "path": "games/ReactionGame",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 15
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "FULL_MODERATION",
+                        "subtitles": true,
+                        "length": "15 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Verzerrt Selfies oder Stockfotos auf wilde Weise, um auf bizarre Vorgaben zu reagieren.",
+                        "small_description": "Verzerrt Selfies oder Stockfotos auf wilde Weise, um auf bizarre Vorgaben zu reagieren.",
+                        "description": "In diesem Spiel nehmt ihr Selfies auf oder verwendet Stockfotos und verzerrt sie auf wilde Weise, um auf bizarre Vorgaben wie „Dein Gesicht, wenn du gerade einen Bären gesehen hast“ zu reagieren. Verschmiert, zerrt und staucht die Fotos oder zeichnet darauf, um einzigartige Meisterwerke zu erschaffen, die geteilt werden wollen!",
+                        "images": [
+                            "game_images/Hyperface/Hyperface-0001.jpg"
+                        ],
+                        "tags": [
+                            "drawing"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "jpp12.ico",
+            "background": "backgrounds/jpp12.jpg"
+        },
+        {
+            "id": "tmp3",
+            "name": "Trivia Murder Party 3",
+            "description": "Erscheinungsdatum: 2026",
+            "launchers_id": {
+                "steam": "3048060"
+            },
+            "executables": {
+                "windows": "TMP3.exe",
+                "mac": "Trivia Murder Party 3.app/Contents/MacOS/TMP3",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_origin": "game_file",
+                "version_file": "config.dat",
+                "version_property": "buildVersion"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/3048060/Trivia_Murder_Party_3/",
+                "epic": "https://store.epicgames.com/en-US/p/trivia-murder-party-518ad2"
+            },
+            "patchs": [],
+            "games": [
+                {
+                    "id": "trivia_murder_party_3",
+                    "name": "Trivia Murder Party 3",
+                    "background": "game_backgrounds/TriviaMurderParty3.png",
+                    "path": "",
+                    "game_info": {
+                        "players": {
+                            "min": 1,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 15,
+                            "max": 20
+                        },
+                        "family_friendly": "NOT_FAMILY_FRIENDLY",
+                        "audience": true,
+                        "stream_friendly": "PLAYABLE",
+                        "moderation": "NO_MODERATION",
+                        "subtitles": true,
+                        "length": "15 - 20 Minuten",
+                        "type": "VERSUS",
+                        "translation": "ENGLISH",
+                        "tagline": "Dein liebster quizbesessener Serienmörder und Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien!",
+                        "small_description": "Dein liebster quizbesessener Serienmörder und Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien!",
+                        "description": "Der allseits beliebte Serienmörder und quizbesessene Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien! Schnapp dir deinen Schlafsack und mach dich bereit, Camp Mass Acres in einem Sommer zu überleben, den du nie vergessen wirst.\n\n**Online-Spielersuche**\n\nZum ersten Mal in der Geschichte von Jackbox bietet Trivia Murder Party 3 eine Online-Spielersuche, mit der du mit alten und neuen Freunden spielen kannst! Also schnapp dir ein paar Marshmallows, entzünde ein gemütliches Lagerfeuer und kämpfe in Gruppen von bis zu acht Spielern um dein Leben.\n\n**Lokaler Mehrspielermodus und Einzelspiel**\n\n[ZENSIERT] weiß, dass Online-Spiele nicht jedem Camper gefallen. Deshalb gibt es in Trivia Murder Party 3 weiterhin lokale Spielmodi mit den klassischen Jackbox-Raumcodes. Egal, ob du mit einem anderen Camper oder einer Gruppe von bis zu acht Personen spielst: Ihr könnt vom Sofa, einem Etagenbett oder dem Kofferraum des Jeeps eines Serienmörders aus gemeinsam in dieselbe Partie einsteigen.\n\n**Mehr Quizfragen und neue Minispiele**\n\nTrivia Murder Party 3 bietet mehr Quizfragen als Trivia Murder Party oder Trivia Murder Party 2! [ZENSIERT] hat außerdem einige aufregende neue Möglichkeiten ausgeheckt, die Spieler in seinem Sommercamp mit neuen Minispielen auf dem Killing Floor zu bestrafen. Dazu kommen überarbeitete und aufgefrischte Minispiele aus den bisherigen Teilen der Reihe.\n\nWirst du Camp Mass Acres entkommen oder zu einer weiteren Geistergeschichte werden, die man sich am Lagerfeuer erzählt?",
+                        "images": [
+                            "game_images/TriviaMurderParty3/TMP3-0001.jpg",
+                            "game_images/TriviaMurderParty3/TMP3-0002.jpg",
+                            "game_images/TriviaMurderParty3/TMP3-0003.jpg",
+                            "game_images/TriviaMurderParty3/TMP3-0004.jpg",
+                            "game_images/TriviaMurderParty3/TMP3-0005.jpg"
+                        ],
+                        "tags": [
+                            "knowledge"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "tmp3.ico",
+            "background": "backgrounds/tmp3.jpg"
+        },
+        {
             "id": "jpstarter",
             "name": "The Jackbox Party Starter",
             "description": "Erscheinungsdatum: 2022",
