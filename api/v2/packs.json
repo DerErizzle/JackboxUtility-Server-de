@@ -96,7 +96,7 @@
                     "name": "Das Jackbox Party Pack",
                     "small_description": "Fibbage XL, Drawful und You Don't Know Jack: 2015 haben eine deutsche Sprachausgabe.",
                     "description": "Alle Spiele haben eine deutsche Text-Übersetzung. Fibbage XL, Drawful und You Don't Know Jack: 2015 haben auch eine deutsche Sprachausgabe.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-1-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-1-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-1-German/main/jbg.config.jet",
@@ -425,7 +425,7 @@
                     "name": "Das Jackbox Party Pack 2",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-2-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-2-German/main/jbg.config.jet",
@@ -761,7 +761,7 @@
                     "name": "Das Jackbox Party Pack 3",
                     "small_description": "Trivia Murder Party, Guesspionage und Fakin' It sind vollständig auf Deutsch.",
                     "description": "Trivia Murder Party, Guesspionage und Fakin' It sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-3-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-3-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-3-German/main/jbg.config.jet",
@@ -1100,7 +1100,7 @@
                     "name": "Das Jackbox Party Pack 4",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-4-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-4-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/main/jbg.config.jet",
@@ -1198,7 +1198,7 @@
                     "name": "Das Jackbox Party Pack 4 (Epic Games)",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-4-EpicGames-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-4-EpicGames-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-4-German/epicgames/config.jet",
@@ -1539,7 +1539,7 @@
                     "name": "Das Jackbox Party Pack 5",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-5-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-5-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-5-German/main/jbg.config.jet",
@@ -1879,7 +1879,7 @@
                     "name": "Das Jackbox Party Pack 6",
                     "small_description": "Joke Boat, Drück den Knopf, Dictionarium und Role Models sind vollständig auf Deutsch.",
                     "description": "Joke Boat, Drück den Knopf, Dictionarium und Role Models sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-6-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-6-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-6-German/main/jbg.config.jet",
@@ -2222,7 +2222,7 @@
                     "name": "Das Jackbox Party Pack 7",
                     "small_description": "Bis auf Quiplash 3 sind alle Spiele vollständig auf Deutsch.",
                     "description": "Bis auf Quiplash 3 sind alle Spiele vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-7-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-7-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/main/jbg.config.jet",
@@ -2320,7 +2320,7 @@
                     "name": "Das Jackbox Party Pack 7 (Epic Games)",
                     "small_description": "Bis auf Quiplash 3 sind alle Spiele vollständig auf Deutsch.",
                     "description": "Bis auf Quiplash 3 sind alle Spiele vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-7-EpicGames-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-7-EpicGames-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-7-German/epicgames/config.jet",
@@ -2661,7 +2661,7 @@
                     "name": "Das Jackbox Party Pack 8",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-8-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-8-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/main/jbg.config.jet",
@@ -2759,7 +2759,7 @@
                     "name": "Das Jackbox Party Pack 8 (Epic Games)",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-8-EpicGames-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-8-EpicGames-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-8-German/epicgames/config.jet",
@@ -3102,7 +3102,7 @@
                     "name": "Das Jackbox Party Pack 9",
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-9-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-9-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-9-German/main/jbg.config.jet",
@@ -3443,7 +3443,7 @@
                     "name": "Das Jackbox Party Pack 10",
                     "small_description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Dieses Party Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-10-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-10-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-10-German/main/jbg.config.jet",
@@ -3780,7 +3780,7 @@
                     "name": "Das Jackbox Party Pack 11",
                     "small_description": "Alle Spiele sind vollständig auf Deutsch.",
                     "description": "Alle Spiele sind vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Pack-11-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-11-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Pack-11-German/main/jbg.config.jet",
@@ -4320,7 +4320,7 @@
                     "name": "Trivia Murder Party 3",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/Trivia-Murder-Party-3-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Trivia-Murder-Party-3-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Trivia-Murder-Party-3-German/main/config.dat",
@@ -4435,7 +4435,7 @@
                     "name": "Der Jackbox Party Starter",
                     "small_description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Der Jackbox Party Starter wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Party-Starter-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Starter-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Party-Starter-German/main/jbg.config.jet",
@@ -4653,7 +4653,7 @@
                     "name": "Das Jackbox Naughty Pack",
                     "small_description": "Das Jackbox Naughty Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Das Jackbox Naughty Pack wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Naughty-Pack-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Naughty-Pack-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Naughty-Pack-German/main/jbg.config.jet",
@@ -4879,7 +4879,7 @@
                     "name": "The Jackbox Survey Scramble",
                     "small_description": "The Jackbox Survey Scramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "The Jackbox Survey Scramble wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/The-Jackbox-Survey-Scramble-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Survey-Scramble-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/The-Jackbox-Survey-Scramble-German/main/jbg.config.jet",
@@ -4983,7 +4983,7 @@
                     "name": "Fibbage XL",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/Fibbage-XL-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Fibbage-XL-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fibbage-XL-German/main/jbg.config.jet",
@@ -5090,7 +5090,7 @@
                     "name": "Quiplash",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/Quiplash-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Quiplash-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Quiplash-German/main/jbg.config.jet",
@@ -5199,7 +5199,7 @@
                     "name": "Quiplash 2 InterLASHional",
                     "small_description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Quiplash 2 InterLASHional wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/Quiplash-2-InterLASHional-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Quiplash-2-InterLASHional-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/DerErizzle/Quiplash-2-InterLASHional-German/main/jbg.config.jet",
@@ -5307,7 +5307,7 @@
                     "name": "Drawful 2",
                     "small_description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
                     "description": "Drawful 2 wurde von Jackbox Games selber auf Deutsch lokalisiert. Dieser Patch ändert lediglich die Webseite im Spiel zu unserem eigenen Controller (jackbox.de).",
-                    "patch_path": "https://go.jackboxpatch.de/Drawful-2-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Drawful-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/DerErizzle/Drawful-2-German/main/jbg.config.jet",
@@ -5412,7 +5412,7 @@
                     "name": "YOU DON'T KNOW JACK VOL. 2",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/YOU-DONT-KNOW-JACK-2-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/YOU-DONT-KNOW-JACK-2-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-2-German/main/config.dat",
@@ -5513,7 +5513,7 @@
                     "name": "YOU DON'T KNOW JACK VOL. 3",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/YOU-DONT-KNOW-JACK-3-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/YOU-DONT-KNOW-JACK-3-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-3-German/main/config.dat",
@@ -5614,7 +5614,7 @@
                     "name": "YOU DON'T KNOW JACK VOL. 4",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/YOU-DONT-KNOW-JACK-4-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/YOU-DONT-KNOW-JACK-4-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-4-German/main/config.dat",
@@ -5716,7 +5716,7 @@
                     "name": "YOU DON'T KNOW JACK VOL. 6 The Lost Gold",
                     "small_description": "Vollständig auf Deutsch.",
                     "description": "Vollständig auf Deutsch.",
-                    "patch_path": "https://go.jackboxpatch.de/YOU-DONT-KNOW-JACK-6-German",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/YOU-DONT-KNOW-JACK-6-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
                         "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/YOU-DONT-KNOW-JACK-6-German/main/config.dat",
