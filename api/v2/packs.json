@@ -4332,7 +4332,8 @@
                         "online_service_url": "https://api.jackboxpatch.de/arcade"
                     },
                     "supported_platforms": [
-                        "windows"
+                        "windows",
+                        "linux"
                     ],
                     "supported_launchers": [
                         "steam"
