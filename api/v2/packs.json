@@ -4365,7 +4365,7 @@
                     "path": "",
                     "game_info": {
                         "players": {
-                            "min": 1,
+                            "min": 2,
                             "max": 8
                         },
                         "playtime": {
@@ -4379,7 +4379,7 @@
                         "subtitles": true,
                         "length": "15 - 20 Minuten",
                         "type": "VERSUS",
-                        "translation": "ENGLISH",
+                        "translation": "COMMUNITY_TRANSLATED",
                         "tagline": "Dein liebster quizbesessener Serienmörder und Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien!",
                         "small_description": "Dein liebster quizbesessener Serienmörder und Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien!",
                         "description": "Der allseits beliebte Serienmörder und quizbesessene Gameshow-Moderator ist zurück und eröffnet ein Sommercamp voller Quizfragen, Mord und Aktivitäten im Freien! Schnapp dir deinen Schlafsack und mach dich bereit, Camp Mass Acres in einem Sommer zu überleben, den du nie vergessen wirst.\n\n**Online-Spielersuche**\n\nZum ersten Mal in der Geschichte von Jackbox bietet Trivia Murder Party 3 eine Online-Spielersuche, mit der du mit alten und neuen Freunden spielen kannst! Also schnapp dir ein paar Marshmallows, entzünde ein gemütliches Lagerfeuer und kämpfe in Gruppen von bis zu acht Spielern um dein Leben.\n\n**Lokaler Mehrspielermodus und Einzelspiel**\n\n[ZENSIERT] weiß, dass Online-Spiele nicht jedem Camper gefallen. Deshalb gibt es in Trivia Murder Party 3 weiterhin lokale Spielmodi mit den klassischen Jackbox-Raumcodes. Egal, ob du mit einem anderen Camper oder einer Gruppe von bis zu acht Personen spielst: Ihr könnt vom Sofa, einem Etagenbett oder dem Kofferraum des Jeeps eines Serienmörders aus gemeinsam in dieselbe Partie einsteigen.\n\n**Mehr Quizfragen und neue Minispiele**\n\nTrivia Murder Party 3 bietet mehr Quizfragen als Trivia Murder Party oder Trivia Murder Party 2! [ZENSIERT] hat außerdem einige aufregende neue Möglichkeiten ausgeheckt, die Spieler in seinem Sommercamp mit neuen Minispielen auf dem Killing Floor zu bestrafen. Dazu kommen überarbeitete und aufgefrischte Minispiele aus den bisherigen Teilen der Reihe.\n\nWirst du Camp Mass Acres entkommen oder zu einer weiteren Geistergeschichte werden, die man sich am Lagerfeuer erzählt?",
