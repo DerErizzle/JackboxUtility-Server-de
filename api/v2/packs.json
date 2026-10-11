@@ -4111,8 +4111,8 @@
                 {
                     "id": "jpp12_de",
                     "name": "Das Jackbox Party Pack 12",
-                    "small_description": "Alle Spiele haben eine deutsche Text-Übersetzung. Sprachausgabe auf Englisch.",
-                    "description": "Alle Spiele haben eine deutsche Text-Übersetzung. Sprachausgabe auf Englisch.",
+                    "small_description": "Alle Spiele bis auf \"Uns fehlt 'ne Karte\" sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele bis auf \"Uns fehlt 'ne Karte\" sind vollständig auf Deutsch.",
                     "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-12-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -4134,15 +4134,15 @@
                             "id": "idolfactions_patch",
                             "linked_game": "idolfactions",
                             "name": "Idol Factions",
-                            "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
@@ -4164,45 +4164,45 @@
                             "id": "debateandswitch_patch",
                             "linked_game": "debateandswitch",
                             "name": "Debate and Switch",
-                            "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
                             "id": "megapals_patch",
                             "linked_game": "megapals",
                             "name": "MegaPals",
-                            "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
                             "id": "hyperface_patch",
                             "linked_game": "hyperface",
                             "name": "Hyperface",
-                            "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Team Gamechanger",
-                            "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         }
                     ]
