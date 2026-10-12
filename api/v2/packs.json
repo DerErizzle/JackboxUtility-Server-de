@@ -133,7 +133,7 @@
                             "linked_game": "fibbagexl",
                             "name": "Fibbage XL",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -447,7 +447,7 @@
                             "linked_game": "bombcorp",
                             "name": "Bomb Corp.",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimmen: Pascal Schuster als Gregor, Lara Schmidt als Michaela, Malte Janßen als Alter Mann, Susanna Cuda als Linda, myFLASHware als Kevin, David Scheele als Roboter, Fabian Zänker als Bruno der Hund\nSonstige Stimmen: Julius Busch und Reaperette als Aushilfen\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: AndrewOxton",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimmen: Pascal Schuster als Gregor, Lara Schmidt als Michaela, Malte Janßen als Alter Mann, Susanna Cuda als Linda, myFLASHware als Kevin, David Scheele als Roboter, Fabian Zänker als Bruno der Hund\nSonstige Stimmen: Julius Busch und Reaperette als Aushilfen\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: AndrewOxton\nAnimationen: Maximilian Frank, Erizzle",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -477,7 +477,7 @@
                             "linked_game": "fibbage2",
                             "name": "Fibbage 2",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSonstige Stimmen: Julius Busch (Bumper)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSonstige Stimmen: Julius Busch (Bumper)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -492,7 +492,7 @@
                             "linked_game": "earwax",
                             "name": "Earwax",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Steffster1904, Erizzle\nDeutsche Stimme: Marc Erkens als M.U.T.T.E.R\nSonstige Stimmen: Lara Schmidt, Captain Quint, Adrian Ebert, Anna Willamowius, Emil Dörnte, Jannes Töpperwien, Leona Timm, Maximilian Frank, Niklas Beer\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Steffster1904, Erizzle\nDeutsche Stimme: Marc Erkens als M.U.T.T.E.R\nSonstige Stimmen: Lara Schmidt, Captain Quint, Adrian Ebert, Anna Willamowius, Emil Dörnte, Jannes Töpperwien, Leona Timm, Maximilian Frank, Niklas Beer\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -507,7 +507,7 @@
                             "linked_game": "bidiots",
                             "name": "Bidiots",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: SpooX, N03N3R6Y, Erizzle\nDeutsche Stimme: Jan Winnenberg als Moderator\nSonstige Stimmen: Reaperette, Joachim Hesse, Marc Erkens, Marcel Kapke, EinfachElmo, Schl4fy, Jan Abraham, Pascal Schuster, Murdo\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle, Garnet\nGrafiken: AndrewOxton, Just a Yoshi\nZUSÄTZLICHE KOMPOSITION: TheSoundbar\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: SpooX, N03N3R6Y, Erizzle\nDeutsche Stimme: Jan Winnenberg als Moderator\nSonstige Stimmen: Reaperette, Joachim Hesse, Marc Erkens, Marcel Kapke, EinfachElmo, Schl4fy, Jan Abraham, Pascal Schuster, Murdo\nSynchronregie: Benedict Matysik, Jonas Wiedehage, Erizzle\nDialogbuch: Erizzle, Garnet\nGrafiken: AndrewOxton, Just a Yoshi\nZusätzliche Komposition: TheSoundbar\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -783,7 +783,7 @@
                             "linked_game": "fakinit",
                             "name": "Fakin' It",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, N03N3R6Y\nDeutsche Stimme: Pascal Schuster\nSynchronregie: Pascal Schuster\nDialogbuch: Pascal Schuster\nGrafiken: Erizzle\nAnimationen: Erizzle\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, N03N3R6Y, EPEffects\nDeutsche Stimme: Pascal Schuster\nSynchronregie: Pascal Schuster\nDialogbuch: Pascal Schuster\nGrafiken: Erizzle\nAnimationen: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -813,7 +813,7 @@
                             "linked_game": "triviamurderparty",
                             "name": "Trivia Murder Party",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Just a Yoshi, Lucas Böttger, Ebcx92, Maximilian Frank\nDeutsche Stimme: Erizzle als ZENSIERT\nSonstige Stimmen: Malte Janßen als komischer Nachbar\nSynchronregie: Erizzle\nCredits-Song: Michael Kaiser (Vocals), Erizzle (Lyrics & Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Just a Yoshi, Ash Böttger, Ebcx92, Maximilian Frank\nDeutsche Stimme: Erizzle als ZENSIERT\nSonstige Stimmen: Malte Janßen als komischer Nachbar\nSynchronregie: Erizzle\nCredits-Song: Michael Kaiser (Vocals), Erizzle (Lyrics & Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -843,7 +843,7 @@
                             "linked_game": "guesspionage",
                             "name": "Guesspionage",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Ebcx92, Cedrik Pleßmann\nDeutsche Stimme: Vincent Fallow als Moderator\nSonstige Stimmen: Malte Janßen, Melanie Ziegler, PilzPassi, Lara Schmidt, EinfachEddi, DrGaslight, ItsMinefail, David Scheele, SnowSoulAngel, brankerl, Bernhard Wangler, Reaperette, Erizzle\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: UnrulyJuli3\nAnimationen: Maximilian Frank\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Ebcx92, Cedrik Pleßmann\nDeutsche Stimme: Vincent Fallow als Moderator\nSonstige Stimmen: Malte Janßen, Melanie Ziegler, PilzPassi, Lara Schmidt, Einfach Eddi, DrGaslight, ItsMinefail, David Scheele, SnowSoulAngel, brankerl, Bernhard Wangler, Reaperette, Erizzle\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: UnrulyJuli3\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1122,7 +1122,7 @@
                             "linked_game": "survivetheinternet",
                             "name": "Survive The Internet",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, Erizzle\nDeutsche Stimme: Captain Quint als Moderator\nSonstige Stimmen: Kevin Dorissen als PartyMasterHD\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, Erizzle\nDeutsche Stimme: Captain Quint als Moderator\nSonstige Stimmen: Kevin Dorissen als PartyMasterHD\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1137,7 +1137,7 @@
                             "linked_game": "monsterseekingmonster",
                             "name": "Monster Seeking Monster",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Garnet, Erizzle, BuzZoiD, Rocket55, SteffoSpieler\nDeutsche Stimme: Garnet als Gary\nSonstige Stimmen: Julius Busch als Ansager-Stimme\nSynchronregie: Erizzle\nLetzte-Nacht-Song: Julius Busch (Vocals & Mix), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Garnet, Erizzle, BuzZoiD, Rocket55, SteffoSpieler\nDeutsche Stimme: Garnet als Gary\nSonstige Stimmen: Julius Busch als Ansager-Stimme\nSynchronregie: Erizzle\nCredits-Song: Julius Busch (Vocals), Einfach Eddi (Vocals), Rotar (Mix), Maximilian Frank (Lyrics), Erizzle (Lyrics)\nLetzte-Nacht-Song: Julius Busch (Vocals & Mix), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1152,7 +1152,7 @@
                             "linked_game": "bracketeering",
                             "name": "Bracketeering",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Henryk Fast, Lara Schmidt, Erizzle\nDeutsche Stimme: PilzPassi\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Marvin (Marvj13)\nQualitätssicherung: Maximilian Frank, Valeria Gergert",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1167,7 +1167,7 @@
                             "linked_game": "fibbage3",
                             "name": "Fibbage 3",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT\nDeutsche Stimme: Hannes Mix als Cookie\nSonstige Stimmen: Julius Busch (Bumper), Pascal Schuster (Countdown)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: AndrewOxton, FixedFun",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, DJJayT\nDeutsche Stimme: Hannes Mix als Cookie\nSonstige Stimmen: Julius Busch (Bumper), Pascal Schuster (Countdown)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: AndrewOxton, Erizzle, FixedFun",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1220,7 +1220,7 @@
                             "linked_game": "survivetheinternet",
                             "name": "Survive The Internet",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, Erizzle\nDeutsche Stimme: Captain Quint als Moderator\nSonstige Stimmen: Kevin Dorissen als PartyMasterHD\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Ebcx92, Erizzle\nDeutsche Stimme: Captain Quint als Moderator\nSonstige Stimmen: Kevin Dorissen als PartyMasterHD\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1235,7 +1235,7 @@
                             "linked_game": "monsterseekingmonster",
                             "name": "Monster Seeking Monster",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Garnet, Erizzle, BuzZoiD, Rocket55, SteffoSpieler\nDeutsche Stimme: Garnet als Gary\nSonstige Stimmen: Julius Busch als Ansager-Stimme\nSynchronregie: Erizzle\nLetzte-Nacht-Song: Julius Busch (Vocals & Mix), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Garnet, Erizzle, BuzZoiD, Rocket55, SteffoSpieler\nDeutsche Stimme: Garnet als Gary\nSonstige Stimmen: Julius Busch als Ansager-Stimme\nSynchronregie: Erizzle\nCredits-Song: Julius Busch (Vocals), Einfach Eddi (Vocals), Rotar (Mix), Maximilian Frank (Lyrics), Erizzle (Lyrics)\nLetzte-Nacht-Song: Julius Busch (Vocals & Mix), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1250,7 +1250,7 @@
                             "linked_game": "bracketeering",
                             "name": "Bracketeering",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Henryk Fast, Lara Schmidt, Erizzle\nDeutsche Stimme: PilzPassi\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Marvin (Marvj13)\nQualitätssicherung: Maximilian Frank, Valeria Gergert",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1265,7 +1265,7 @@
                             "linked_game": "fibbage3",
                             "name": "Fibbage 3",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT\nDeutsche Stimme: Hannes Mix als Cookie\nSonstige Stimmen: Julius Busch (Bumper), Pascal Schuster (Countdown)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: AndrewOxton, FixedFun",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, DJJayT\nDeutsche Stimme: Hannes Mix als Cookie\nSonstige Stimmen: Julius Busch (Bumper), Pascal Schuster (Countdown)\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: AndrewOxton, Erizzle, FixedFun",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1561,7 +1561,7 @@
                             "linked_game": "ydkj_fullstream",
                             "name": "YDKJ: Full Stream",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle, Pascal Schuster\nAutoren: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Lucas Böttger\nZusätzliche Autoren: Meik Schulz, Moritz Ehrt, Cedrik Pleßmann, Just a Yoshi\nAudio-Leitung: Erizzle\nDeutsche Stimmen: Marco Rosenberg als Jack, Vanessa Strauch als Stimme von Binjpipe\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank, Pascal Schuster\nGrafiken: Axel Prudlo, FixedFun, UnrulyJuli3\nEngineering: Lukas Störzenhofecker, Pascal Schuster, UnrulyJuli3\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Erizzle\nSänger: Klara und Bernhard Wangler\nSonstige Stimmen: Malte Janßen als Alter Mann, Pascal Spielvogel als Schmitty, Santiago Ziesmer als SpongeBob Schwammkopf, Kaya Yanar als Kaya Yanar, Christian Solmecke als Christian Solmecke\nWerbungen: Adrian Ebert, Anna Willamowius, Aquamaui, Aziz Büyükkömürcü, Bettina Gartenmann, Bonon, Chikun, Clym, DitoMido, Eileen Fuhrmann, EinfachEddi, Elmonaut, Emil Dörnte, Erizzle, Fabian Zänker, FulltimeGames, Honey Hanni, Jan Winnenberg, Jannes Töpperwien, Julius Busch, Kai Schallenberg, Lara Schmidt, Ledvina, Leona Timm, Malte Janßen, Marco Rosenberg, Maximilian Frank, Mr_Marzy, myFLASHware, Niklas Beer, Nini_Jay, Pascal Schuster, Pascal Spielvogel, Reaperette, Santiago Ziesmer, SpankTB, Susanna Cuda, Tobias Heinen, Vanessa Strauch\nTechnische Unterstützung: SpooX",
+                            "authors": "Projektleitung: Erizzle, Pascal Schuster\nAutoren: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Ash Böttger\nZusätzliche Autoren: Meik Schulz, Moritz Ehrt, Cedrik Pleßmann, Just a Yoshi\nAudio-Leitung: Erizzle\nDeutsche Stimmen: Marco Rosenberg als Jack, Vanessa Strauch als Stimme von Binjpipe\nSonstige Stimmen: Malte Janßen als Alter Mann, Pascal Spielvogel als Schmitty, Santiago Ziesmer als SpongeBob Schwammkopf, Kaya Yanar als Kaya Yanar, Christian Solmecke als Christian Solmecke\nSynchronregie: Erizzle, Pascal Schuster\nDialogbuch: Erizzle, Maximilian Frank, Pascal Schuster\nGrafiken: AndrewOxton, FixedFun, UnrulyJuli3\nEngineering: Lukas Störzenhofecker, Pascal Schuster, UnrulyJuli3\nQualitätssicherung: Ash Böttger\nVorschauvideo: Erizzle\nTechnische Unterstützung: SpooX\nSänger: Klara und Bernhard Wangler, Magic Music\nWerbungen: Adrian Ebert, Anna Willamowius, Aquamaui, Aziz Büyükkömürcü, Bettina Gartenmann, Bonon, Chikun, Clym, DitoMido, Eileen Fuhrmann, Einfach Eddi, Elmonaut, Emil Dörnte, Erizzle, Fabian Zänker, FulltimeGames, Hannes Mix, Honey Hanni, Jan Winnenberg, Jannes Töpperwien, Julius Busch, Kai Schallenberg, Lara Schmidt, Ledvina, Leona Timm, Malte Janßen, Marco Rosenberg, Maximilian Frank, Mr_Marzy, myFLASHware, Niklas Beer, Nini_Jay, Pascal Schuster, Pascal Spielvogel, Reaperette, Santiago Ziesmer, SpankTB, Susanna Cuda, Tobias Heinen, Vanessa Strauch\nOldies Radio: Alexandra \"Tamara\" Engelhard, Julia Dorn, Kathrin Dorn, Carla Tobisch, Markus Busjan, Johannes Deny, Uli Eberle, Julian Sattich, Carsten Arnold, Sandra Buthmann, Elke Krieg, Christian Leibold, Andreas Mokros, Peter Oberstein, Hans Schneck",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1576,7 +1576,7 @@
                             "linked_game": "mad_verse_city",
                             "name": "Mad Verse City",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, BurgerWeeze, Meme Cree, EinfachEddi, Wallendo, Babbe, Tschlompf, Uschan deLucca\nDeutsche Stimme: EinfachEddi als Shadow Master MC\nSynchronregie: DrGaslight, Förster, Erizzle\nCredits-Song: EinfachEddi (Vocals & Lyrics), DrGaslight (Adlibs), Förster (Mix)\nDialogbuch: EinfachEddi\nGrafiken: marblepoppins, wazer01, AndrewOxton\nNews-Ticker: Der Postillon\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, BurgerWeeze, Meme Cree, Einfach Eddi, Wallendo, Babbe, Tschlompf, Uschan deLucca\nDeutsche Stimme: Einfach Eddi als Shadow Master MC\nSynchronregie: DrGaslight, Förster, Erizzle\nCredits-Song: Einfach Eddi (Vocals & Lyrics), DrGaslight (Vocals), Förster (Mix)\nDialogbuch: Einfach Eddi\nGrafiken: marblepoppins, wazer01, AndrewOxton, Maximilian Frank\nNews-Ticker: Der Postillon\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1591,7 +1591,7 @@
                             "linked_game": "zeeple_dome",
                             "name": "Zeeple Dome",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Maximilian Frank, Lucas Böttger\nÜbersetzung: Maximilian Frank, Lucas Böttger, Erizzle\nDeutsche Stimme: Chikun als Chi K 'Naget\nSonstige Stimmen: PilzPassi\nSynchronregie: Maximilian Frank, Erizzle\nDialogbuch: Maximilian Frank, Lucas Böttger",
+                            "authors": "Projektleitung: Maximilian Frank, Ash Böttger\nÜbersetzung: Maximilian Frank, Ash Böttger, Erizzle\nDeutsche Stimme: Chikun als Chi K 'Naget\nSonstige Stimmen: PilzPassi\nSynchronregie: Maximilian Frank, Erizzle\nDialogbuch: Maximilian Frank, Ash Böttger",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1606,7 +1606,7 @@
                             "linked_game": "splittheroom",
                             "name": "Split the Room",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank, Lucas Böttger, Johannes Höhmann, David Scheele, N03N3R6Y, Litatus\nDeutsche Stimme: David Scheele als Moderator\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Erizzle\nTechnische Unterstützung: SpooX",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank, Ash Böttger, Johannes Höhmann, David Scheele, N03N3R6Y, Litatus\nDeutsche Stimme: David Scheele als Moderator\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Erizzle\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1621,7 +1621,7 @@
                             "linked_game": "patentlystupid",
                             "name": "Patently Stupid",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Ebcx92\nDeutsche Stimmen: Lara als Lara, Captain Quint als Louis\nSonstige Stimmen: PilzPassi, Vincent Fallow, Erizzle, Fero, Reaperette\nSynchronregie: Erizzle\nCredits-Song: PilzPassi (Vocals)\nDialogbuch: Erizzle\nGrafiken: Erizzle, Tobias Heinen, Andrew (BurAndBY), AndrewOxton, Marvin (Marvj13)\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Ebcx92\nDeutsche Stimmen: Lara als Lara, Captain Quint als Louis\nSonstige Stimmen: PilzPassi, Vincent Fallow, Erizzle, Fero, Reaperette\nSynchronregie: Erizzle\nCredits-Song: PilzPassi (Vocals)\nDialogbuch: Erizzle\nGrafiken: Erizzle, Tobias Heinen, Andrew (BurAndBY), AndrewOxton, Marvin (Marvj13)\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1916,7 +1916,7 @@
                             "linked_game": "role_models",
                             "name": "Role Models",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle, Paul Hufnagel\nÜbersetzung: Paul Hufnagel, Moritz Ehrt, Meik Schulz, Erizzle, Maximilian Frank, Shortchen, Henryk Fast, Just a Yoshi, GamerSaint, Lucas Böttger\nDeutsche Stimme: Sarah Elghadi als Moderatorin\nSonstige Stimmen: Pascal Schuster als Countdown\nSynchronregie: Erizzle\nDialogbuch: Paul Hufnagel, Erizzle, Maximilian Frank\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle, Paul Hufnagel\nÜbersetzung: Paul Hufnagel, Moritz Ehrt, Meik Schulz, Erizzle, Maximilian Frank, Shortchen, Henryk Fast, Just a Yoshi, GamerSaint, Ash Böttger\nDeutsche Stimme: Sarah Elghadi als Moderatorin\nSonstige Stimmen: Pascal Schuster als Countdown\nSynchronregie: Erizzle\nDialogbuch: Paul Hufnagel, Erizzle, Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1931,7 +1931,7 @@
                             "linked_game": "jokeboat",
                             "name": "Joke Boat",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Uschan deLucca, Erizzle\nDeutsche Stimme: Captain Quint als Captain Chuck\nSynchronregie: Erizzle\nCredits-Song: Captain Quint (Vocals), Just a Yoshi (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle, Uschan deLucca\nGrafiken: AndrewOxton, Maximilian Frank, Erizzle\nVorschauvideo: Just a Yoshi",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Uschan deLucca, Erizzle\nDeutsche Stimme: Captain Quint als Captain Chuck\nSynchronregie: Erizzle\nCredits-Song: Captain Quint (Vocals), Just a Yoshi (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle, Uschan deLucca\nGrafiken: AndrewOxton, Maximilian Frank, Erizzle\nAnimationen: FixedFun\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1946,7 +1946,7 @@
                             "linked_game": "dictionarium",
                             "name": "Dictionarium",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Jackbox Games",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Paul Hufnagel, Erizzle\nDeutsche Stimme: Nisdede als Moderatorin\nSynchronregie: Erizzle\nCredits-Song: Eileen Fuhrmann (Vocals), Julius Busch (Vocals), Erizzle (Lyrics & Mix), Chikun (Lyrics), Maximilian Frank (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: AndrewOxton\nAnimationen: Maximilian Frank",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -1961,7 +1961,7 @@
                             "linked_game": "pushthebutton",
                             "name": "Drück den Knopf",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Nesjob, Lucas Böttger\nDeutsche Stimme: Ness Gerung\nSynchronregie: Erizzle\nCredits-Song: Julius Busch (Vocals & Mix), Chikun (Lyrics), Erizzle (Lyrics), Maximilian Frank (Lyrics)\nDialogbuch: Erizzle, Lara Schmidt, Maximilian Frank\nGrafiken: FixedFun, AndrewOxton\nAnimationen: Maximilian Frank\nQualitätssicherung: Lucas Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Nesjob, Ash Böttger\nDeutsche Stimme: Ness Gerung\nSynchronregie: Erizzle\nCredits-Song: Julius Busch (Vocals & Mix), Chikun (Lyrics), Erizzle (Lyrics), Maximilian Frank (Lyrics)\nDialogbuch: Erizzle, Lara Schmidt, Maximilian Frank\nGrafiken: FixedFun, AndrewOxton\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger, Maximilian Frank\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2244,7 +2244,7 @@
                             "linked_game": "champdup",
                             "name": "Champ'd Up",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg als Moderator\nSynchronregie: Benedict Matysik, Erizzle\nCredits-Song: Linus Schneider (Trembling Sky) (Vocals & Mix)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2259,7 +2259,7 @@
                             "linked_game": "talkingpoints",
                             "name": "Talking Points",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt als Moderatorin\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2274,7 +2274,7 @@
                             "linked_game": "thedevilsandthedetails",
                             "name": "Die Teufel im Detail",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg\nSynchronregie: Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin (Marvj13), AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg als Dämonen-Umzugs-Experte\nSynchronregie: Kai Schallenberg, Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin \"Marvj13\", AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2304,7 +2304,7 @@
                             "linked_game": "blatherround",
                             "name": "Blather 'Round",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, BlackSheep, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda als Moderatorin\nSynchronregie: Erizzle\nCredits-Song: Stravana (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Paul Hufnagel, Maximilian Frank\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank, FixedFun\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2342,7 +2342,7 @@
                             "linked_game": "champdup",
                             "name": "Champ'd Up",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg\nSynchronregie: Benedict Matysik, Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: El Alex, FryMaster, Nesjob, Erizzle\nDeutsche Stimme: Jan Winnenberg als Moderator\nSynchronregie: Benedict Matysik, Erizzle\nCredits-Song: Linus Schneider (Trembling Sky) (Vocals & Mix)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2357,7 +2357,7 @@
                             "linked_game": "talkingpoints",
                             "name": "Talking Points",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, El Alex, Iambda\nDeutsche Stimme: Lara Schmidt als Moderatorin\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2372,7 +2372,7 @@
                             "linked_game": "thedevilsandthedetails",
                             "name": "Die Teufel im Detail",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg\nSynchronregie: Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin (Marvj13), AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Maximilian Frank, Erizzle\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Kai Schallenberg als Dämonen-Umzugs-Experte\nSynchronregie: Kai Schallenberg, Erizzle\nCredits- und Introsong: Bernhard und Klara Wangler (Vocals), Just a Yoshi (Lyrics)\nDialogbuch: Maximilian Frank\nGrafiken: Maximilian Frank, Marvin \"Marvj13\", AndrewOxton\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2402,7 +2402,7 @@
                             "linked_game": "blatherround",
                             "name": "Blather 'Round",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, BlackSheep, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Erizzle\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, Paul Hufnagel, Chatan, ItsNiceCraft\nDeutsche Stimme: Susanna Cuda als Moderatorin\nSynchronregie: Erizzle\nCredits-Song: Stravana (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)\nDialogbuch: Paul Hufnagel, Maximilian Frank\nGrafiken: Maximilian Frank\nAnimationen: Maximilian Frank, FixedFun\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2683,7 +2683,7 @@
                             "linked_game": "drawful_animate",
                             "name": "Drawful Animate",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2698,7 +2698,7 @@
                             "linked_game": "the_wheel_of_enormous_proportions",
                             "name": "Das Rad von unglaublicher Größe",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Julius Busch, Bonon\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Pascal Schuster als Ansager, Bonon als Intro-Stimme aus dem Off, Julius Busch als Countdown\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2713,7 +2713,7 @@
                             "linked_game": "jobjob",
                             "name": "Job Job",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Cptpichu, Maximilian Frank\nDeutsche Stimme: Kimi Meidowski\nSonstige Stimmen: Géraldine Hohmann, PilzPassi\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, CptPichu, Maximilian Frank\nDeutsche Stimme: Kimi Mei als M. Bubbles\nSonstige Stimmen: Géraldine Hohmann als Fax-Gerät, PilzPassi als gefeuerter Mitarbeiter\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2728,7 +2728,7 @@
                             "linked_game": "thepollmine",
                             "name": "Die Poll Mine",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Vanessa Strauch\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Stravana als Stravana Havana\nSynchronregie: Erizzle\nCredits-Song: Stravana (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2743,7 +2743,7 @@
                             "linked_game": "weaponsdrawn",
                             "name": "Weapons Drawn",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette als Erzählerin, DitoMido als Lord Tippet\nSonstige Stimmen: Malte Janßen als Alter Mann\nSynchronregie: Erizzle, DitoMido\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2781,7 +2781,7 @@
                             "linked_game": "drawful_animate",
                             "name": "Drawful Animate",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Lara Schmidt\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2796,7 +2796,7 @@
                             "linked_game": "the_wheel_of_enormous_proportions",
                             "name": "Das Rad von unglaublicher Größe",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Julius Busch, Bonon\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Rocket55, Carsten Stephan, Tschlompf\nDeutsche Stimme: Fabian Zänker als Das Rad\nSonstige Stimmen: Pascal Schuster als Ansager, Bonon als Intro-Stimme aus dem Off, Julius Busch als Countdown\nSynchronregie: Erizzle\nCredits-Song: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2811,7 +2811,7 @@
                             "linked_game": "jobjob",
                             "name": "Job Job",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Cptpichu, Maximilian Frank\nDeutsche Stimme: Kimi Meidowski\nSonstige Stimmen: Géraldine Hohmann, PilzPassi\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, CptPichu, Maximilian Frank\nDeutsche Stimme: Kimi Mei als M. Bubbles\nSonstige Stimmen: Géraldine Hohmann als Fax-Gerät, PilzPassi als gefeuerter Mitarbeiter\nSynchronregie: Erizzle\nDialogbuch: Erizzle\nGrafiken: Toukalein\nAnimationen: Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2826,7 +2826,7 @@
                             "linked_game": "thepollmine",
                             "name": "Die Poll Mine",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Vanessa Strauch\nSynchronregie: Erizzle\nCredits-Song: Vanessa Strauch (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Lara Schmidt, Maximilian Frank, Erizzle\nDeutsche Stimme: Stravana als Stravana Havana\nSynchronregie: Erizzle\nCredits-Song: Stravana (Vocals), Garnet (Lyrics), Just a Yoshi (Lyrics), Michael Rende (Mix)\nDialogbuch: Erizzle\nGrafiken: AndrewOxton, Erizzle\nAnimationen: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi\nTechnische Unterstützung: SpooX",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -2841,7 +2841,7 @@
                             "linked_game": "weaponsdrawn",
                             "name": "Weapons Drawn",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette, DitoDesign\nSonstige Stimmen: Malte Janßen\nSynchronregie: Erizzle, DitoDesign\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: BlackSheep\nVorschauvideo: Just a Yoshi\nWeb-Entwicklung: UnrulyJuli3, Erizzle",
+                            "authors": "Projektleitung: Erizzle, Maximilian Frank\nÜbersetzung: Maximilian Frank, Erizzle\nDeutsche Stimmen: Reaperette als Erzählerin, DitoMido als Lord Tippet\nSonstige Stimmen: Malte Janßen als Alter Mann\nSynchronregie: Erizzle, DitoMido\nCredits-Song: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)\nDialogbuch: Maximilian Frank\nQualitätssicherung: Ash Böttger\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3803,7 +3803,7 @@
                             "linked_game": "doominate",
                             "name": "Doominate",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: PilzPassi als Jim Reaper\nSynchronregie: Erizzle, Maximilian Frank\nCredits-Song: Michael Kaiser (Vocals & Mix), Erizzle (Lyrics), Maximilian Frank (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle, Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3818,7 +3818,7 @@
                             "linked_game": "legendsoftrivia",
                             "name": "Legends of Trivia",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Maximilian Frank\nÜbersetzung: Maximilian Frank",
+                            "authors": "Projektleitung: Maximilian Frank\nÜbersetzung: Maximilian Frank\nDeutsche Stimme: Fabian Zänker als Barde\nSonstige Stimmen: Pascal Schuster\nSynchronregie: Erizzle\nCredits-Song: Fabian Zänker (Vocals & Lyrics), PilzPassi (Vocals), Erizzle (Lyrics & Mix), Maximilian Frank (Lyrics), Chikun (Lyrics)\nDialogbuch: Maximilian Frank, Bennet Gehring, Erizzle\nGrafiken: Erizzle, Maximilian Frank\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3833,7 +3833,7 @@
                             "linked_game": "hearsay",
                             "name": "Hear Say",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nSonstige Stimmen: PilzPassi, Kimi Mei, myFLASHware\nSynchronregie: Erizzle\nGrafiken: AndrewOxton, Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3848,7 +3848,7 @@
                             "linked_game": "cookiehaus",
                             "name": "Cookie Haus",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle\nDeutsche Stimme: Kimi Mei als Moonique\nSynchronregie: Erizzle\nCredits-Song: Rotar (Vocals, Mix & Lyrics), Erizzle (Lyrics), Maximilian Frank (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -3863,7 +3863,7 @@
                             "linked_game": "suspectives",
                             "name": "Suspectives",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimmen: Lara Schmidt als Ermittlerin, myFLASHware als Charlie\nSynchronregie: Erizzle\nCredits-Song: Einfach Eddi (Vocals), Reaperette (Vocals), Erizzle (Lyrics & Mix), Maximilian Frank (Lyrics)\nDialogbuch: Erizzle\nGrafiken: Erizzle, Maximilian Frank, AndrewOxton\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4135,7 +4135,7 @@
                             "linked_game": "idolfactions",
                             "name": "Idol Factions",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimmen: PilzPassi, Melle Teich\nSynchronregie: Erizzle\nDialogbuch: Maximilian Frank\nGrafiken: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4150,7 +4150,7 @@
                             "linked_game": "weforgotacard",
                             "name": "Uns fehlt ’ne Karte",
                             "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimme: Ness Gerung\nSonstige Stimmen: Mika Bojovic\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: Erizzle, AndrewOxton\nVorschauvideo: Just a Yoshi",
                             "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4165,7 +4165,7 @@
                             "linked_game": "debateandswitch",
                             "name": "Debate and Switch",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimme: Lara Schmidt\nSonstige Stimmen: Mika Bojovic\nSynchronregie: Erizzle\nDialogbuch: Maximilian Frank\nGrafiken: Erizzle, Maximilian Frank, AndrewOxton\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4180,7 +4180,7 @@
                             "linked_game": "megapals",
                             "name": "MegaPals",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimme: DitoMido\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4195,7 +4195,7 @@
                             "linked_game": "hyperface",
                             "name": "Hyperface",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimme: Rickymainia\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: Erizzle\nVorschauvideo: Just a Yoshi",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -4445,7 +4445,7 @@
                             "linked_game": "trivia_murder_party_3",
                             "name": "Trivia Murder Party 3",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank, Ash Böttger, Just a Yoshi, Shortchen\nDeutsche Stimme: Erizzle als [ZENSIERT]\nSonstige Stimmen: Lara Schmidt als Mutter\nSynchronregie: Erizzle\nDialogbuch: Erizzle, Maximilian Frank, Ash Böttger\nGrafiken: Erizzle, AndrewOxton",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -5106,7 +5106,7 @@
                             "linked_game": "fibbagexl_standalone",
                             "name": "Fibbage XL",
                             "description": "Vollständig auf Deutsch.",
-                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Maximilian Frank, Erizzle, Ash Böttger, DJJayT\nDeutsche Stimme: Hannes Mix\nSynchronregie: Erizzle, Maximilian Frank\nDialogbuch: Maximilian Frank, Erizzle\nGrafiken: Erizzle",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
@@ -5213,7 +5213,7 @@
                             "linked_game": "quiplash",
                             "name": "Quiplash",
                             "description": "",
-                            "authors": "Team Gamechanger",
+                            "authors": "Projektleitung: SpooX\nÜbersetzung: Lukas Störzenhofecker, PilzPassi, N03N3R6Y\nDeutsche Stimme: PilzPassi als Josh “Schmitty” Schmitstinstein\nSynchronregie: PilzPassi\nDialogbuch: PilzPassi\nQualitätssicherung: BlackSheep",
                             "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
