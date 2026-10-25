@@ -4111,8 +4111,8 @@
                 {
                     "id": "jpp12_de",
                     "name": "Das Jackbox Party Pack 12",
-                    "small_description": "Alle Spiele bis auf \"Uns fehlt 'ne Karte\" sind vollständig auf Deutsch.",
-                    "description": "Alle Spiele bis auf \"Uns fehlt 'ne Karte\" sind vollständig auf Deutsch.",
+                    "small_description": "Alle Spiele sind vollständig auf Deutsch.",
+                    "description": "Alle Spiele sind vollständig auf Deutsch.",
                     "patch_path": "https://cdn.jackbox.de/download/utility/The-Jackbox-Party-Pack-12-German.zip",
                     "configuration": {
                         "version_origin": "repo_file",
@@ -4149,15 +4149,15 @@
                             "id": "weforgotacard_patch",
                             "linked_game": "weforgotacard",
                             "name": "Uns fehlt ’ne Karte",
-                            "description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "description": "Vollständig auf Deutsch.",
                             "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Maximilian Frank\nDeutsche Stimme: Ness Gerung\nSonstige Stimmen: Mika Bojovic\nSynchronregie: Erizzle\nCredits-Song: Fabio Lampero (Vocals & Mix), Erizzle (Lyrics), Maximilian Frank (Lyrics), Rotar (Lyrics)\nDialogbuch: Erizzle, Maximilian Frank\nGrafiken: Erizzle, AndrewOxton\nVorschauvideo: Just a Yoshi",
-                            "small_description": "Texte und Untertitel auf Deutsch. Sprachausgabe auf Englisch.",
+                            "small_description": "Vollständig auf Deutsch.",
                             "patch_type": {
                                 "game_text": true,
                                 "game_assets": true,
                                 "game_subtitles": true,
                                 "website": true,
-                                "audios": false
+                                "audios": true
                             }
                         },
                         {
@@ -4300,7 +4300,8 @@
                         },
                         "family_friendly": "OPTIONAL",
                         "audience": true,
-                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly": "MIDLY_PLAYABLE",
+                        "stream_friendly_description": "Die Spieler müssen untereinander diskutieren. Daher ist es zwingend erforderlich, dass sich die Spieler untereinander hören können.",
                         "moderation": "FULL_MODERATION",
                         "subtitles": true,
                         "length": "15 Minuten",
