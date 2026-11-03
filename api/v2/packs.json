@@ -4396,6 +4396,112 @@
             "background": "backgrounds/jpp12.jpg"
         },
         {
+            "id": "fakinitxl",
+            "name": "Fakin’ It XL",
+            "description": "Erscheinungsdatum: 2026",
+            "launchers_id": {
+                "steam": "5054700"
+            },
+            "executables": {
+                "windows": "Fakin It XL.exe",
+                "linux": "Launcher.sh"
+            },
+            "configuration": {
+                "version_property": "buildVersion",
+                "version_origin": "game_file",
+                "version_file": "jbg.config.jet"
+            },
+            "store_links": {
+                "steam": "https://store.steampowered.com/app/5054700/Fakin_It_XL/"
+            },
+            "patchs": [
+                {
+                    "id": "fakinitxl_de",
+                    "name": "Fakin’ It XL",
+                    "small_description": "Vollständig auf Deutsch.",
+                    "description": "Vollständig auf Deutsch.",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Fakin-It-XL-German.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fakin-It-XL-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux"
+                    ],
+                    "supported_launchers": [
+                        "steam"
+                    ],
+                    "components": [
+                        {
+                            "id": "fakinitxl_patch",
+                            "linked_game": "fakinitxl",
+                            "name": "Fakin’ It XL",
+                            "description": "Vollständig auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Pascal Schuster\nDeutsche Stimme: Pascal Schuster\nSynchronregie: Pascal Schuster\nDialogbuch: Erizzle, Pascal Schuster\nGrafiken: Erizzle",
+                            "small_description": "Vollständig auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
+            "games": [
+                {
+                    "id": "fakinitxl",
+                    "internal_name": "FakinItXL",
+                    "name": "Fakin’ It XL",
+                    "background": "game_backgrounds/FakinItXL.jpg",
+                    "path": "games/FakinItXL",
+                    "game_info": {
+                        "players": {
+                            "min": 3,
+                            "max": 8
+                        },
+                        "playtime": {
+                            "min": 25,
+                            "max": 25
+                        },
+                        "family_friendly": "OPTIONAL",
+                        "audience": true,
+                        "audience_description": "Das Publikum kann mitraten, wer der Faker ist.",
+                        "stream_friendly": "PLAYABLE",
+                        "stream_friendly_description": "Im Online-Modus werden die Kategorien für das Spielen per Stream oder Videoanruf angepasst.",
+                        "moderation": "FULL_MODERATION",
+                        "moderation_description": "Die Moderation kann eingegebene Texte prüfen. Zusätzlich lässt sich ein Filter für Spielerinhalte aktivieren.",
+                        "subtitles": true,
+                        "length": "25 Minuten",
+                        "type": "VERSUS",
+                        "translation": "COMMUNITY_TRANSLATED",
+                        "tagline": "Alle kennen die Aufgabe – außer dem Faker! Entlarvt den Hochstapler oder blufft euch unbemerkt durch die Runde.",
+                        "small_description": "Alle kennen die Aufgabe – außer dem Faker! Entlarvt den Hochstapler oder blufft euch unbemerkt durch die Runde.",
+                        "description": "Alle bekommen eine geheime Aufgabe auf ihr Handy – nur der Faker nicht. Hebt die Hand, zeigt auf jemanden oder beantwortet eine Frage. Wer improvisiert nur und versucht, nicht aufzufallen? Stellt einander zur Rede, prüft die Ausreden und entlarvt den Faker!\n\nFakin’ It XL verbindet bekannte Kategorien aus Fakin’ It mit dem überarbeiteten Spielablauf von Fakin’ It All Night Long und neuen Aufgaben. Wählt zu Beginn, ob ihr gemeinsam vor Ort oder online per Stream beziehungsweise Videoanruf spielt. Die Kategorien passen sich an euren Spielmodus an.",
+                        "images": [
+                            "game_images/FakinItXL/FakinItXL-0001.jpg",
+                            "game_images/FakinItXL/FakinItXL-0002.jpg",
+                            "game_images/FakinItXL/FakinItXL-0003.jpg",
+                            "game_images/FakinItXL/FakinItXL-0004.jpg",
+                            "game_images/FakinItXL/FakinItXL-0005.jpg",
+                            "game_images/FakinItXL/FakinItXL-0006.jpg",
+                            "game_images/FakinItXL/FakinItXL-0007.jpg"
+                        ],
+                        "tags": [
+                            "deduction"
+                        ]
+                    },
+                    "patchs": []
+                }
+            ],
+            "icon": "fakinitxl.ico",
+            "background": "backgrounds/fakinitxl.jpg"
+        },
+        {
             "id": "tmp3",
             "name": "Trivia Murder Party 3",
             "description": "Erscheinungsdatum: 2026",
