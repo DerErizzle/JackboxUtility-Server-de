@@ -4414,7 +4414,44 @@
             "store_links": {
                 "steam": "https://store.steampowered.com/app/5054700/Fakin_It_XL/"
             },
-            "patchs": [],
+            "patchs": [
+                {
+                    "id": "fakinitxl_de",
+                    "name": "Fakin’ It XL",
+                    "small_description": "Vollständig auf Deutsch.",
+                    "description": "Vollständig auf Deutsch.",
+                    "patch_path": "https://cdn.jackbox.de/download/utility/Fakin-It-XL-German.zip",
+                    "configuration": {
+                        "version_origin": "repo_file",
+                        "version_file": "https://raw.githubusercontent.com/Team-Gamechanger/Fakin-It-XL-German/main/jbg.config.jet",
+                        "version_property": "buildVersion"
+                    },
+                    "supported_platforms": [
+                        "windows",
+                        "linux"
+                    ],
+                    "supported_launchers": [
+                        "steam"
+                    ],
+                    "components": [
+                        {
+                            "id": "fakinitxl_patch",
+                            "linked_game": "fakinitxl",
+                            "name": "Fakin’ It XL",
+                            "description": "Vollständig auf Deutsch.",
+                            "authors": "Projektleitung: Erizzle\nÜbersetzung: Erizzle, Pascal Schuster\nDeutsche Stimme: Pascal Schuster\nSynchronregie: Pascal Schuster\nDialogbuch: Erizzle, Pascal Schuster\nGrafiken: Erizzle",
+                            "small_description": "Vollständig auf Deutsch.",
+                            "patch_type": {
+                                "game_text": true,
+                                "game_assets": true,
+                                "game_subtitles": true,
+                                "website": true,
+                                "audios": true
+                            }
+                        }
+                    ]
+                }
+            ],
             "games": [
                 {
                     "id": "fakinitxl",
