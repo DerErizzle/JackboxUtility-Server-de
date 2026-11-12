@@ -1,6 +1,13 @@
 {
     "news":[
         {
+            "id":"2026-11-11 12:00:00",
+            "title":"Fakin' It XL auf Deutsch!",
+            "smallDescription":"Mit vollständiger deutscher Sprachausgabe!",
+            "content":"Moderiert wird das Spiel von *Paco*, dem gleichen Moderator wie im Grundspiel aus dem Party Pack 3. Neu dazugekommen in diesem Spiel ist Remoteplay, sodass man auch online spielen kann (statt wie vorher nur im gleichen Raum), haufenweise neuer Content und viele kleinere Verbesserungen! Wir sind froh, dass wir es pünktlich zum Release geschafft haben und wünschen euch viel Spaß beim Spielen! Falls ihr unsere Arbeit unterstützen möchtet, zieht doch in Betracht, uns einen Kaffee zu spendieren.\n\n<https://ko-fi.com/teamgamechanger>",
+            "image":"news_images/fakinitxl.png"
+        },
+        {
             "id":"2025-12-22 12:00:00",
             "title":"TMP3 ab sofort auf Deutsch!",
             "smallDescription":"Mit vollständiger deutscher Sprachausgabe!",
